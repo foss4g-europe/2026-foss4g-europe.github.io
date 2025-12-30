@@ -1,0 +1,858 @@
+######################## default configuration ####################
+baseURL = "https://2025-foss4g-europe.github.io"
+title = "FOSS4G Europe 2025"
+theme = "eventre-hugo"
+# Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+timeZone = "Europe/Sarajevo"
+# post pagination
+#paginate = 6 # see https://gohugo.io/extras/pagination/
+# post excerpt
+summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+#google analytics
+googleAnalytics = "G-L6HC6TV6D0" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+# disqus short name
+disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
+# disable language
+disableLanguages = [
+] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
+hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
+
+
+############################# Build ##############################
+[build]
+noJSConfigInAssets = false
+useResourceCacheWhen = 'fallback'
+[build.buildStats]
+enable = true
+[[build.cachebusters]]
+source = 'assets/.*\.(js|ts|jsx|tsx)'
+target = '(js|scripts|javascript)'
+[[build.cachebusters]]
+source = 'assets/.*\.(css|sass|scss)$'
+target = '(css|styles|scss|sass)'
+[[build.cachebusters]]
+source = 'assets/.*\.(.*)$'
+target = '$1'
+
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS"]
+
+############################# Imaging ##############################
+[imaging]
+# See https://github.com/disintegration/imaging
+# Default JPEG or WebP quality setting. Default is 75.
+quality = 90
+resampleFilter = "lanczos"
+
+############################# Caches ###############################
+[caches]
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+
+############################# Markup ###############################
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/font-awesome/css/all.min.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.min.css"
+attributes = ""
+[[params.plugins.css]]
+link = "plugins/Leaflet.awesome-markers/leaflet.awesome-markers.css"
+attributes = ""
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/mixitup/mixitup.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/magnific-popup/magnific-popup.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/syotimer/syotimer.min.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+attributes = ""
+[[params.plugins.js]]
+link = "plugins/Leaflet.awesome-markers/leaflet.awesome-markers.min.js"
+attributes = ""
+
+[[params.teams]]
+team = "loc"
+link = "loc/"
+title = "Local organizing committee"
+[[params.teams]]
+team = "program-committee"
+link = "program-committee/"
+title = "General program committee"
+[[params.teams]]
+team = "scientific-committee"
+link = "scientific-committee/"
+title = "Scientific committee"
+
+####################### navigation ##########################
+
+# main menu
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+
+## main menu item: About
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 2
+
+  [[menu.main]]
+  parent = "About"
+  name = "Important dates"
+  url = "about/important-dates/"
+  weight = 2
+
+  [[menu.main]]
+  parent = "About"
+  name = "FAQ"
+  url = "about/faq/"
+  weight = 3
+
+  [[menu.main]]
+  parent = "About"
+  name = "Code of Conduct"
+  url = "about/coc/"
+  weight = 4
+
+  [[menu.main]]
+  parent = "About"
+  name = "Organizing committee"
+  url = "loc/"
+  weight = 5
+
+## main menu item: Call for proposals
+[[menu.main]]
+name = "Call for proposals"
+url = "call-for-proposals/"
+weight = 3
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Call for workshops"
+  url = "call-for-proposals/workshops/"
+  weight = 4
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "General Program"
+  url = "call-for-proposals/general-program/"
+  weight = 5
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Academic Program"
+  url = "call-for-proposals/academic-program/"
+  weight = 6
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Map Gallery Submissions"
+  url = "call-for-proposals/map-gallery-submissions/"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Speaker guidelines"
+  url = "call-for-proposals/speaker-guidelines/"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Call for proposals"
+  name = "Session chair guidelines"
+  url = "call-for-proposals/session-chair-guidelines/"
+  weight = 3
+
+## main menu item: Registration
+[[menu.main]]
+name = "Registration"
+url = "registration/"
+weight = 4
+
+  [[menu.main]]
+  weight = 3
+  parent = "Registration"
+  name = "Adopt-a-ticket"
+  url = "registration/adopt-a-ticket/"
+
+  [[menu.main]]
+  weight = 4
+  parent = "Registration"
+  name = "Travel Grant"
+  url = "registration/travel-grant/"
+
+## main menu item: Schedule
+[[menu.main]]
+name = "Schedule"
+url = "schedule/"
+weight = 5
+
+  [[menu.main]]
+    weight = 1
+    parent = "Schedule"
+    name = "Workshops"
+    url = "schedule/workshops/"
+
+  [[menu.main]]
+    weight = 2
+    parent = "Schedule"
+    name = "Talks"
+    url = "schedule/talks/"
+
+  [[menu.main]]
+    weight = 3
+    parent = "Schedule"
+    name = "HOT OSM drone workshop"
+    url = "schedule/hot-drone-mapping-workshop/"
+
+  [[menu.main]]
+    weight = 4
+    parent = "Schedule"
+    name = "Free city tour"
+    url = "schedule/city-tour/"
+
+  [[menu.main]]
+    weight = 5
+    parent = "Schedule"
+    name = "Business-to-business (B2B)"
+    url = "schedule/b2b/"
+
+  [[menu.main]]
+    weight = 6
+    parent = "Schedule"
+    name = "GeoChicas Take Mostar!"
+    url = "schedule/geochicas-take-mostar/"
+
+  [[menu.main]]
+    weight = 7
+    parent = "Schedule"
+    name = "Ice-Breaker"
+    url = "schedule/ice-breaker/"
+
+  [[menu.main]]
+    weight = 8
+    parent = "Schedule"
+    name = "Social Bytes"
+    url = "schedule/social-bytes/"
+
+  [[menu.main]]
+    weight = 9
+    parent = "Schedule"
+    name = "Birds of a Feather (BoF)"
+    url = "schedule/bof/"
+
+  [[menu.main]]
+    weight = 10
+    parent = "Schedule"
+    name = "Community Sprint"
+    url = "schedule/community-sprint/"
+
+  [[menu.main]]
+    weight = 11
+    parent = "Schedule"
+    name = "Excursion"
+    url = "schedule/excursion/"
+
+  [[menu.main]]
+    weight = 12
+    parent = "Schedule"
+    name = "Family friendly activities"
+    url = "schedule/family-friendly-activities/"
+
+  [[menu.main]]
+    weight = 13
+    parent = "Schedule"
+    name = "Pub crawl"
+    url = "schedule/pub-crawl/"
+
+## Main menu item: Sponsors
+[[menu.main]]
+name = "Sponsors"
+url = "sponsors/"
+weight = 6
+hasChildren = true
+
+  [[menu.main]]
+  weight = 2
+  parent = "Sponsors"
+  name = "Our Sponsors and partners"
+  url = "sponsors/"
+
+#  [[menu.main]]
+#    weight = 3
+#    parent = "Sponsors"
+#    name = "Our partners"
+#    url = "partners/"
+
+  [[menu.main]]
+  weight = 4
+  parent = "Sponsors"
+  name = "Call for Sponsors"
+  url = "sponsors/call-for-sponsors/"
+
+## main menu item: Call for proposals
+[[menu.main]]
+name = "Venue"
+url = "venue/"
+weight = 7
+
+  [[menu.main]]
+  parent = "Venue"
+  name = "About venue"
+  url = "venue/about-venue/"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Venue"
+  name = "Getting to Mostar"
+  url = "venue/getting-to-mostar/"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Venue"
+  name = "Accommodation"
+  url = "venue/accommodation/"
+  weight = 3
+
+#  [[menu.main]]
+#  parent = "About"
+#  name = "GDPR"
+#  url = "gdpr/"
+#  weight = 6
+
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "Pricing"
+#  url = "pricing/"
+
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "Schedule"
+#  url = "schedule/"
+
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "Testimonial"
+#  url = "testimonial/"
+
+
+## main menu item: Contact
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 8
+
+
+
+#################### default parameters ################################
+
+[params]
+logo = "images/logo1.png"
+logo_footer = "images/logo1.png"
+logo_width = "100px"
+# Meta data
+description = "The FOSS4G Europe 2026 conference is taking place 14-20 July in the beautiful city of Mostar, Bosnia-Herzegovina."
+author = "Themefisher"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# copyright
+copyright = "FOSS4GE 2025 website contents are made available under [CC0 1.0 Universal](https://github.com/foss4g-europe/2025-foss4g-europe.github.io/blob/main/LICENSE)<br><br>Hugo theme designed by [Themefisher](https://themefisher.com/) & developed by [Gethugothemes](https://gethugothemes.com/)"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = false
+label = "Get your ticket!"
+icon = "images/icon/ticket.png"
+link = "https://pretix.eu/foss4ge2024/tartu/"
+
+# Subscription
+# [params.subscription]
+# enable = true
+# title = "Subscribe to Our Newsletter"
+# content = "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor"
+# mailchimp subsciption
+# mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+# mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+# google map
+[params.map]
+enable = true
+map_latitude = 43.34421
+map_longitude = 17.80118
+map_zoom = 15
+map_marker = "images/marker.png"
+name = ""
+location = "Mostar,<br> Bosnia-Herzegovina."
+email = "info-europe@foss4g.org"
+link = "https://www.openstreetmap.org/way/392840596"
+popupTitleTemplate = "<h5 align=\"center\">{title}</h5>"
+popupAddressTemplate = "<div align=\"center\">Address: {address}</div>"
+popupTemplatePrefix = "<ul>"
+popupTemplate = "<li>{name} ({date})</li>"
+popupTemplateUrlInt = "<li><a href=\"{url}\">{name}</a> ({date})</li>"
+popupTemplateUrlExt = "<li><a href=\"{url}\" target=\"blank\" rel=\"noopener noreferrer\">{name}</a> ({date})</li>"
+popupTemplateSuffix = "</ul>"
+
+[[params.map.icon]]
+type = "fa"
+name = "venue"
+icon = "building-columns"
+markerColor = "#4e9790"
+
+[[params.map.icon]]
+type = "fa"
+name = "social"
+icon = "user-group"
+markerColor = "#4e9790"
+
+[[params.map.icon]]
+type = "fa"
+name = "pubcrawl"
+icon = "martini-glass-empty"
+markerColor = "#4e9790"
+
+[[params.map.icon]]
+type = "fa"
+name = "airport"
+icon = "plane-departure"
+markerColor = "#4e9790"
+
+[[params.map.icon]]
+type = "fa"
+name = "bus"
+icon = "bus"
+markerColor = "#4e9790"
+
+[[params.map.icon]]
+type = "fa"
+name = "train"
+icon = "train"
+markerColor = "#4e9790"
+
+[[params.map.icon]]
+type = "fa"
+name = "familyfirendly"
+icon = "child-reaching"
+markerColor = "#4e9790"
+
+[[params.map.layer]]
+id = 1
+name = "Conference Venues"
+title = "Faculty of Humanities and Social Sciences (P)"
+address = "Matice hrvatske bb"
+location = [43.344106,17.797157]
+icon = "venue"
+events = [
+ {name="Registration desk", date="14 - 18 July"},
+ {name="Workshops", date="14 -15 July", url="./schedule/workshops/"},
+ {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
+ {name="Birds-of-a-feather (BoF)", date="16-17 July", url="./schedule/bof/"},
+ {name="Community sprint", date="19-20 July", url="./schedule/community-sprint/"}
+]
+url = "https://ff.sum.ba/en"
+
+[[params.map.layer]]
+id = 2
+name = "Conference Venues"
+title = "Faculty of Economics (E)"
+address = "Matice hrvatske bb"
+location = [43.344170,17.796403]
+icon = "venue"
+events = [
+ {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
+ {name="Birds-of-a-feather (BoF)", date="16-17 July", url="./schedule/bof/"}
+]
+url = "https://ef.sum.ba/en"
+
+[[params.map.layer]]
+id = 3
+name = "Conference Venues"
+title = "Amphitheatre (S)"
+address = "Matice hrvatske bb"
+location = [43.344128, 17.796726]
+icon = "venue"
+events = [
+ {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
+ {name="Birds-of-a-feather (BoF)", date="16-17 July", url="./schedule/bof/"},
+ {name="Expo Area", date="16 -18 July", url="./sponsors/"}
+]
+url = ""
+
+[[params.map.layer]]
+id = 8
+name = "Conference Venues"
+title = "Hrvatski dom Herceg Stjepan Kosača (KOS)"
+address = "Trg hrvatskih velikana bb"
+img = "images/icon/logo_kosaca.png"
+location = [43.342265, 17.802576]
+icon = "venue"
+events = [
+ {name="Opening and closing sessions", date="16 and 18 July", url="./schedule/talks/"},
+]
+url = "https://kosaca-mostar.com/web/"
+
+[[params.map.layer]]
+id = 11
+name = "Conference Venues"
+title = "Faculty of Civil Engineering, Architecture and Geodesy (C)"
+address = "Matice hrvatske bb"
+location = [43.346468, 17.796709]
+icon = "venue"
+events = [
+  {name="Parallel sessions", date="16-18 July", url="./schedule/talks/"},
+  {name="Birds-of-a-feather (BoF)", date="16-17 July", url="./schedule/bof/"}
+]
+url = "https://fgag.sum.ba/en"
+
+
+[[params.map.layer]]
+id = 27
+name = "Social Events"
+title = "Charlie bar & snack"
+address = "Kralja Petra Krešimira IV 31"
+img="images/icon/charlie.png"
+location = [43.344045, 17.79499]
+icon = "social"
+events = [
+{name="Geochicas take Mostar!", date="15 July", url="./schedule/geochicas-take-mostar/"},
+]
+url = "https://www.instagram.com/charlie.mostar/"
+
+[[params.map.layer]]
+id = 9
+name = "Social Events"
+title = "B2B Del Rio Restaurant"
+address = "Kardinala Stepinca 12"
+img="images/icon/delrio.jpg"
+location = [43.348588,17.810125]
+icon = "social"
+events = [
+  {name="B2B", date="15 July", url="./schedule/b2b/"},
+]
+url = "https://www.edituscitygroup.com/en/grupacija/delrio/"
+
+[[params.map.layer]]
+id = 35
+name = "Social Events"
+title = "Taboo Bar & Restaurant"
+img = "/images/icon/taboo-icon.png"
+address = "Vukovarska bb"
+location = [43.350939,17.797822]
+icon = "social"
+events = [
+  {name="Ice-Breaker", date="16 July", url="./schedule/ice-breaker/"},
+]
+url = "https://taboo.ba/"
+
+[[params.map.layer]]
+id = 10
+name = "Social Events"
+title = "Pavarotti Music Centre"
+address = "Maršala Tita 179"
+img="images/icon/mc_pavarotti_logo.png"
+location = [43.334823, 17.817494]
+icon = "social"
+events = [
+  {name="Social Bytes", date="17 July", url="./schedule/social-bytes/"},
+]
+url = "https://www.mcpavarotti.com/"
+
+[[params.map.layer]]
+id = 28
+name = "Social Events"
+title = "Spanish square"
+address = "Španjolski trg 1"
+location = [43.343114, 17.807355]
+icon = "social"
+events = [
+  {name="Free city tour", date="14 and 15 July", url="./schedule/city-tour/"},
+]
+url = ""
+
+
+[[params.map.layer]]
+id = 4
+name = "Arrival Points"
+title = "Train station"
+address = "Trg Ivana Krndelja 1"
+location = [43.348859,17.813692]
+icon = "train"
+url = "https://www.zfbh.ba/en/"
+
+[[params.map.layer]]
+id = 5
+name = "Arrival Points"
+title = "Airport"
+address = "Ortiješ bb, PP 04"
+location = [43.290246, 17.836097]
+icon = "airport"
+url = "https://mostar-airport.ba/en/"
+
+[[params.map.layer]]
+id = 6
+name = "Arrival Points"
+title = "Main City Bus Station"
+address = "Trg Ivana Krndelja 4"
+location = [43.348444, 17.813522]
+icon = "bus"
+url = "https://autobuskastanicamostar.ba/"
+
+[[params.map.layer]]
+id = 7
+name = "Arrival Points"
+title = "West City Bus Station"
+address = "Vukovarska bb"
+location = [43.351822, 17.798668]
+icon = "bus"
+url = ""
+
+
+[[params.map.layer]]
+id = 20
+name = "Family Friendly Activities"
+title = "Goranci Park"
+img = "/images/icon/goranci.png"
+address = "Goranci"
+location = [43.414369, 17.736504]
+icon = "familyfirendly"
+url = "https://parkgoranci.com/"
+
+[[params.map.layer]]
+id = 21
+name = "Family Friendly Activities"
+title = "Fortica Adventure and Sports Park"
+img = "/images/icon/fortica.png"
+address = "Podveležje"
+location = [43.34878, 17.83107]
+icon = "familyfirendly"
+url = "https://zipline.ba/home/"
+
+[[params.map.layer]]
+id = 22
+name = "Family Friendly Activities"
+title = "Blagaj and the Buna River Spring"
+img = "/images/icon/tekija.png"
+address = "Buna"
+location = [43.257342, 17.90321]
+icon = "familyfirendly"
+url = "https://en.wikipedia.org/wiki/Vrelo_Bune"
+
+[[params.map.layer]]
+id = 23
+name = "Family Friendly Activities"
+title = "Green Park Žitomislići"
+img = "/images/icon/green-park.png"
+address = "Žitomislići"
+location = [43.20657, 17.79004]
+icon = "familyfirendly"
+url = "https://greenpark.ba/"
+
+[[params.map.layer]]
+id = 24
+name = "Family Friendly Activities"
+title = "Etno selo Herceg Međugorje"
+img = "/images/icon/etno_selo.png"
+address = "Tromeđa b.b."
+location = [43.20367, 17.65443]
+icon = "familyfirendly"
+url = "https://etno-herceg.com/en/"
+
+[[params.map.layer]]
+id = 25
+name = "Family Friendly Activities"
+title = "Rujište Mountain Retreat"
+img = "/images/icon/rujiste.png"
+address = "Rujište"
+location = [43.46326, 17.96205]
+icon = "familyfirendly"
+url = "https://www.snjeznakuca.info/"
+
+[[params.map.layer]]
+id = 26
+name = "Family Friendly Activities"
+title = "Hutovo Blato Nature Park"
+img = "/images/icon/hutovo.png"
+address = "Karaotok bb"
+location = [43.06513, 17.75382]
+icon = "familyfirendly"
+url = "https://hutovo-blato.ba/"
+
+[[params.map.layer]]
+id = 29
+name = "Pub Crawl"
+title = "Shankly's Pub"
+img = "/images/icon/shankly.png"
+address = "Dr Ante Starčevića 54"
+location = [43.351608595624235, 17.805046612614976]
+icon = "pubcrawl"
+url = "https://www.facebook.com/shanklys.pub.mostar/"
+
+[[params.map.layer]]
+id = 30
+name = "Pub Crawl"
+title = "Old Crew Gastro Pub"
+img = "/images/icon/oldcrew.png"
+address = "Jusovina 2"
+location = [43.3366917263006, 17.813573025542592]
+icon = "pubcrawl"
+url = "https://www.facebook.com/p/OLD-CREW-Gastro-PUB-Mostar-100083150386448"
+
+[[params.map.layer]]
+id = 31
+name = "Pub Crawl"
+title = "Ali Baba Mostar"
+img = "/images/icon/alibaba.png"
+address = "Jusovina bb"
+location = [43.33770652754076, 17.815783180085294]
+icon = "pubcrawl"
+url = "https://www.facebook.com/alibabagroup.mostar/"
+
+[[params.map.layer]]
+id = 32
+name = "Pub Crawl"
+title = "Beer&Ja Pub"
+img = "/images/icon/beerja.png"
+address = "Kneza Domagoja bb"
+location = [43.34966199605012, 17.805136126109076]
+icon = "pubcrawl"
+url = "https://beertija.com/"
+
+[[params.map.layer]]
+id = 33
+name = "Pub Crawl"
+title = "Gastro Pub Gonzales"
+img = "/images/icon/gonzales.png"
+address = "Bleiburških žrtava 23"
+location = [43.353960293263995, 17.79537918193289]
+icon = "pubcrawl"
+url = "https://gonzales.ba/"
+
+[[params.map.layer]]
+id = 34
+name = "Pub Crawl"
+title = "Von Herzog Mostar"
+img = "/images/icon/vonherzog.png"
+address = "Kralja Tvrtka 26"
+location = [43.3463617, 17.8043965]
+icon = "pubcrawl"
+url = "https://www.instagram.com/von.herzog/"
+
+[[params.map.layer]]
+id = 35
+name = "Conference Venues"
+title = "Student Centre"
+address = "Stjepana Radića 84A"
+location = [43.348166,17.795345]
+icon = "venue"
+events = [
+ {name="Catering", date="14 - 18 July"},
+ {name="Community Sprint", date="19 -20 July", url="./schedule/community-sprint"}
+]
+url = "https://www-scm-ba.translate.goog/?_x_tr_sl=hr&_x_tr_tl=en&_x_tr_hl=hr&_x_tr_pto=wapp"
+
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+############################# social site ########################
+# [[params.social]]
+# title = "facebook"
+# icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+# link = "#"
+
+#[[params.social]]
+#title = "twitter"
+#icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+#link = "https://twitter.com/foss4ge"
+
+[[params.social]]
+title = "rss"
+icon = "fa-solid fa-rss" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "/index.xml"
+
+
+[[params.social]]
+title = "discourse"
+icon = "fa-brands fa-discourse" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://discourse.osgeo.org/t/foss4g-europe-2025/110423/3"
+
+[[params.social]]
+title = "mastodon"
+icon = "fa-brands fa-mastodon" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://fosstodon.org/@foss4geurope"
+
+[[params.social]]
+title = "telegram"
+icon = "fa-brands fa-telegram"
+link = "https://t.me/foss4g_europe"
+
+[[params.social]]
+title = "linkedin"
+icon = "fa-brands fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.linkedin.com/company/foss4g-europe"
+
+[[params.social]]
+title = "github"
+icon = "fa-brands fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://github.com/foss4g-europe/2025-foss4g-europe.github.io"
+
+[[params.social]]
+title = "facebook"
+icon = "fa-brands fa-facebook"
+link = "https://www.facebook.com/foss4ge/"
+
+[[params.social]]
+title = "google-play"
+icon = "fa-brands fa-google-play"
+link = "https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule"
+
+[[params.social]]
+title = "f-droid"
+icon = "fa-brands fa-android"
+link = "https://f-droid.org/en/packages/net.gaast.giggity/"

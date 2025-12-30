@@ -1,0 +1,60 @@
+{{ define "main" }}
+
+<section class="section speakers white">
+	<div class="container">
+		<div>
+			<center>
+			{{ $fileDir := .File.Dir }}
+			{{ range .Site.Params.teams }}
+			  <a href="../{{ .link | safeURL }}"
+			    class="btn btn-primary btn-lg btn-pad{{ if eq $fileDir .link }} disabled{{ end }}">
+			    <span>{{ .title }}</span>
+			  </a>
+      {{ end }}
+			</center>
+		</div>
+		<div class="row">
+			<div class="col-12 section-title">
+        {{.Content}}
+			</div>
+		</div>
+    {{ $pages := where (where site.RegularPages "Type" "team") "Params.includepage" $fileDir }}
+    {{ $pages := $pages | append .Data.Pages }}
+		<div class="row">
+      {{ range $pages }}
+			<div class="col-lg-3 col-md-4 col-sm-6">
+				<!-- Speaker 1 -->
+				<div class="speaker-item">
+					<div class="image speaker-image-round">
+						<img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid">
+						<div class="primary-overlay"></div>
+						<div class="socials">
+							{{ if .Params.social }}
+	            {{ if (gt (.Params.social | len) 0) }}
+							<ul class="list-inline">
+                {{ range first 4 .Params.social }}
+                <li class="list-inline-item"><a href="{{.link | safeURL }}"><i class="fa {{.icon}}"></i></a></li>
+                {{ end }}
+							</ul>
+							{{ end }}
+							{{ end }}
+						</div>
+					</div>
+					<div class="content text-center">
+						{{ if .Params.pretalx }}
+						<h5><a href="{{ .Params.pretalx | safeURL }}" target="blank">{{.Title }}</a></h5>
+						{{ else }}
+						<h5><a href="{{ .Permalink }}">{{.Title }}</a></h5>
+						{{ end }}
+						<p>{{ .Params.Designation | markdownify }}</p>
+					</div>
+				</div>
+      </div>
+      {{ end }}
+		</div>
+	</div>
+</section>
+
+{{ partial "orga.html" $ }}
+
+{{ end }}

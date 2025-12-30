@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local Organizing Committee on FOSS4G Europe 2025</title>
+    <link>http://localhost:49671/loc/</link>
+    <description>Recent content in Local Organizing Committee on FOSS4G Europe 2025</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Feb 2025 09:08:24 +0200</lastBuildDate>
+    <atom:link href="http://localhost:49671/loc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merli Neito</title>
+      <link>http://localhost:49671/loc/merli-neito/</link>
+      <pubDate>Fri, 14 Feb 2025 09:08:24 +0200</pubDate>
+      <guid>http://localhost:49671/loc/merli-neito/</guid>
+      <description>&lt;p&gt;Merli is an alumni of the University of Tartu. She has both BSc &amp;amp; MSc from the&#xA;geography department. She is currently working in the Landscape Geoinformatics&#xA;Lab as a geoinformatics specialist and she happily takes on project management&#xA;related tasks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Marie Annusver</title>
+      <link>http://localhost:49671/loc/marie-annusver/</link>
+      <pubDate>Fri, 29 Nov 2024 09:29:24 +0200</pubDate>
+      <guid>http://localhost:49671/loc/marie-annusver/</guid>
+      <description>&lt;p&gt;I am a master&amp;rsquo;s student at the University of Tartu, majoring in Geography with&#xA;a focus on geoinformatics and cartography. I am very interested in using QGIS&#xA;for spatial analysis and map creation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sidorela Uku</title>
+      <link>http://localhost:49671/loc/sidorela-uku/</link>
+      <pubDate>Tue, 26 Nov 2024 10:04:24 +0200</pubDate>
+      <guid>http://localhost:49671/loc/sidorela-uku/</guid>
+      <description>&lt;p&gt;Sidorela is a mapping/geography enthusiast and advocate for open-source&#xA;technologies. Currently she is pursuing studies on Green Networking and Cloud&#xA;Computing at University of Lorraine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Danko Markovinović</title>
+      <link>http://localhost:49671/loc/danko-markovinovic/</link>
+      <pubDate>Sat, 23 Nov 2024 15:02:24 +0200</pubDate>
+      <guid>http://localhost:49671/loc/danko-markovinovic/</guid>
+      <description>&lt;p&gt;My journey in geodesy began at the Faculty of Geodesy, University of Zagreb, where I&#xA;completed my Bachelor&amp;rsquo;s, Master&amp;rsquo;s, and PhD degrees. I then spent 18 years as a&#xA;faculty member, contributing to research and education in the field. In a pivotal&#xA;moment in my career, I was appointed by the Government of the Republic&#xA;of Croatia as Director of the State Geodetic Administration, where I had the&#xA;opportunity to lead transformative national geospatial projects. Some of the key milestones&#xA;during my tenure included the launch of the State Geodetic Administration Geoportal&#xA;(2012), the NSDI Geoportal (2014), and the implementation of the INSPIRE directive through&#xA;the NSDI Law (2013). I was also responsible for overseeing the development and full implementation&#xA;of the Joint Information System for cadastre and land registry, ensuring free and open&#xA;access to geospatial data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Marko Puljic</title>
+      <link>http://localhost:49671/loc/marko-puljic/</link>
+      <pubDate>Sat, 23 Nov 2024 15:02:24 +0200</pubDate>
+      <guid>http://localhost:49671/loc/marko-puljic/</guid>
+      <description>&lt;p&gt;I’m Marko Puljić, born in Mostar and educated at the Faculty of Economics,&#xA;University of Zagreb. For the last 11 years, I’ve worked with Ecoplan, one of&#xA;the largest consulting companies in Bosnia and Herzegovina specializing in&#xA;spatial planning and urbanism. My background in economics has given me a unique&#xA;lens through which I approach geospatial analysis and planning, combining&#xA;data-driven decision-making with the strategic insights necessary for impactful&#xA;spatial projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tõnis Kärdi</title>
+      <link>http://localhost:49671/loc/tonis-kardi/</link>
+      <pubDate>Thu, 21 Nov 2024 14:40:24 +0200</pubDate>
+      <guid>http://localhost:49671/loc/tonis-kardi/</guid>
+      <description>&lt;p&gt;Tõnis is a freelance GIS/IT consultant from Tartu, Estonia. Integrating spatial&#xA;data and spatial data usage into existing and newborn information systems alike&#xA;is his main focal point of work. And of course, advocating for the adoption of&#xA;FOSS for the purpose along the way.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hamidreza Ostadabbas</title>
+      <link>http://localhost:49671/loc/hamidreza-ostadabbas/</link>
+      <pubDate>Thu, 21 Nov 2024 14:03:24 +0200</pubDate>
+      <guid>http://localhost:49671/loc/hamidreza-ostadabbas/</guid>
+      <description>&lt;p&gt;Hamidreza Ostadabbas, Head of Geoinformatics Department at die STEG&#xA;Stadtentwicklung GmbH in Stuttgart, Germany, has been a GIS software developer&#xA;with the company since 2018. Passionate about open-source tools like QGIS and&#xA;PostgreSQL, he is also a Python Plugin developer. As a university lecturer at&#xA;Stuttgart University, he shares valuable knowledge on Smart, Open Data&#xA;Components and AI to master’s students. Since 2023, he serves as the Deputy&#xA;Young Surveyor of the Council of European Geodetic Surveyors (CLGE).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

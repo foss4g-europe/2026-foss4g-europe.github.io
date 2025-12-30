@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our partners on FOSS4G Europe 2025</title>
+    <link>http://localhost:49671/partners/</link>
+    <description>Recent content in Our partners on FOSS4G Europe 2025</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Mar 2025 14:42:28 +0100</lastBuildDate>
+    <atom:link href="http://localhost:49671/partners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GISWorld-Tech</title>
+      <link>http://localhost:49671/partners/gisworld/</link>
+      <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
+      <guid>http://localhost:49671/partners/gisworld/</guid>
+      <description>&lt;p&gt;Welcome to GISWorld – Your Gateway to Geospatial Excellence! 🌍 Explore QGIS&#xA;software tutorials, Python programming for geospatial projects, and contests in&#xA;geoinformation, geodesy, surveying engineering, remote sensing, city planning,&#xA;and smart city solutions. Plus, catch academic poster and paper presentations&#xA;from top journals.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
