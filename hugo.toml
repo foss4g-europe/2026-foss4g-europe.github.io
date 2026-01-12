@@ -1,9 +1,9 @@
 ######################## default configuration ####################
-baseURL = "https://2025-foss4g-europe.github.io"
-title = "FOSS4G Europe 2025"
+baseURL = "https://2026-foss4g-europe.github.io"
+title = "FOSS4G Europe 2026"
 theme = "eventre-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "Europe/Sarajevo"
+timeZone = "Europe/Bucharest"
 # post pagination
 #paginate = 6 # see https://gohugo.io/extras/pagination/
 # post excerpt
@@ -343,7 +343,7 @@ weight = 7
 
   [[menu.main]]
   parent = "Venue"
-  name = "Getting to Mostar"
+  name = "Getting to Timișoara"
   url = "venue/getting-to-mostar/"
   weight = 2
 
@@ -390,12 +390,12 @@ logo = "images/logo1.png"
 logo_footer = "images/logo1.png"
 logo_width = "100px"
 # Meta data
-description = "The FOSS4G Europe 2026 conference is taking place 14-20 July in the beautiful city of Mostar, Bosnia-Herzegovina."
+description = "The FOSS4G Europe 2026 conference is planned to take place 29 June - 3 July 2026 in Timișoara, Romania."
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "FOSS4GE 2025 website contents are made available under [CC0 1.0 Universal](https://github.com/foss4g-europe/2025-foss4g-europe.github.io/blob/main/LICENSE)<br><br>Hugo theme designed by [Themefisher](https://themefisher.com/) & developed by [Gethugothemes](https://gethugothemes.com/)"
+copyright = "FOSS4GE 2026 website contents are made available under [CC0 1.0 Universal](https://github.com/foss4g-europe/2026-foss4g-europe.github.io/blob/main/LICENSE)<br><br>Hugo theme designed by [Themefisher](https://themefisher.com/) & developed by [Gethugothemes](https://gethugothemes.com/)"
 
 # Preloader
 [params.preloader]
@@ -420,13 +420,13 @@ link = "https://pretix.eu/foss4ge2024/tartu/"
 
 # google map
 [params.map]
-enable = true
-map_latitude = 43.34421
-map_longitude = 17.80118
+enable = false
+map_latitude = 45.759722
+map_longitude = 21.23
 map_zoom = 15
 map_marker = "images/marker.png"
 name = ""
-location = "Mostar,<br> Bosnia-Herzegovina."
+location = "Timișoara,<br> Romania."
 email = "info-europe@foss4g.org"
 link = "https://www.openstreetmap.org/way/392840596"
 popupTitleTemplate = "<h5 align=\"center\">{title}</h5>"
@@ -820,7 +820,7 @@ link = "/index.xml"
 [[params.social]]
 title = "discourse"
 icon = "fa-brands fa-discourse" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://discourse.osgeo.org/t/foss4g-europe-2025/110423/3"
+link = "https://discourse.osgeo.org/"
 
 [[params.social]]
 title = "mastodon"
@@ -840,7 +840,7 @@ link = "https://www.linkedin.com/company/foss4g-europe"
 [[params.social]]
 title = "github"
 icon = "fa-brands fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://github.com/foss4g-europe/2025-foss4g-europe.github.io"
+link = "https://github.com/foss4g-europe/2026-foss4g-europe.github.io"
 
 [[params.social]]
 title = "facebook"

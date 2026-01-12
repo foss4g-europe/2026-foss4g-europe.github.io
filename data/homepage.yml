@@ -3,12 +3,12 @@ banner:
   enable : true
   heading : "FOSS4G Europe 2026"
   heading_2 : "Timișoara, România"
-  content : "14-20 June 2025 Mostar"
+  content : "29 June - 3 July 2026"
   timer:
     enable : false
-    year : 2025
-    month : 7
-    day : 14
+    year : 2026
+    month : 6
+    day : 29
   button:
     enable : false
     label : "Academic track proceedings"
@@ -44,7 +44,7 @@ about:
     and students access to world-class education and insights from global
     experts, all while facilitating networking and knowledge exchange."
   button_solid:
-    enable : true
+    enable : false
     label : "Buy ticket"
     link : "registration/"
   button_outline:
@@ -293,23 +293,22 @@ orga:
 
   - name : "Organizing partners"
     orga_item:
-    - name : "Ecoplan d.o.o."
-      logo : "images/sponsors/ecoplan-logo-transparent.png"
-      link : "https://ecoplan.ba/"
-    - name : "University of Mostar"
-      logo : "images/sponsors/university-of-mostar.png"
-      link : "https://www.sum.ba/en"
-    - name : "City of Mostar"
-      logo : "images/sponsors/mostar_logo-w.svg"
-      link : "https://mostar.ba/"
+    - name : "West University of Timișoara (UVT)"
+      logo : "images/logo1.png"
+      link : "https://www.uvt.ro/en/"
+    - name : "Geo-Spatial.Org"
+      logo : "images/logo1.png"
+      link : "https://geo-spatial.org/"
+    - name : "Romanian Space Agency (ROSA)"
+      logo : "images/logo1.png"
+      link : "https://www.rosa.ro"
 
 
 ############### Sponsors ##################
 sponsors:
-  enable : true
+  enable : false
   title : "Our partners, supporters, and sponsors"
-  content : "FOSS4G Europe 2025 is made possible thanks to the invaluable help
-  from the following organizations"
+  content : ""
   button:
     enable : true
     label : "Become a sponsor"
