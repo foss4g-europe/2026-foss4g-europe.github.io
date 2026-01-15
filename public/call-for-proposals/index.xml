@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Call for proposals on FOSS4G Europe 2025</title>
-    <link>http://localhost:49671/call-for-proposals/</link>
-    <description>Recent content in Call for proposals on FOSS4G Europe 2025</description>
+    <title>Call for proposals on FOSS4G Europe 2026</title>
+    <link>http://localhost:60763/call-for-proposals/</link>
+    <description>Recent content in Call for proposals on FOSS4G Europe 2026</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 26 Jun 2025 15:35:24 +0300</lastBuildDate>
-    <atom:link href="http://localhost:49671/call-for-proposals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60763/call-for-proposals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Session chair guidelines</title>
-      <link>http://localhost:49671/call-for-proposals/session-chair-guidelines/</link>
+      <link>http://localhost:60763/call-for-proposals/session-chair-guidelines/</link>
       <pubDate>Thu, 26 Jun 2025 15:35:24 +0300</pubDate>
-      <guid>http://localhost:49671/call-for-proposals/session-chair-guidelines/</guid>
+      <guid>http://localhost:60763/call-for-proposals/session-chair-guidelines/</guid>
       <description>&lt;p&gt;The FOSS4G conferences are easy-going and welcoming environments.&#xA;As a session chair, you have the power to create and sustain this attitude.&#xA;Taking the stage before tens and tens of people might be a real challenge for&#xA;some of us. Let&amp;rsquo;s try to make it an enjoyable and comfortable experience for&#xA;all of us - the speakers and the audience.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Speaker guidelines</title>
-      <link>http://localhost:49671/call-for-proposals/speaker-guidelines/</link>
+      <link>http://localhost:60763/call-for-proposals/speaker-guidelines/</link>
       <pubDate>Thu, 26 Jun 2025 15:28:24 +0300</pubDate>
-      <guid>http://localhost:49671/call-for-proposals/speaker-guidelines/</guid>
-      <description>&lt;p&gt;The FOSS4G Europe 2025 conference is coming closer day by day, and&#xA;we&amp;rsquo;re happy to report all preparations are well underway and we are gearing&#xA;up for a very exciting event. Let&amp;rsquo;s go over a few points to keep in&#xA;mind when preparing for your presentation.&lt;/p&gt;</description>
+      <guid>http://localhost:60763/call-for-proposals/speaker-guidelines/</guid>
+      <description>&lt;p&gt;The FOSS4G Europe 2026 conference is coming closer day by day, and&#xA;we&amp;rsquo;re happy to report all preparations are well underway and we are gearing&#xA;up for a very exciting event. Let&amp;rsquo;s go over a few points to keep in&#xA;mind when preparing for your presentation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workshops</title>
-      <link>http://localhost:49671/call-for-proposals/workshops/</link>
+      <link>http://localhost:60763/call-for-proposals/workshops/</link>
       <pubDate>Thu, 23 Jan 2025 15:04:03 +0200</pubDate>
-      <guid>http://localhost:49671/call-for-proposals/workshops/</guid>
-      <description>&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;&#xA;&lt;p&gt;All deadlines are preliminary and are subject to change. We are working hard to&#xA;stay on schedule as much as possible, but sometimes issues may occur. If&#xA;anything changes we will communicate it on the FOSS4G Europe 2025 public&#xA;channels and update timings here.&lt;/p&gt;</description>
+      <guid>http://localhost:60763/call-for-proposals/workshops/</guid>
+      <description>&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;&#xA;&lt;p&gt;All deadlines are preliminary and are subject to change. We are working hard to&#xA;stay on schedule as much as possible, but sometimes issues may occur. If&#xA;anything changes we will communicate it on the FOSS4G Europe public&#xA;channels and update timings here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Academic program</title>
-      <link>http://localhost:49671/call-for-proposals/academic-program/</link>
+      <link>http://localhost:60763/call-for-proposals/academic-program/</link>
       <pubDate>Fri, 17 Jan 2025 09:36:35 +0200</pubDate>
-      <guid>http://localhost:49671/call-for-proposals/academic-program/</guid>
-      <description>&lt;h2 id=&#34;academic-program-submission-timeline&#34;&gt;Academic program submission timeline&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Submission of abstracts:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;17 January 2025 - &lt;del&gt;3 March&lt;/del&gt; 10 March 2025&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Announcement of accepted talks:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;&lt;del&gt;17 March&lt;/del&gt; 24 March 2025&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Full Program:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;April 2025&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Submission of full academic papers:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;17 May 2025&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Conference:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;14 July - 20 July 2025&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;hr&gt;&#xA;&lt;br&gt;&#xA;&lt;div&gt;&#xA;&lt;center&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://talks.osgeo.org/foss4g-europe-2025-academic-track/cfp&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-lg disabled&#34;&gt;Submit a proposal for academic program&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;</description>
+      <guid>http://localhost:60763/call-for-proposals/academic-program/</guid>
+      <description>&lt;h2 id=&#34;academic-program-submission-timeline&#34;&gt;Academic program submission timeline&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Submission of abstracts:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Announcement of accepted talks:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Full Program:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Submission of full academic papers:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Conference:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;29 July - 3 July 2026&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;hr&gt;&#xA;&lt;br&gt;&#xA;&lt;div&gt;&#xA;&lt;center&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;#&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-lg disabled&#34;&gt;Submit a proposal for academic program&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>General program</title>
-      <link>http://localhost:49671/call-for-proposals/general-program/</link>
+      <link>http://localhost:60763/call-for-proposals/general-program/</link>
       <pubDate>Sat, 30 Nov 2024 13:09:24 +0200</pubDate>
-      <guid>http://localhost:49671/call-for-proposals/general-program/</guid>
-      <description>&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;&#xA;&lt;p&gt;All deadlines are preliminary and are subject to change. We are working hard to&#xA;stay on schedule as much as possible, but sometimes issues may occur. If&#xA;anything changes we will communicate it on the FOSS4G Europe 2025 public&#xA;channels and update timings here.&lt;/p&gt;</description>
+      <guid>http://localhost:60763/call-for-proposals/general-program/</guid>
+      <description>&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;&#xA;&lt;p&gt;All deadlines are preliminary and are subject to change. We are working hard to&#xA;stay on schedule as much as possible, but sometimes issues may occur. If&#xA;anything changes we will communicate it on the FOSS4G Europe public&#xA;channels and update timings here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Map Gallery Submissions</title>
-      <link>http://localhost:49671/call-for-proposals/map-gallery-submissions/</link>
+      <link>http://localhost:60763/call-for-proposals/map-gallery-submissions/</link>
       <pubDate>Sat, 16 Nov 2024 14:19:24 +0200</pubDate>
-      <guid>http://localhost:49671/call-for-proposals/map-gallery-submissions/</guid>
-      <description>&lt;h2 id=&#34;map-submissions-open&#34;&gt;Map Submissions Open!&lt;/h2&gt;&#xA;&lt;p&gt;We know it&amp;rsquo;s been a busy season, and a few of you reached out about&#xA;missing the original deadline for the FOSS4G 2025 Map Gallery&#xA;submissions. So&amp;hellip; we’ve decided to give everyone a little more time!&lt;/p&gt;</description>
+      <guid>http://localhost:60763/call-for-proposals/map-gallery-submissions/</guid>
+      <description>&lt;h2 id=&#34;map-submissions-open&#34;&gt;Map Submissions Open!&lt;/h2&gt;&#xA;&lt;p&gt;Map gallery submission details will be published closer to the event.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

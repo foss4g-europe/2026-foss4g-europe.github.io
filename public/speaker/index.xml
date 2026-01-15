@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keynote speakers on FOSS4G Europe 2025</title>
-    <link>http://localhost:49671/speaker/</link>
-    <description>Recent content in Keynote speakers on FOSS4G Europe 2025</description>
+    <title>Keynote speakers on FOSS4G Europe 2026</title>
+    <link>http://localhost:60763/speaker/</link>
+    <description>Recent content in Keynote speakers on FOSS4G Europe 2026</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 28 Jun 2025 09:47:24 +0300</lastBuildDate>
-    <atom:link href="http://localhost:49671/speaker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60763/speaker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emma Irving</title>
-      <link>http://localhost:49671/speaker/emma-irving/</link>
+      <link>http://localhost:60763/speaker/emma-irving/</link>
       <pubDate>Sat, 28 Jun 2025 09:47:24 +0300</pubDate>
-      <guid>http://localhost:49671/speaker/emma-irving/</guid>
+      <guid>http://localhost:60763/speaker/emma-irving/</guid>
       <description></description>
     </item>
     <item>
       <title>Sylvain Corlay</title>
-      <link>http://localhost:49671/speaker/sylvain-corlay/</link>
+      <link>http://localhost:60763/speaker/sylvain-corlay/</link>
       <pubDate>Thu, 26 Jun 2025 13:27:24 +0300</pubDate>
-      <guid>http://localhost:49671/speaker/sylvain-corlay/</guid>
+      <guid>http://localhost:60763/speaker/sylvain-corlay/</guid>
       <description></description>
     </item>
     <item>
       <title>Vlado Cetl</title>
-      <link>http://localhost:49671/speaker/vlado-cetl/</link>
+      <link>http://localhost:60763/speaker/vlado-cetl/</link>
       <pubDate>Thu, 26 Jun 2025 13:27:24 +0300</pubDate>
-      <guid>http://localhost:49671/speaker/vlado-cetl/</guid>
+      <guid>http://localhost:60763/speaker/vlado-cetl/</guid>
       <description></description>
     </item>
   </channel>

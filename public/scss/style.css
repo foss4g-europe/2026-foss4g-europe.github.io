@@ -537,11 +537,11 @@ select.form-control:not([size]):not([multiple]) {
     .main-nav {
       position: relative; } }
   .main-nav .navbar-brand {
-    padding: 35px 40px 35px 50px;
+    padding: 5px 5px 5px 5px;
     border-right: 1px solid #e5e5e5; }
     @media (max-width: 1200px) {
       .main-nav .navbar-brand {
-        padding: 20px 30px; } }
+        padding: 5px 5px 5px 5px; } }
     @media (max-width: 767px) {
       .main-nav .navbar-brand {
         border-right: none; } }
@@ -625,10 +625,10 @@ select.form-control:not([size]):not([multiple]) {
   .main-nav .ticket {
     background: #4e9790;
     display: block;
-    padding: 34px 32px; }
+    padding: 27px 26px; }
     @media (max-width: 1200px) {
       .main-nav .ticket {
-        padding: 23px 14px; } }
+        padding: 18px 11px; } }
     @media (max-width: 991px) {
       .main-nav .ticket {
         text-align: center; } }

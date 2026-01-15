@@ -184,11 +184,11 @@ weight = 3
   url = "call-for-proposals/academic-program/"
   weight = 6
 
-  [[menu.main]]
-  parent = "Call for proposals"
-  name = "Map Gallery Submissions"
-  url = "call-for-proposals/map-gallery-submissions/"
-  weight = 1
+#  [[menu.main]]
+#  parent = "Call for proposals"
+#  name = "Map Gallery Submissions"
+#  url = "call-for-proposals/map-gallery-submissions/"
+#  weight = 1
 
   [[menu.main]]
   parent = "Call for proposals"
@@ -203,22 +203,22 @@ weight = 3
   weight = 3
 
 ## main menu item: Registration
-[[menu.main]]
-name = "Registration"
-url = "registration/"
-weight = 4
-
-  [[menu.main]]
-  weight = 3
-  parent = "Registration"
-  name = "Adopt-a-ticket"
-  url = "registration/adopt-a-ticket/"
-
-  [[menu.main]]
-  weight = 4
-  parent = "Registration"
-  name = "Travel Grant"
-  url = "registration/travel-grant/"
+#[[menu.main]]
+#name = "Registration"
+#url = "registration/"
+#weight = 4
+#
+#  [[menu.main]]
+#  weight = 3
+#  parent = "Registration"
+#  name = "Adopt-a-ticket"
+#  url = "registration/adopt-a-ticket/"
+#
+#  [[menu.main]]
+#  weight = 4
+#  parent = "Registration"
+#  name = "Travel Grant"
+#  url = "registration/travel-grant/"
 
 ## main menu item: Schedule
 [[menu.main]]
@@ -386,8 +386,8 @@ weight = 8
 #################### default parameters ################################
 
 [params]
-logo = "images/logo1.png"
-logo_footer = "images/logo1.png"
+logo = "images/logo-negru.png"
+logo_footer = "images/logo-alb.png"
 logo_width = "100px"
 # Meta data
 description = "The FOSS4G Europe 2026 conference is planned to take place 29 June - 3 July 2026 in Timișoara, Romania."

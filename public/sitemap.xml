@@ -2,385 +2,382 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:49671/</loc>
+    <loc>http://localhost:60763/</loc>
     <lastmod>2025-07-15T15:56:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/livestream/18-07-2025/</loc>
+    <loc>http://localhost:60763/livestream/</loc>
     <lastmod>2025-07-15T15:56:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/livestream/</loc>
+    <loc>http://localhost:60763/livestream/16-07-2025/</loc>
     <lastmod>2025-07-15T15:56:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/livestream/17-07-2025/</loc>
+    <loc>http://localhost:60763/livestream/17-07-2025/</loc>
     <lastmod>2025-07-15T15:56:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/livestream/16-07-2025/</loc>
+    <loc>http://localhost:60763/livestream/18-07-2025/</loc>
     <lastmod>2025-07-15T15:56:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/speaker/emma-irving/</loc>
+    <loc>http://localhost:60763/speaker/emma-irving/</loc>
     <lastmod>2025-06-28T09:47:24+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/maptiler/</loc>
+    <loc>http://localhost:60763/sponsors/maptiler/</loc>
     <lastmod>2025-06-27T20:03:24+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/call-for-proposals/session-chair-guidelines/</loc>
+    <loc>http://localhost:60763/call-for-proposals/session-chair-guidelines/</loc>
     <lastmod>2025-06-26T15:35:24+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/call-for-proposals/speaker-guidelines/</loc>
+    <loc>http://localhost:60763/call-for-proposals/speaker-guidelines/</loc>
     <lastmod>2025-06-26T15:28:24+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/speaker/sylvain-corlay/</loc>
+    <loc>http://localhost:60763/speaker/sylvain-corlay/</loc>
     <lastmod>2025-06-26T13:27:24+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/speaker/vlado-cetl/</loc>
+    <loc>http://localhost:60763/speaker/vlado-cetl/</loc>
     <lastmod>2025-06-26T13:27:24+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/city-tour/</loc>
+    <loc>http://localhost:60763/schedule/city-tour/</loc>
     <lastmod>2025-06-15T12:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/quarticle/</loc>
+    <loc>http://localhost:60763/sponsors/quarticle/</loc>
     <lastmod>2025-06-05T17:39:24+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/cloudferro/</loc>
+    <loc>http://localhost:60763/sponsors/cloudferro/</loc>
     <lastmod>2025-06-05T15:09:24+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/tomtom/</loc>
+    <loc>http://localhost:60763/sponsors/tomtom/</loc>
     <lastmod>2025-06-05T08:53:24+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/envirosolutions/</loc>
+    <loc>http://localhost:60763/sponsors/envirosolutions/</loc>
     <lastmod>2025-06-05T08:31:24+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/hot-drone-mapping-workshop/</loc>
+    <loc>http://localhost:60763/schedule/hot-drone-mapping-workshop/</loc>
     <lastmod>2025-05-21T19:25:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/geosolutions/</loc>
+    <loc>http://localhost:60763/sponsors/geosolutions/</loc>
     <lastmod>2025-05-21T15:08:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/qgises/</loc>
+    <loc>http://localhost:60763/sponsors/qgises/</loc>
     <lastmod>2025-05-21T15:00:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/community-sprint/</loc>
+    <loc>http://localhost:60763/schedule/community-sprint/</loc>
     <lastmod>2025-05-13T10:54:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/opengisch/</loc>
+    <loc>http://localhost:60763/sponsors/opengisch/</loc>
     <lastmod>2025-05-05T11:30:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/social-bytes/</loc>
+    <loc>http://localhost:60763/schedule/social-bytes/</loc>
     <lastmod>2025-04-16T07:26:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/camp-to-camp/</loc>
+    <loc>http://localhost:60763/sponsors/camp-to-camp/</loc>
     <lastmod>2025-04-15T14:42:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/pub-crawl/</loc>
+    <loc>http://localhost:60763/schedule/pub-crawl/</loc>
     <lastmod>2025-04-09T09:14:24+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/bgeo/</loc>
+    <loc>http://localhost:60763/sponsors/bgeo/</loc>
     <lastmod>2025-03-21T14:42:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/call-for-sponsors/</loc>
+    <loc>http://localhost:60763/sponsors/esa/</loc>
     <lastmod>2025-03-21T14:42:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/esa/</loc>
+    <loc>http://localhost:60763/sponsors/geocat/</loc>
     <lastmod>2025-03-21T14:42:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/geocat/</loc>
+    <loc>http://localhost:60763/sponsors/geoinova/</loc>
     <lastmod>2025-03-21T14:42:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/geoinova/</loc>
+    <loc>http://localhost:60763/partners/gisworld/</loc>
     <lastmod>2025-03-21T14:42:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/partners/gisworld/</loc>
+    <loc>http://localhost:60763/sponsors/honorable-mentions/</loc>
     <lastmod>2025-03-21T14:42:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/honorable-mentions/</loc>
+    <loc>http://localhost:60763/partners/</loc>
     <lastmod>2025-03-21T14:42:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/partners/</loc>
-    <lastmod>2025-03-21T14:42:28+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:49671/schedule/excursion/</loc>
+    <loc>http://localhost:60763/schedule/excursion/</loc>
     <lastmod>2025-03-19T09:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/venue/accommodation/</loc>
+    <loc>http://localhost:60763/venue/accommodation/</loc>
     <lastmod>2025-03-18T11:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/</loc>
+    <loc>http://localhost:60763/sponsors/</loc>
     <lastmod>2025-03-03T20:41:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/marco-minghini/</loc>
+    <loc>http://localhost:60763/scientific-committee/marco-minghini/</loc>
     <lastmod>2025-02-19T11:13:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/anita-graser/</loc>
+    <loc>http://localhost:60763/program-committee/anita-graser/</loc>
     <lastmod>2025-02-14T19:53:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/loc/merli-neito/</loc>
+    <loc>http://localhost:60763/loc/merli-neito/</loc>
     <lastmod>2025-02-14T09:08:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/tomislav-hlupic/</loc>
+    <loc>http://localhost:60763/scientific-committee/tomislav-hlupic/</loc>
     <lastmod>2025-02-07T09:10:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/ljiljana-seric/</loc>
+    <loc>http://localhost:60763/scientific-committee/ljiljana-seric/</loc>
     <lastmod>2025-02-05T09:08:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/andrius-balciunas/</loc>
+    <loc>http://localhost:60763/program-committee/andrius-balciunas/</loc>
     <lastmod>2025-02-02T17:20:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/registration/</loc>
+    <loc>http://localhost:60763/registration/</loc>
     <lastmod>2025-02-02T16:10:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/talks/</loc>
+    <loc>http://localhost:60763/schedule/talks/</loc>
     <lastmod>2025-02-02T14:11:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/b2b/</loc>
+    <loc>http://localhost:60763/schedule/b2b/</loc>
     <lastmod>2025-02-02T14:09:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/</loc>
+    <loc>http://localhost:60763/schedule/</loc>
     <lastmod>2025-02-02T13:38:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/venue/getting-to-mostar/</loc>
+    <loc>http://localhost:60763/venue/getting-to-mostar/</loc>
     <lastmod>2025-02-02T16:21:24+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/ice-breaker/</loc>
+    <loc>http://localhost:60763/schedule/ice-breaker/</loc>
     <lastmod>2025-02-02T14:07:24+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/geochicas-take-mostar/</loc>
+    <loc>http://localhost:60763/schedule/geochicas-take-mostar/</loc>
     <lastmod>2025-02-02T13:55:24+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/bof/</loc>
+    <loc>http://localhost:60763/schedule/bof/</loc>
     <lastmod>2025-02-02T13:46:24+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/workshops/</loc>
+    <loc>http://localhost:60763/schedule/workshops/</loc>
     <lastmod>2025-02-01T14:13:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/call-for-proposals/workshops/</loc>
+    <loc>http://localhost:60763/call-for-proposals/workshops/</loc>
     <lastmod>2025-01-23T15:04:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/call-for-proposals/</loc>
+    <loc>http://localhost:60763/call-for-proposals/</loc>
     <lastmod>2025-01-23T14:57:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/call-for-proposals/academic-program/</loc>
+    <loc>http://localhost:60763/call-for-proposals/academic-program/</loc>
     <lastmod>2025-01-17T09:36:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/marco-ciolli/</loc>
+    <loc>http://localhost:60763/scientific-committee/marco-ciolli/</loc>
     <lastmod>2025-01-14T11:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/aleksandar-valjarevic/</loc>
+    <loc>http://localhost:60763/scientific-committee/aleksandar-valjarevic/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/alessandro-sarretta/</loc>
+    <loc>http://localhost:60763/scientific-committee/alessandro-sarretta/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/alexander-kotsev/</loc>
+    <loc>http://localhost:60763/scientific-committee/alexander-kotsev/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/anca-anghelea/</loc>
+    <loc>http://localhost:60763/scientific-committee/anca-anghelea/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/anka-lisec/</loc>
+    <loc>http://localhost:60763/scientific-committee/anka-lisec/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/ante-siljeg/</loc>
+    <loc>http://localhost:60763/scientific-committee/ante-siljeg/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/antonia-ivanda/</loc>
+    <loc>http://localhost:60763/scientific-committee/antonia-ivanda/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/bianca-federici/</loc>
+    <loc>http://localhost:60763/scientific-committee/bianca-federici/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/clara-tattoni/</loc>
+    <loc>http://localhost:60763/scientific-committee/clara-tattoni/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/evelyn-uuemaa/</loc>
+    <loc>http://localhost:60763/scientific-committee/evelyn-uuemaa/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/gresa-neziri/</loc>
+    <loc>http://localhost:60763/scientific-committee/gresa-neziri/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/hrvoje-matijevic/</loc>
+    <loc>http://localhost:60763/scientific-committee/hrvoje-matijevic/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/kristof-ostir/</loc>
+    <loc>http://localhost:60763/scientific-committee/kristof-ostir/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/maria-antonia-brovelli/</loc>
+    <loc>http://localhost:60763/scientific-committee/maria-antonia-brovelli/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/marina-tavra/</loc>
+    <loc>http://localhost:60763/scientific-committee/marina-tavra/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/marjan-sikora/</loc>
+    <loc>http://localhost:60763/scientific-committee/marjan-sikora/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/massimiliano-cannata/</loc>
+    <loc>http://localhost:60763/scientific-committee/massimiliano-cannata/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/nikola-kranjcic/</loc>
+    <loc>http://localhost:60763/scientific-committee/nikola-kranjcic/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/paolo-zatelli/</loc>
+    <loc>http://localhost:60763/scientific-committee/paolo-zatelli/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/peter-mooney/</loc>
+    <loc>http://localhost:60763/scientific-committee/peter-mooney/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/silvija-siljeg/</loc>
+    <loc>http://localhost:60763/scientific-committee/silvija-siljeg/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/vlado-cetl/</loc>
+    <loc>http://localhost:60763/scientific-committee/vlado-cetl/</loc>
     <lastmod>2025-01-14T10:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/lea-pauts/</loc>
+    <loc>http://localhost:60763/program-committee/lea-pauts/</loc>
     <lastmod>2025-01-13T10:32:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/andrea-antonello/</loc>
+    <loc>http://localhost:60763/program-committee/andrea-antonello/</loc>
     <lastmod>2025-01-13T09:56:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/luca-delucchi/</loc>
+    <loc>http://localhost:60763/program-committee/luca-delucchi/</loc>
     <lastmod>2025-01-10T09:38:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/margherita-di-leo/</loc>
+    <loc>http://localhost:60763/program-committee/margherita-di-leo/</loc>
     <lastmod>2025-01-10T08:15:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/joana-simoes/</loc>
+    <loc>http://localhost:60763/program-committee/joana-simoes/</loc>
     <lastmod>2025-01-10T08:09:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/jorge-sanz/</loc>
+    <loc>http://localhost:60763/program-committee/jorge-sanz/</loc>
     <lastmod>2025-01-10T08:05:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/luis-moreira-de-sousa/</loc>
+    <loc>http://localhost:60763/program-committee/luis-moreira-de-sousa/</loc>
     <lastmod>2025-01-09T07:54:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/jachym-cepicky/</loc>
+    <loc>http://localhost:60763/program-committee/jachym-cepicky/</loc>
     <lastmod>2025-01-09T07:48:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/joachim-ungar/</loc>
+    <loc>http://localhost:60763/program-committee/joachim-ungar/</loc>
     <lastmod>2025-01-08T09:02:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/berit-mohr/</loc>
+    <loc>http://localhost:60763/program-committee/berit-mohr/</loc>
     <lastmod>2025-01-07T14:07:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/evelyn-uuemaa/</loc>
+    <loc>http://localhost:60763/program-committee/evelyn-uuemaa/</loc>
     <lastmod>2024-12-19T14:28:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/katja-haferkorn/</loc>
+    <loc>http://localhost:60763/program-committee/katja-haferkorn/</loc>
     <lastmod>2024-12-19T14:27:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/markus-neteler/</loc>
+    <loc>http://localhost:60763/program-committee/markus-neteler/</loc>
     <lastmod>2024-12-19T14:25:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/petya-kangalova/</loc>
+    <loc>http://localhost:60763/program-committee/petya-kangalova/</loc>
     <lastmod>2024-12-19T14:19:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/katre-kasemagi/</loc>
+    <loc>http://localhost:60763/program-committee/katre-kasemagi/</loc>
     <lastmod>2024-12-19T12:27:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/hans-gregers-hedegaard-petersen/</loc>
+    <loc>http://localhost:60763/program-committee/hans-gregers-hedegaard-petersen/</loc>
     <lastmod>2024-12-19T12:08:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/carmen-diez/</loc>
+    <loc>http://localhost:60763/program-committee/carmen-diez/</loc>
     <lastmod>2024-12-19T11:52:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/vasile-craciunescu/</loc>
+    <loc>http://localhost:60763/program-committee/vasile-craciunescu/</loc>
     <lastmod>2024-12-19T11:47:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/veronica-andreo/</loc>
+    <loc>http://localhost:60763/program-committee/veronica-andreo/</loc>
     <lastmod>2024-12-19T11:34:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/codrina-ilie/</loc>
+    <loc>http://localhost:60763/program-committee/codrina-ilie/</loc>
     <lastmod>2024-12-19T11:26:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/schedule/family-friendly-activities/</loc>
+    <loc>http://localhost:60763/schedule/family-friendly-activities/</loc>
     <lastmod>2024-12-07T10:32:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/call-for-proposals/general-program/</loc>
+    <loc>http://localhost:60763/call-for-proposals/general-program/</loc>
     <lastmod>2024-11-30T13:09:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/enock-seth-nyamador/</loc>
+    <loc>http://localhost:60763/program-committee/enock-seth-nyamador/</loc>
     <lastmod>2024-11-29T09:29:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/loc/marie-annusver/</loc>
+    <loc>http://localhost:60763/loc/marie-annusver/</loc>
     <lastmod>2024-11-29T09:29:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/stefanie-lumnitz/</loc>
+    <loc>http://localhost:60763/program-committee/stefanie-lumnitz/</loc>
     <lastmod>2024-11-29T09:29:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/grgo-saric/</loc>
+    <loc>http://localhost:60763/program-committee/grgo-saric/</loc>
     <lastmod>2024-11-26T12:24:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/loc/sidorela-uku/</loc>
+    <loc>http://localhost:60763/loc/sidorela-uku/</loc>
     <lastmod>2024-11-26T10:04:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/kurt-menke/</loc>
+    <loc>http://localhost:60763/program-committee/kurt-menke/</loc>
     <lastmod>2024-11-23T17:40:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/loc/danko-markovinovic/</loc>
+    <loc>http://localhost:60763/loc/danko-markovinovic/</loc>
     <lastmod>2024-11-23T15:02:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/loc/marko-puljic/</loc>
+    <loc>http://localhost:60763/loc/marko-puljic/</loc>
     <lastmod>2024-11-23T15:02:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/astrid-emde/</loc>
+    <loc>http://localhost:60763/program-committee/astrid-emde/</loc>
     <lastmod>2024-11-23T14:57:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/loc/tonis-kardi/</loc>
+    <loc>http://localhost:60763/loc/tonis-kardi/</loc>
     <lastmod>2024-11-21T14:40:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/besfort-guri/</loc>
+    <loc>http://localhost:60763/program-committee/besfort-guri/</loc>
     <lastmod>2024-11-21T14:03:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/loc/hamidreza-ostadabbas/</loc>
+    <loc>http://localhost:60763/loc/hamidreza-ostadabbas/</loc>
     <lastmod>2024-11-21T14:03:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/call-for-proposals/map-gallery-submissions/</loc>
+    <loc>http://localhost:60763/call-for-proposals/map-gallery-submissions/</loc>
     <lastmod>2024-11-16T14:19:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/about/important-dates/</loc>
+    <loc>http://localhost:60763/about/important-dates/</loc>
     <lastmod>2024-11-16T13:44:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/loc/</loc>
+    <loc>http://localhost:60763/loc/</loc>
     <lastmod>2024-11-15T14:41:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/about/</loc>
+    <loc>http://localhost:60763/about/</loc>
     <lastmod>2024-11-06T20:41:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/about/coc/</loc>
+    <loc>http://localhost:60763/about/coc/</loc>
     <lastmod>2024-11-06T20:41:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/about/faq/</loc>
+    <loc>http://localhost:60763/about/faq/</loc>
     <lastmod>2024-11-06T20:41:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/program-committee/</loc>
+    <loc>http://localhost:60763/program-committee/</loc>
     <lastmod>2024-11-06T20:41:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/contact/</loc>
+    <loc>http://localhost:60763/contact/</loc>
     <lastmod>2024-11-06T20:41:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/speaker/</loc>
+    <loc>http://localhost:60763/speaker/</loc>
     <lastmod>2024-11-06T20:41:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/scientific-committee/</loc>
+    <loc>http://localhost:60763/scientific-committee/</loc>
     <lastmod>2024-11-06T20:41:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/venue/</loc>
+    <loc>http://localhost:60763/venue/</loc>
     <lastmod>2024-11-06T20:41:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/venue/about-venue/</loc>
+    <loc>http://localhost:60763/venue/about-venue/</loc>
     <lastmod>2024-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/registration/adopt-a-ticket/</loc>
+    <loc>http://localhost:60763/registration/adopt-a-ticket/</loc>
     <lastmod>2024-02-10T10:40:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/blog/</loc>
+    <loc>http://localhost:60763/blog/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/registration/travel-grant/</loc>
+    <loc>http://localhost:60763/registration/travel-grant/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:49671/sponsors/readme/</loc>
+    <loc>http://localhost:60763/sponsors/readme/</loc>
   </url><url>
-    <loc>http://localhost:49671/categories/</loc>
+    <loc>http://localhost:60763/categories/</loc>
   </url><url>
-    <loc>http://localhost:49671/tags/</loc>
+    <loc>http://localhost:60763/tags/</loc>
   </url>
 </urlset>

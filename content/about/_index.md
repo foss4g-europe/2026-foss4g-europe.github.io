@@ -7,7 +7,7 @@ conference is the European branch event of the Open Source Geospatial Foundation
 (OSGeo) annual conference."
 draft: false
 layout: "about"
-image: "images/logo1.png"
+image: "images/logo-negru.png"
 #### Testimonial ####
 # testimonial:
 #   enable: true

@@ -6,11 +6,11 @@
 	}
 
 	.navbar-brand {
-		padding: 35px 40px 35px 50px;
+		padding: 5px 5px 5px 5px;
 		border-right: 1px solid $border-color;
 
 		@include large-desktop {
-			padding: 20px 30px;
+			padding: 5px 5px 5px 5px;
 		}
 
 		@include tablet {
@@ -136,10 +136,10 @@
 	.ticket {
 		background: $primary-color;
 		display: block;
-		padding: 34px 32px;
+		padding: 27px 26px;
 
 		@include large-desktop {
-			padding: 23px 14px;
+			padding: 18px 11px;
 		}
 
 		@include desktop-sm {

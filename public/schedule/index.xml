@@ -1,103 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Schedule on FOSS4G Europe 2025</title>
-    <link>http://localhost:49671/schedule/</link>
-    <description>Recent content in Schedule on FOSS4G Europe 2025</description>
+    <title>Schedule on FOSS4G Europe 2026</title>
+    <link>http://localhost:60763/schedule/</link>
+    <description>Recent content in Schedule on FOSS4G Europe 2026</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 Jun 2025 12:55:24 +0100</lastBuildDate>
-    <atom:link href="http://localhost:49671/schedule/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60763/schedule/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Free city tour</title>
-      <link>http://localhost:49671/schedule/city-tour/</link>
+      <title>Guided tours</title>
+      <link>http://localhost:60763/schedule/city-tour/</link>
       <pubDate>Sun, 15 Jun 2025 12:55:24 +0100</pubDate>
-      <guid>http://localhost:49671/schedule/city-tour/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Monday, 14 July / Tuesday, 15 July&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 18:15 - 19:15&lt;/p&gt;</description>
+      <guid>http://localhost:60763/schedule/city-tour/</guid>
+      <description>&lt;h2 id=&#34;guided-tours-tbd&#34;&gt;Guided tours (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;Guided tours are planned to introduce Timișoara&amp;rsquo;s rich, multicultural history.&#xA;The tours are planned to be organized by the Geography Department together with the Municipality of Timișoara.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HOT Tech team Community Drone Mapping Workshop</title>
-      <link>http://localhost:49671/schedule/hot-drone-mapping-workshop/</link>
+      <link>http://localhost:60763/schedule/hot-drone-mapping-workshop/</link>
       <pubDate>Wed, 21 May 2025 19:25:24 +0200</pubDate>
-      <guid>http://localhost:49671/schedule/hot-drone-mapping-workshop/</guid>
-      <description>&lt;p&gt;We are excited to welcome you at the HOT Tech Team Community Drone Mapping&#xA;Workshop and/or the  Collaborative Field Mapping Sessions! The sessions are&#xA;&lt;strong&gt;OPEN&lt;/strong&gt; and &lt;strong&gt;FREE&lt;/strong&gt; to join. You can drop in. We do encourage you to&#xA;&lt;strong&gt;&lt;a href=&#34;https://forms.gle/97B3APQS5Qs77pUJ9&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;fill in this form&lt;/a&gt;&#xA;&lt;/strong&gt; to help us understand numbers and also a way to follow-up&#xA;with you before and after the sessions. If any question, feel free to&#xA;email &lt;a href=&#34;mailto:petya.kangalova@hotosm.org&#34;&gt;&lt;strong&gt;petya.kangalova@hotosm.org&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:60763/schedule/hot-drone-mapping-workshop/</guid>
+      <description>&lt;p&gt;Details will be published closer to the event.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Community Sprint</title>
-      <link>http://localhost:49671/schedule/community-sprint/</link>
+      <link>http://localhost:60763/schedule/community-sprint/</link>
       <pubDate>Tue, 13 May 2025 10:54:24 +0200</pubDate>
-      <guid>http://localhost:49671/schedule/community-sprint/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Saturday and Sunday, 19-20 July 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;FOSS4G Europe 2025 is happy to host the OSGeo community sprint.&lt;/p&gt;</description>
+      <guid>http://localhost:60763/schedule/community-sprint/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Dates: TBD&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;FOSS4G Europe 2026 is planning to host the OSGeo community sprint.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Social Bytes</title>
-      <link>http://localhost:49671/schedule/social-bytes/</link>
+      <title>Social dinner</title>
+      <link>http://localhost:60763/schedule/social-bytes/</link>
       <pubDate>Wed, 16 Apr 2025 07:26:24 +0200</pubDate>
-      <guid>http://localhost:49671/schedule/social-bytes/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Thursday, 17 July 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: Gathering from 19:30, official start at 20:00&lt;/p&gt;</description>
+      <guid>http://localhost:60763/schedule/social-bytes/</guid>
+      <description>&lt;h2 id=&#34;social-dinner-tbd&#34;&gt;Social dinner (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;The social dinner is planned for the second conference day.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Pub Crawl</title>
-      <link>http://localhost:49671/schedule/pub-crawl/</link>
+      <title>Pub race</title>
+      <link>http://localhost:60763/schedule/pub-crawl/</link>
       <pubDate>Wed, 09 Apr 2025 09:14:24 +0300</pubDate>
-      <guid>http://localhost:49671/schedule/pub-crawl/</guid>
-      <description>&lt;style&gt;&#xD;&#xA;.double-container{&#xD;&#xA;  width:100%;&#xD;&#xA;  overflow:hidden;&#xD;&#xA;  padding-bottom:50px;&#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;.logo{&#xD;&#xA;  border-radius:50%;&#xD;&#xA;  height:96px;&#xD;&#xA;  border:3px solid transparent;&#xD;&#xA;  outline: 2px solid black;&#xD;&#xA;  float:left;&#xD;&#xA;  margin:15px&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;h2 id=&#34;pubs-and-nightlife-in-mostar&#34;&gt;Pubs and Nightlife in Mostar&lt;/h2&gt;&#xA;&lt;p&gt;There are many great pubs, bars, and cafés scattered across Mostar. The Local Organizing Committee&#xA;has selected a few that capture the lively and welcoming atmosphere of the city. We are sharing these&#xA;recommendations to offer you more opportunities to meet fellow conference-goers for late-night (&#xA;and early morning!) discussions on topics related to free and open source geospatial technologies.&#xA;You might meet up with a presenter to discuss their session in more detail, or connect in person with&#xA;developers and users of your favorite open-source tools — people you may have previously known&#xA;only by their @-handle or email address.&lt;/p&gt;</description>
+      <guid>http://localhost:60763/schedule/pub-crawl/</guid>
+      <description>&lt;h2 id=&#34;pub-race-tbd&#34;&gt;Pub race (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;The aim of the pub race is to dive you in the social backbone of Timișoara.&#xA;Based on our experience and on our students&amp;rsquo; recommendations, we will prepare a list of recommended pubs, restaurants, cafes and bars.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Excursion</title>
-      <link>http://localhost:49671/schedule/excursion/</link>
+      <link>http://localhost:60763/schedule/excursion/</link>
       <pubDate>Wed, 19 Mar 2025 09:00:00 +0200</pubDate>
-      <guid>http://localhost:49671/schedule/excursion/</guid>
-      <description>&lt;style&gt;&#xA;.double-container {&#xA;  width: 100%;&#xA;  overflow: hidden;&#xA;  padding-bottom: 40px;&#xA;}&#xA;.logo-left {&#xA;  float: left;&#xA;  margin: 10px 20px 10px 0;&#xA;  width: 300px;&#xA;}&#xA;.logo-right {&#xA;  float: right;&#xA;  margin: 10px 0 10px 20px;&#xA;  width: 300px;&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;foss4ge-2025-excursion-day---herzegovina-food--culture-tour&#34;&gt;FOSS4GE 2025 Excursion Day - Herzegovina Food &amp;amp; Culture Tour&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Saturday, 19 July 2025. Gathering at 9:00 in front of the conference venue.&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:60763/schedule/excursion/</guid>
+      <description>&lt;h2 id=&#34;recaș-winery-trip-optional-tbd&#34;&gt;Recaș Winery Trip (optional, TBD)&lt;/h2&gt;&#xA;&lt;p&gt;We aim to organize an optional excursion to the Recaș Winery.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talks</title>
-      <link>http://localhost:49671/schedule/talks/</link>
+      <link>http://localhost:60763/schedule/talks/</link>
       <pubDate>Sun, 02 Feb 2025 14:11:24 +0200</pubDate>
-      <guid>http://localhost:49671/schedule/talks/</guid>
-      <description>&lt;center&gt;&#xA;&lt;!--&lt;a href=&#34;https://av.tib.eu/series/1825&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Recordings on TIB-AV&lt;/a&gt;&#xA;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=NT7BifRbPqQ&amp;amp;list=PLqa06jy1NEM0QkCSb94zkEFvzRAMgaFY5&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Recordings on YouTube&lt;/a&gt;&#xA;&#xA;&lt;a href=&#34;https://photoprism.osgeo.org/s/fe2024/photoprism-sync-foss4g-europe-2024&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Photos&lt;/a&gt;&#xA;&#xA;--&gt;&#xA;&lt;a href=&#34;http://localhost:49671/livestream/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Stream recordings&lt;/a&gt;&#xA;&#xA;&lt;/center&gt;&#xA;&lt;hr&gt;&#xA;&lt;center&gt;&#xA;&lt;a href=&#34;https://isprs-archives.copernicus.org/articles/XLVIII-4-W13-2025/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Academic track proceedings&lt;/a&gt;&#xA;&#xA;&lt;/center&gt;</description>
+      <guid>http://localhost:60763/schedule/talks/</guid>
+      <description>&lt;p&gt;The talks schedule will be published closer to the event.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Business-to-business</title>
-      <link>http://localhost:49671/schedule/b2b/</link>
+      <link>http://localhost:60763/schedule/b2b/</link>
       <pubDate>Sun, 02 Feb 2025 14:09:24 +0200</pubDate>
-      <guid>http://localhost:49671/schedule/b2b/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tuesday, 15 July 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; Gathering at 18:30, official start at 18:45, event until 20:45&lt;/p&gt;</description>
+      <guid>http://localhost:60763/schedule/b2b/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tuesday, 30 June 2026 (proposed)&lt;/p&gt;&#xA;&lt;h2 id=&#34;business-to-business-b2b-event-tbd&#34;&gt;Business-to-business (B2B) event (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;The B2B event is planned to be organized on Tuesday and hosted at ICAM.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ice-Breaker</title>
-      <link>http://localhost:49671/schedule/ice-breaker/</link>
+      <link>http://localhost:60763/schedule/ice-breaker/</link>
       <pubDate>Sun, 02 Feb 2025 14:07:24 +0600</pubDate>
-      <guid>http://localhost:49671/schedule/ice-breaker/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Wednesday, 16 July, 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; Event start after &lt;strong&gt;&lt;a href=&#34;http://localhost:49671/schedule/bof/&#34;&gt;BoF&lt;/a&gt;&lt;/strong&gt; until midnight&lt;/p&gt;</description>
+      <guid>http://localhost:60763/schedule/ice-breaker/</guid>
+      <description>&lt;h2 id=&#34;ice-breaker-tbd&#34;&gt;Ice breaker (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of the ice breaker is to build trust, energy, and community.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>GeoChicas Take Mostar</title>
-      <link>http://localhost:49671/schedule/geochicas-take-mostar/</link>
+      <title>GeoChicas event</title>
+      <link>http://localhost:60763/schedule/geochicas-take-mostar/</link>
       <pubDate>Sun, 02 Feb 2025 13:55:24 +0600</pubDate>
-      <guid>http://localhost:49671/schedule/geochicas-take-mostar/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tuesday, 15 July 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; Event start after &lt;strong&gt;&lt;a href=&#34;http://localhost:49671/schedule/b2b/&#34;&gt;B2B meeting&lt;/a&gt;&lt;/strong&gt; end&lt;/p&gt;</description>
+      <guid>http://localhost:60763/schedule/geochicas-take-mostar/</guid>
+      <description>&lt;h2 id=&#34;geochicas-event-tbd&#34;&gt;GeoChicas event (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;GeoChicas are an international women’s mapping community with members in more&#xA;than 12 different countries. Our aim is for women to have a greater presence and&#xA;participation in key OSM events, increase female participation and leadership,&#xA;and work on mapping projects which benefit women. Our main focus as a group is&#xA;to help close the gender gap in the OSM community across participation, data&#xA;creation and curation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Birds-of-a-Feather</title>
-      <link>http://localhost:49671/schedule/bof/</link>
+      <link>http://localhost:60763/schedule/bof/</link>
       <pubDate>Sun, 02 Feb 2025 13:46:24 +0600</pubDate>
-      <guid>http://localhost:49671/schedule/bof/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Wednesday (16 July), Thursday (17 July) 2025&lt;/strong&gt;&lt;br&gt;&#xA;Birds of a Feather (BoF) sessions are unstructured timeslots where people can&#xA;self-organise themselves to discuss topics of interest. So, if there are any&#xA;specific topics you&amp;rsquo;d like to discuss face-to-face with other people this is&#xA;exactly the chance.&lt;/p&gt;</description>
+      <guid>http://localhost:60763/schedule/bof/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Thursday (2 July), Friday (3 July) 2026 (proposed)&lt;/strong&gt;&lt;br&gt;&#xA;Birds of a Feather (BoF) sessions are unstructured timeslots where people can&#xA;self-organise themselves to discuss topics of interest. So, if there are any&#xA;specific topics you&amp;rsquo;d like to discuss face-to-face with other people this is&#xA;exactly the chance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workshops</title>
-      <link>http://localhost:49671/schedule/workshops/</link>
+      <link>http://localhost:60763/schedule/workshops/</link>
       <pubDate>Sat, 01 Feb 2025 14:13:24 +0200</pubDate>
-      <guid>http://localhost:49671/schedule/workshops/</guid>
+      <guid>http://localhost:60763/schedule/workshops/</guid>
       <description></description>
     </item>
     <item>
-      <title>Discover Mostar: Family-Friendly Adventures</title>
-      <link>http://localhost:49671/schedule/family-friendly-activities/</link>
+      <title>Family-friendly activities</title>
+      <link>http://localhost:60763/schedule/family-friendly-activities/</link>
       <pubDate>Sat, 07 Dec 2024 10:32:19 +0100</pubDate>
-      <guid>http://localhost:49671/schedule/family-friendly-activities/</guid>
-      <description>&lt;style&gt;&#xD;&#xA;.double-container {&#xD;&#xA;  width: 100%;&#xD;&#xA;  overflow: hidden;&#xD;&#xA;  padding-bottom: 50px;&#xD;&#xA;}&#xD;&#xA;.logo-left {&#xD;&#xA;  float: left;&#xD;&#xA;  margin: 5px;&#xD;&#xA;  width: 300px;&#xD;&#xA;}&#xD;&#xA;.logo-right {&#xD;&#xA;  float: right;&#xD;&#xA;  margin: 5px;&#xD;&#xA;  width: 300px;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;h3 id=&#34;discover-mostar-family-friendly-adventures-beyond-the-foss4g-europe-2025-conference&#34;&gt;Discover Mostar: Family-Friendly Adventures Beyond the FOSS4G Europe 2025 Conference!&lt;/h3&gt;&#xA;&lt;p&gt;Step outside the conference and explore the magic of Mostar with your loved ones. Whether you&amp;rsquo;re drawn to its stunning natural landscapes, historical treasures, or exciting activities for kids and adults alike, Mostar and its surroundings have something special for everyone.&lt;/p&gt;</description>
+      <guid>http://localhost:60763/schedule/family-friendly-activities/</guid>
+      <description>&lt;p&gt;Family-friendly activities will be published closer to the event.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
