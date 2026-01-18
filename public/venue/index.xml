@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Venue on FOSS4G Europe 2026</title>
-    <link>http://localhost:60763/venue/</link>
+    <link>http://localhost:1313/venue/</link>
     <description>Recent content in Venue on FOSS4G Europe 2026</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 18 Mar 2025 11:00:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:60763/venue/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/venue/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accommodation</title>
-      <link>http://localhost:60763/venue/accommodation/</link>
+      <link>http://localhost:1313/venue/accommodation/</link>
       <pubDate>Tue, 18 Mar 2025 11:00:00 +0200</pubDate>
-      <guid>http://localhost:60763/venue/accommodation/</guid>
+      <guid>http://localhost:1313/venue/accommodation/</guid>
       <description>&lt;p&gt;Timișoara offers accommodation options for all types of budgets: from low cost hostels to premium hotels.&#xA;There is also the option of renting private accommodations using services like AirBnB and Booking.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting to Timișoara</title>
-      <link>http://localhost:60763/venue/getting-to-mostar/</link>
+      <link>http://localhost:1313/venue/getting-to-mostar/</link>
       <pubDate>Sun, 02 Feb 2025 16:21:24 +0600</pubDate>
-      <guid>http://localhost:60763/venue/getting-to-mostar/</guid>
+      <guid>http://localhost:1313/venue/getting-to-mostar/</guid>
       <description>&lt;h3 id=&#34;transport-to-timișoara&#34;&gt;Transport to Timișoara&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;by-air&#34;&gt;By Air&lt;/h4&gt;&#xA;&lt;p&gt;The Timișoara International Airport offers direct flights to multiple European destinations.&#xA;Other nearby airports with transfer by car include Budapest and Belgrade.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Venue</title>
-      <link>http://localhost:60763/venue/about-venue/</link>
+      <link>http://localhost:1313/venue/about-venue/</link>
       <pubDate>Thu, 14 Mar 2024 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60763/venue/about-venue/</guid>
+      <guid>http://localhost:1313/venue/about-venue/</guid>
       <description>&lt;p&gt;The FOSS4G Europe 2026 conference is planned to take place in Timișoara, Romania.&lt;/p&gt;</description>
     </item>
   </channel>

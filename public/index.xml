@@ -2,787 +2,780 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FOSS4G Europe 2026</title>
-    <link>http://localhost:60763/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on FOSS4G Europe 2026</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Jul 2025 15:56:24 +0200</lastBuildDate>
-    <atom:link href="http://localhost:60763/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streaming (TBD)</title>
-      <link>http://localhost:60763/livestream/16-07-2025/</link>
+      <link>http://localhost:1313/livestream/16-07-2025/</link>
       <pubDate>Tue, 15 Jul 2025 15:56:24 +0200</pubDate>
-      <guid>http://localhost:60763/livestream/16-07-2025/</guid>
+      <guid>http://localhost:1313/livestream/16-07-2025/</guid>
       <description>&lt;p&gt;Stream recordings will be published after the conference.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Streaming (TBD)</title>
-      <link>http://localhost:60763/livestream/17-07-2025/</link>
+      <link>http://localhost:1313/livestream/17-07-2025/</link>
       <pubDate>Tue, 15 Jul 2025 15:56:24 +0200</pubDate>
-      <guid>http://localhost:60763/livestream/17-07-2025/</guid>
+      <guid>http://localhost:1313/livestream/17-07-2025/</guid>
       <description>&lt;p&gt;Stream recordings will be published after the conference.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Streaming (TBD)</title>
-      <link>http://localhost:60763/livestream/18-07-2025/</link>
+      <link>http://localhost:1313/livestream/18-07-2025/</link>
       <pubDate>Tue, 15 Jul 2025 15:56:24 +0200</pubDate>
-      <guid>http://localhost:60763/livestream/18-07-2025/</guid>
+      <guid>http://localhost:1313/livestream/18-07-2025/</guid>
       <description>&lt;p&gt;Stream recordings will be published after the conference.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emma Irving</title>
-      <link>http://localhost:60763/speaker/emma-irving/</link>
+      <link>http://localhost:1313/speaker/emma-irving/</link>
       <pubDate>Sat, 28 Jun 2025 09:47:24 +0300</pubDate>
-      <guid>http://localhost:60763/speaker/emma-irving/</guid>
+      <guid>http://localhost:1313/speaker/emma-irving/</guid>
       <description></description>
     </item>
     <item>
       <title>MapTiler</title>
-      <link>http://localhost:60763/sponsors/maptiler/</link>
+      <link>http://localhost:1313/sponsors/maptiler/</link>
       <pubDate>Fri, 27 Jun 2025 20:03:24 +0300</pubDate>
-      <guid>http://localhost:60763/sponsors/maptiler/</guid>
+      <guid>http://localhost:1313/sponsors/maptiler/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://bit.ly/3uNX1Dj&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;MapTiler&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;makes maps easy. Everyone can customize and integrate the maps into their&#xA;websites and mobile apps. MapTiler is a platform that gives developers&#xA;a maps API, tools to turn imagery and data into map tiles, and a server for&#xA;hosting maps locally using MBTiles, GeoPackage, or PostGIS. At MapTiler,&#xA;we ♡ open source and believe in its importance to geographical systems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Session chair guidelines</title>
-      <link>http://localhost:60763/call-for-proposals/session-chair-guidelines/</link>
+      <link>http://localhost:1313/call-for-proposals/session-chair-guidelines/</link>
       <pubDate>Thu, 26 Jun 2025 15:35:24 +0300</pubDate>
-      <guid>http://localhost:60763/call-for-proposals/session-chair-guidelines/</guid>
+      <guid>http://localhost:1313/call-for-proposals/session-chair-guidelines/</guid>
       <description>&lt;p&gt;The FOSS4G conferences are easy-going and welcoming environments.&#xA;As a session chair, you have the power to create and sustain this attitude.&#xA;Taking the stage before tens and tens of people might be a real challenge for&#xA;some of us. Let&amp;rsquo;s try to make it an enjoyable and comfortable experience for&#xA;all of us - the speakers and the audience.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Speaker guidelines</title>
-      <link>http://localhost:60763/call-for-proposals/speaker-guidelines/</link>
+      <link>http://localhost:1313/call-for-proposals/speaker-guidelines/</link>
       <pubDate>Thu, 26 Jun 2025 15:28:24 +0300</pubDate>
-      <guid>http://localhost:60763/call-for-proposals/speaker-guidelines/</guid>
+      <guid>http://localhost:1313/call-for-proposals/speaker-guidelines/</guid>
       <description>&lt;p&gt;The FOSS4G Europe 2026 conference is coming closer day by day, and&#xA;we&amp;rsquo;re happy to report all preparations are well underway and we are gearing&#xA;up for a very exciting event. Let&amp;rsquo;s go over a few points to keep in&#xA;mind when preparing for your presentation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sylvain Corlay</title>
-      <link>http://localhost:60763/speaker/sylvain-corlay/</link>
+      <link>http://localhost:1313/speaker/sylvain-corlay/</link>
       <pubDate>Thu, 26 Jun 2025 13:27:24 +0300</pubDate>
-      <guid>http://localhost:60763/speaker/sylvain-corlay/</guid>
+      <guid>http://localhost:1313/speaker/sylvain-corlay/</guid>
       <description></description>
     </item>
     <item>
       <title>Vlado Cetl</title>
-      <link>http://localhost:60763/speaker/vlado-cetl/</link>
+      <link>http://localhost:1313/speaker/vlado-cetl/</link>
       <pubDate>Thu, 26 Jun 2025 13:27:24 +0300</pubDate>
-      <guid>http://localhost:60763/speaker/vlado-cetl/</guid>
+      <guid>http://localhost:1313/speaker/vlado-cetl/</guid>
       <description></description>
     </item>
     <item>
       <title>Guided tours</title>
-      <link>http://localhost:60763/schedule/city-tour/</link>
+      <link>http://localhost:1313/schedule/city-tour/</link>
       <pubDate>Sun, 15 Jun 2025 12:55:24 +0100</pubDate>
-      <guid>http://localhost:60763/schedule/city-tour/</guid>
+      <guid>http://localhost:1313/schedule/city-tour/</guid>
       <description>&lt;h2 id=&#34;guided-tours-tbd&#34;&gt;Guided tours (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;Guided tours are planned to introduce Timișoara&amp;rsquo;s rich, multicultural history.&#xA;The tours are planned to be organized by the Geography Department together with the Municipality of Timișoara.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quarticle</title>
-      <link>http://localhost:60763/sponsors/quarticle/</link>
+      <link>http://localhost:1313/sponsors/quarticle/</link>
       <pubDate>Thu, 05 Jun 2025 17:39:24 +0300</pubDate>
-      <guid>http://localhost:60763/sponsors/quarticle/</guid>
+      <guid>http://localhost:1313/sponsors/quarticle/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://quarticle.ch/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;Quarticle&lt;/a&gt;&#xA;&lt;/strong&gt; delivers next-generation, cloud-native geo-intelligence solutions&#xA;that empower organizations to manage, analyze, and distribute geospatial&#xA;data at scale—securely, flexibly, and with industry-leading performance.&#xA;By combining open-source software with proprietary innovations, Quarticle&#xA;ensures clients retain control over their data while benefiting from&#xA;continuous community-driven enhancements.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CloudFerro</title>
-      <link>http://localhost:60763/sponsors/cloudferro/</link>
+      <link>http://localhost:1313/sponsors/cloudferro/</link>
       <pubDate>Thu, 05 Jun 2025 15:09:24 +0300</pubDate>
-      <guid>http://localhost:60763/sponsors/cloudferro/</guid>
+      <guid>http://localhost:1313/sponsors/cloudferro/</guid>
       <description>&lt;p&gt;&lt;strong&gt;CloudFerro&lt;/strong&gt; provides &lt;strong&gt;innovative cloud services&lt;/strong&gt;. The company delivers&#xA;and operates cloud computing platforms for demanding markets, such as the&#xA;European space sector, climate research and science. Its broad experience&#xA;and in-depth expertise include storing and processing &lt;strong&gt;big data sets&lt;/strong&gt;, such&#xA;as multipetabyte repositories of Earth Observation satellite data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TomTom</title>
-      <link>http://localhost:60763/sponsors/tomtom/</link>
+      <link>http://localhost:1313/sponsors/tomtom/</link>
       <pubDate>Thu, 05 Jun 2025 08:53:24 +0300</pubDate>
-      <guid>http://localhost:60763/sponsors/tomtom/</guid>
+      <guid>http://localhost:1313/sponsors/tomtom/</guid>
       <description>&lt;p&gt;TomTom N.V., an Amsterdam-based Dutch multinational, specializes in location&#xA;technology and consumer electronics. Founded in 1991, TomTom revolutionized&#xA;the consumer satellite navigation market in 2004 with its first all-in-one&#xA;portable device. Today, it&amp;rsquo;s a leading provider of accurate &lt;strong&gt;maps&lt;/strong&gt;, &lt;strong&gt;real-time&#xA;traffic&lt;/strong&gt;, and &lt;strong&gt;navigation&lt;/strong&gt; solutions for consumers and enterprises, including&#xA;the automotive sector, while actively innovating in areas like &lt;strong&gt;autonomous&lt;/strong&gt;&#xA;driving.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EnviroSolutions</title>
-      <link>http://localhost:60763/sponsors/envirosolutions/</link>
+      <link>http://localhost:1313/sponsors/envirosolutions/</link>
       <pubDate>Thu, 05 Jun 2025 08:31:24 +0300</pubDate>
-      <guid>http://localhost:60763/sponsors/envirosolutions/</guid>
+      <guid>http://localhost:1313/sponsors/envirosolutions/</guid>
       <description>&lt;p&gt;We are EnviroSolutions, a Polish company specializing in OpenSource GIS. We&#xA;provide solutions for public institutions and private sector, especially:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>HOT Tech team Community Drone Mapping Workshop</title>
-      <link>http://localhost:60763/schedule/hot-drone-mapping-workshop/</link>
-      <pubDate>Wed, 21 May 2025 19:25:24 +0200</pubDate>
-      <guid>http://localhost:60763/schedule/hot-drone-mapping-workshop/</guid>
-      <description>&lt;p&gt;Details will be published closer to the event.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>GeoSolutions</title>
-      <link>http://localhost:60763/sponsors/geosolutions/</link>
+      <link>http://localhost:1313/sponsors/geosolutions/</link>
       <pubDate>Wed, 21 May 2025 15:08:24 +0200</pubDate>
-      <guid>http://localhost:60763/sponsors/geosolutions/</guid>
+      <guid>http://localhost:1313/sponsors/geosolutions/</guid>
       <description>&lt;p&gt;&lt;strong&gt;GeoSolutions&lt;/strong&gt; is specialized in the dissemination of geospatial data with&#xA;&lt;strong&gt;Open Source&lt;/strong&gt; software according to the standards created by the &lt;strong&gt;Open GeoSpatial&#xA;Consortium (OGC)&lt;/strong&gt; and the &lt;strong&gt;ISO Technical Committee 211&lt;/strong&gt;, which provide the base&#xA;building blocks for the &lt;strong&gt;INSPIRE&lt;/strong&gt; regulations. &lt;strong&gt;GeoSolutions&amp;rsquo;&lt;/strong&gt; team is composed by&#xA;renowned international professionals with leading roles in some of the main&#xA;&lt;strong&gt;Open Source&lt;/strong&gt; products for the geospatial field like &lt;strong&gt;GeoServer&lt;/strong&gt;, &lt;strong&gt;GeoNetwork&lt;/strong&gt;,&#xA;&lt;strong&gt;MapStore&lt;/strong&gt; and &lt;strong&gt;GeoNode&lt;/strong&gt; for which &lt;strong&gt;GeoSolutions&lt;/strong&gt; provides&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.geosolutionsgroup.com/enterprise-support-services&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;Enterprise Support Services&lt;/a&gt;&#xA;&lt;/strong&gt;,&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.geosolutionsgroup.com/subscription-services&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;Subscription Services&lt;/a&gt;&#xA;&lt;/strong&gt;, and&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.geosolutionsgroup.com/professional-training&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;Professional Training Services&lt;/a&gt;&#xA;&lt;/strong&gt;.&#xA;&lt;strong&gt;GeoSolutions&lt;/strong&gt; counts among its customers more than 300 national and&#xA;international government agencies as well as private companies worldwide.&lt;/p&gt;</description>
     </item>
     <item>
       <title>QGIS España</title>
-      <link>http://localhost:60763/sponsors/qgises/</link>
+      <link>http://localhost:1313/sponsors/qgises/</link>
       <pubDate>Wed, 21 May 2025 15:00:24 +0200</pubDate>
-      <guid>http://localhost:60763/sponsors/qgises/</guid>
+      <guid>http://localhost:1313/sponsors/qgises/</guid>
       <description>&lt;p&gt;We are the QGIS group users in Spain, who, like you, use QGIS in our daily lives&#xA;for professional work, research or as entertainment. We help make QGIS even&#xA;better, be it by sharing knowledge, translating, developing features or&#xA;helping other users.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Community Sprint</title>
-      <link>http://localhost:60763/schedule/community-sprint/</link>
+      <link>http://localhost:1313/schedule/community-sprint/</link>
       <pubDate>Tue, 13 May 2025 10:54:24 +0200</pubDate>
-      <guid>http://localhost:60763/schedule/community-sprint/</guid>
+      <guid>http://localhost:1313/schedule/community-sprint/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Dates: TBD&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;FOSS4G Europe 2026 is planning to host the OSGeo community sprint.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OPENGIS.ch</title>
-      <link>http://localhost:60763/sponsors/opengisch/</link>
+      <link>http://localhost:1313/sponsors/opengisch/</link>
       <pubDate>Mon, 05 May 2025 11:30:24 +0200</pubDate>
-      <guid>http://localhost:60763/sponsors/opengisch/</guid>
+      <guid>http://localhost:1313/sponsors/opengisch/</guid>
       <description>&lt;p&gt;The most powerful and efficient way to manage your data on-the-go.&#xA;&lt;br&gt;&lt;br&gt;&#xA;With the&#xA;&lt;strong&gt;&lt;a href=&#34;https://qfield.org/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;QField&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;productivity suite, you can streamline your fieldwork processes&#xA;and improve fieldwork efficiency. Our products are designed to work together&#xA;seamlessly, providing a complete solution for all your fieldwork needs. Whether&#xA;you’re collecting data in remote locations or managing large-scale projects in&#xA;a hyperconnected city, our tools have you covered.&#xA;&lt;br&gt;&lt;br&gt;&#xA;QField is the professional fieldwork app for QGIS. With more than 250K active&#xA;monthly users and 1 million downloads, QField helps people worldwide digitise&#xA;their data on- and off-line thanks to state-of-the-art technology, user-friendly&#xA;interface and cutting-edge hardware integrations. Capturing geotagged video and&#xA;audio, calculating altitude profiles, connecting to external sensors like Geiger&#xA;counters, or the first-ever integration with a surveyor-grade handheld&#xA;GNSS with IMU -&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.happysurvey.ch/de/survey/mini-ii/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;the Happy mini II&lt;/a&gt;&#xA;&lt;/strong&gt; -&#xA;are just a few of the highlights that you&#xA;will find in the app that won the prestigious Best of Swiss Apps Enterprise&#xA;2022 award.&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://qfield.cloud/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;QFieldCloud&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;is the SaaS (software as a service) solution provided by&#xA;&lt;strong&gt;&lt;a href=&#34;https://opengis.ch/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;OPENGIS.ch&lt;/a&gt;&#xA;&lt;/strong&gt;, one of the main contributors and developers of QGIS, that allows&#xA;your team to integrate field data into your SDI seamlessly. QFieldCloud is an&#xA;open-source web application written in Python using the Django Web framework&#xA;that encourages rapid development and clean, pragmatic designs.&#xA;&lt;br&gt;&lt;br&gt;&#xA;Don’t waste any more time on inefficient field data collection. Try the&#xA;&lt;strong&gt;&lt;a href=&#34;https://qfield.cloud/join&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;QField productivity suite&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;and revolutionize your workflow today!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Social dinner</title>
-      <link>http://localhost:60763/schedule/social-bytes/</link>
+      <link>http://localhost:1313/schedule/social-bytes/</link>
       <pubDate>Wed, 16 Apr 2025 07:26:24 +0200</pubDate>
-      <guid>http://localhost:60763/schedule/social-bytes/</guid>
+      <guid>http://localhost:1313/schedule/social-bytes/</guid>
       <description>&lt;h2 id=&#34;social-dinner-tbd&#34;&gt;Social dinner (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;The social dinner is planned for the second conference day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Camp to Camp</title>
-      <link>http://localhost:60763/sponsors/camp-to-camp/</link>
+      <link>http://localhost:1313/sponsors/camp-to-camp/</link>
       <pubDate>Tue, 15 Apr 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:60763/sponsors/camp-to-camp/</guid>
+      <guid>http://localhost:1313/sponsors/camp-to-camp/</guid>
       <description>&lt;p&gt;When location matters, we help our customers solve their most important challenges.&#xA;&lt;br&gt;&#xA;Camptocamp is one of the leading service providers in the field of Open Source GIS, with a strong&#xA;commitment to various communities.&#xA;&lt;br&gt;&#xA;Our services are built on over 20 years of experience in delivering innovative GIS solutions&#xA;for public authorities and private companies. Our guiding principle is to offer high-quality,&#xA;customer-focused service tailored to specific needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pub race</title>
-      <link>http://localhost:60763/schedule/pub-crawl/</link>
+      <link>http://localhost:1313/schedule/pub-crawl/</link>
       <pubDate>Wed, 09 Apr 2025 09:14:24 +0300</pubDate>
-      <guid>http://localhost:60763/schedule/pub-crawl/</guid>
+      <guid>http://localhost:1313/schedule/pub-crawl/</guid>
       <description>&lt;h2 id=&#34;pub-race-tbd&#34;&gt;Pub race (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;The aim of the pub race is to dive you in the social backbone of Timișoara.&#xA;Based on our experience and on our students&amp;rsquo; recommendations, we will prepare a list of recommended pubs, restaurants, cafes and bars.&lt;/p&gt;</description>
     </item>
     <item>
       <title>B&#39;GEO</title>
-      <link>http://localhost:60763/sponsors/bgeo/</link>
+      <link>http://localhost:1313/sponsors/bgeo/</link>
       <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:60763/sponsors/bgeo/</guid>
+      <guid>http://localhost:1313/sponsors/bgeo/</guid>
       <description>&lt;p&gt;BGEO is a knowledge-driven company specializing in open-source Geographic&#xA;Information Systems (GIS) and water management solutions. As the main developers&#xA;of Giswater—a free, open-source software for water cycle management—and&#xA;co-founders of the Giswater Association, BGEO leverages open-source technology&#xA;to enhance the efficiency and resilience of water utilities. Their comprehensive services&#xA;include consulting, implementation, and training, focusing on operating digital twins for&#xA;water supply, urban drainage, and sewer networks. Additionally, BGEO offers engineering&#xA;services related to urban infrastructures, encompassing various studies, environmental&#xA;management, master plans, and engineering projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>European Space Agency</title>
-      <link>http://localhost:60763/sponsors/esa/</link>
+      <link>http://localhost:1313/sponsors/esa/</link>
       <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:60763/sponsors/esa/</guid>
+      <guid>http://localhost:1313/sponsors/esa/</guid>
       <description>&lt;p&gt;The European Space Agency (ESA) serves as Europe&amp;rsquo;s gateway to space, with a mission to shape&#xA;the development of Europe&amp;rsquo;s space capability and ensure that investment in space continues to&#xA;deliver benefits to the citizens of Europe and the world. ​&lt;/p&gt;</description>
     </item>
     <item>
       <title>GeoCat bv</title>
-      <link>http://localhost:60763/sponsors/geocat/</link>
+      <link>http://localhost:1313/sponsors/geocat/</link>
       <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:60763/sponsors/geocat/</guid>
+      <guid>http://localhost:1313/sponsors/geocat/</guid>
       <description>&lt;p&gt;GeoCat provides advanced software and services that make publishing geographic and open&#xA;data on the internet easier and more efficient than ever. Our expert developers play a leading&#xA;role in open-source software, creating sustainable applications based on Open Standards and&#xA;the Free and Open Source software philosophy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Geoinova d.o.o.</title>
-      <link>http://localhost:60763/sponsors/geoinova/</link>
+      <link>http://localhost:1313/sponsors/geoinova/</link>
       <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:60763/sponsors/geoinova/</guid>
+      <guid>http://localhost:1313/sponsors/geoinova/</guid>
       <description>&lt;p&gt;GeoINOVA is a one of leading regional providers of innovative GIS solutions that enable the simple&#xA;and efficient publishing of geographical data. Their specialized software, such as TeleCAD-GIS,&#xA;supports telecommunications operators and other organizations in planning, designing, and maintaining&#xA;infrastructure. By combining deep domain knowledge with the latest technologies, GeoINOVA bridges&#xA;the gap between raw data and valuable insights about our living environment. Their commitment to&#xA;open standards and sustainable, tailored products makes them a trusted partner for organizations&#xA;at the regional, national, and international levels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GISWorld-Tech</title>
-      <link>http://localhost:60763/partners/gisworld/</link>
+      <link>http://localhost:1313/partners/gisworld/</link>
       <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:60763/partners/gisworld/</guid>
+      <guid>http://localhost:1313/partners/gisworld/</guid>
       <description>&lt;p&gt;Welcome to GISWorld – Your Gateway to Geospatial Excellence! 🌍 Explore QGIS&#xA;software tutorials, Python programming for geospatial projects, and contests in&#xA;geoinformation, geodesy, surveying engineering, remote sensing, city planning,&#xA;and smart city solutions. Plus, catch academic poster and paper presentations&#xA;from top journals.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Honorable mentions</title>
-      <link>http://localhost:60763/sponsors/honorable-mentions/</link>
+      <link>http://localhost:1313/sponsors/honorable-mentions/</link>
       <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:60763/sponsors/honorable-mentions/</guid>
+      <guid>http://localhost:1313/sponsors/honorable-mentions/</guid>
       <description>&lt;p&gt;It’s incredible to witness random acts of kindness — people giving&#xA;generously for the good of the community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Excursion</title>
-      <link>http://localhost:60763/schedule/excursion/</link>
+      <link>http://localhost:1313/schedule/excursion/</link>
       <pubDate>Wed, 19 Mar 2025 09:00:00 +0200</pubDate>
-      <guid>http://localhost:60763/schedule/excursion/</guid>
+      <guid>http://localhost:1313/schedule/excursion/</guid>
       <description>&lt;h2 id=&#34;recaș-winery-trip-optional-tbd&#34;&gt;Recaș Winery Trip (optional, TBD)&lt;/h2&gt;&#xA;&lt;p&gt;We aim to organize an optional excursion to the Recaș Winery.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Accommodation</title>
-      <link>http://localhost:60763/venue/accommodation/</link>
+      <link>http://localhost:1313/venue/accommodation/</link>
       <pubDate>Tue, 18 Mar 2025 11:00:00 +0200</pubDate>
-      <guid>http://localhost:60763/venue/accommodation/</guid>
+      <guid>http://localhost:1313/venue/accommodation/</guid>
       <description>&lt;p&gt;Timișoara offers accommodation options for all types of budgets: from low cost hostels to premium hotels.&#xA;There is also the option of renting private accommodations using services like AirBnB and Booking.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marco Minghini</title>
-      <link>http://localhost:60763/scientific-committee/marco-minghini/</link>
+      <link>http://localhost:1313/scientific-committee/marco-minghini/</link>
       <pubDate>Wed, 19 Feb 2025 11:13:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/marco-minghini/</guid>
+      <guid>http://localhost:1313/scientific-committee/marco-minghini/</guid>
       <description>&lt;p&gt;Marco has been an OSGeo Charter Member since 2015. He currently works as a&#xA;Scientific Project Officer at the&#xA;&lt;strong&gt;&lt;a href=&#34;https://joint-research-centre.ec.europa.eu/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;European Commission – Joint Research Centre (JRC)&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;in Ispra, Italy, supporting policies on geospatial data&#xA;sharing/interoperability as well as the implementation of the&#xA;&lt;strong&gt;&lt;a href=&#34;https://inspire.ec.europa.eu/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;INSPIRE Directive&lt;/a&gt;&#xA;&lt;/strong&gt;.&#xA;He is a researcher, educator and advocate on open source software and open&#xA;data. Since 2022 he is the Chair of&#xA;&lt;strong&gt;&lt;a href=&#34;https://www2.isprs.org/commissions/comm4/icwg-4-3-2/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;ISPRS Intercommission Working Group &amp;#34;Open innovation in Geospatial science and Remote Sensing&amp;#34;&lt;/a&gt;&#xA;&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anita Graser</title>
-      <link>http://localhost:60763/program-committee/anita-graser/</link>
+      <link>http://localhost:1313/program-committee/anita-graser/</link>
       <pubDate>Fri, 14 Feb 2025 19:53:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/anita-graser/</guid>
+      <guid>http://localhost:1313/program-committee/anita-graser/</guid>
       <description>&lt;p&gt;Anita Graser is a spatial data scientist, open-source GIS advocate, and&#xA;author. Her background is in geoinformatics, and she is currently&#xA;working as a Senior Scientist in the Data Science &amp;amp; Artificial&#xA;Intelligence research group at AIT Austrian Institute of Technology in&#xA;Vienna. Anita also serves on the QGIS project steering committee and&#xA;teaches Python for QGIS at Unigis Salzburg. She is the lead developer of&#xA;MovingPandas (a Python library for analyzing movement data) and has&#xA;developed tools such as the Time Manager plugin for QGIS. She has&#xA;received multiple awards, including the international OSGeo Sol Katz&#xA;award for her contributions to open-source geographic information&#xA;systems. Anita has published several books about QGIS, including&#xA;“Learning QGIS” and “QGIS Map Design” and writes a popular spatial data&#xA;science blog at&#xA;&lt;strong&gt;&lt;a href=&#34;https://anitagraser.com&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;https://anitagraser.com&lt;/a&gt;&#xA;&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Merli Neito</title>
-      <link>http://localhost:60763/loc/merli-neito/</link>
+      <link>http://localhost:1313/loc/merli-neito/</link>
       <pubDate>Fri, 14 Feb 2025 09:08:24 +0200</pubDate>
-      <guid>http://localhost:60763/loc/merli-neito/</guid>
+      <guid>http://localhost:1313/loc/merli-neito/</guid>
       <description>&lt;p&gt;Merli is an alumni of the University of Tartu. She has both BSc &amp;amp; MSc from the&#xA;geography department. She is currently working in the Landscape Geoinformatics&#xA;Lab as a geoinformatics specialist and she happily takes on project management&#xA;related tasks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tomislav Hlupić</title>
-      <link>http://localhost:60763/scientific-committee/tomislav-hlupic/</link>
+      <link>http://localhost:1313/scientific-committee/tomislav-hlupic/</link>
       <pubDate>Fri, 07 Feb 2025 09:10:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/tomislav-hlupic/</guid>
+      <guid>http://localhost:1313/scientific-committee/tomislav-hlupic/</guid>
       <description>&lt;p&gt;I am currently external associate at University of Zagereb, FER where I am&#xA;working as a lecturer on Geospatial Databases. My research interests, besides&#xA;spatial data, also cover fields of data engineering and cloud analytics.&#xA;My work primarily focuses on modelling and implementing data warehouses and&#xA;data lakes, where I am currently mostly focused on their implementations in&#xA;the cloud environments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ljiljana Šerić</title>
-      <link>http://localhost:60763/scientific-committee/ljiljana-seric/</link>
+      <link>http://localhost:1313/scientific-committee/ljiljana-seric/</link>
       <pubDate>Wed, 05 Feb 2025 09:08:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/ljiljana-seric/</guid>
+      <guid>http://localhost:1313/scientific-committee/ljiljana-seric/</guid>
       <description>&lt;p&gt;prof.dr.sc. Ljiljana Šerić is full Professor at the University of Split, FESB,&#xA;with a PhD in Computer Science. Specializing in Artificial Intelligence,&#xA;Distributed Systems, and Web Programming, My work focuses on interdisciplinary&#xA;projects that bridge environmental management and computer science,&#xA;leveraging intelligent systems to address real-world challenges.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Andrius Balčiūnas</title>
-      <link>http://localhost:60763/program-committee/andrius-balciunas/</link>
+      <link>http://localhost:1313/program-committee/andrius-balciunas/</link>
       <pubDate>Sun, 02 Feb 2025 17:20:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/andrius-balciunas/</guid>
+      <guid>http://localhost:1313/program-committee/andrius-balciunas/</guid>
       <description>&lt;p&gt;Andrius Balčiūnas is a Lecturer of Cartography, Geographic Information Systems&#xA;and Web Mapping at the Geoscience Institute of Vilnius University.&#xA;PhD in Physical Science, graduate in Geography at Vilnius University. Founder&#xA;and GIS Developer at Geografines informacines technologijos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talks</title>
-      <link>http://localhost:60763/schedule/talks/</link>
+      <link>http://localhost:1313/schedule/talks/</link>
       <pubDate>Sun, 02 Feb 2025 14:11:24 +0200</pubDate>
-      <guid>http://localhost:60763/schedule/talks/</guid>
+      <guid>http://localhost:1313/schedule/talks/</guid>
       <description>&lt;p&gt;The talks schedule will be published closer to the event.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Business-to-business</title>
-      <link>http://localhost:60763/schedule/b2b/</link>
+      <link>http://localhost:1313/schedule/b2b/</link>
       <pubDate>Sun, 02 Feb 2025 14:09:24 +0200</pubDate>
-      <guid>http://localhost:60763/schedule/b2b/</guid>
+      <guid>http://localhost:1313/schedule/b2b/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tuesday, 30 June 2026 (proposed)&lt;/p&gt;&#xA;&lt;h2 id=&#34;business-to-business-b2b-event-tbd&#34;&gt;Business-to-business (B2B) event (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;The B2B event is planned to be organized on Tuesday and hosted at ICAM.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting to Timișoara</title>
-      <link>http://localhost:60763/venue/getting-to-mostar/</link>
+      <link>http://localhost:1313/venue/getting-to-mostar/</link>
       <pubDate>Sun, 02 Feb 2025 16:21:24 +0600</pubDate>
-      <guid>http://localhost:60763/venue/getting-to-mostar/</guid>
+      <guid>http://localhost:1313/venue/getting-to-mostar/</guid>
       <description>&lt;h3 id=&#34;transport-to-timișoara&#34;&gt;Transport to Timișoara&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;by-air&#34;&gt;By Air&lt;/h4&gt;&#xA;&lt;p&gt;The Timișoara International Airport offers direct flights to multiple European destinations.&#xA;Other nearby airports with transfer by car include Budapest and Belgrade.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ice-Breaker</title>
-      <link>http://localhost:60763/schedule/ice-breaker/</link>
+      <link>http://localhost:1313/schedule/ice-breaker/</link>
       <pubDate>Sun, 02 Feb 2025 14:07:24 +0600</pubDate>
-      <guid>http://localhost:60763/schedule/ice-breaker/</guid>
+      <guid>http://localhost:1313/schedule/ice-breaker/</guid>
       <description>&lt;h2 id=&#34;ice-breaker-tbd&#34;&gt;Ice breaker (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of the ice breaker is to build trust, energy, and community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GeoChicas event</title>
-      <link>http://localhost:60763/schedule/geochicas-take-mostar/</link>
+      <link>http://localhost:1313/schedule/geochicas-timisoara/</link>
       <pubDate>Sun, 02 Feb 2025 13:55:24 +0600</pubDate>
-      <guid>http://localhost:60763/schedule/geochicas-take-mostar/</guid>
+      <guid>http://localhost:1313/schedule/geochicas-timisoara/</guid>
       <description>&lt;h2 id=&#34;geochicas-event-tbd&#34;&gt;GeoChicas event (TBD)&lt;/h2&gt;&#xA;&lt;p&gt;GeoChicas are an international women’s mapping community with members in more&#xA;than 12 different countries. Our aim is for women to have a greater presence and&#xA;participation in key OSM events, increase female participation and leadership,&#xA;and work on mapping projects which benefit women. Our main focus as a group is&#xA;to help close the gender gap in the OSM community across participation, data&#xA;creation and curation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Birds-of-a-Feather</title>
-      <link>http://localhost:60763/schedule/bof/</link>
+      <link>http://localhost:1313/schedule/bof/</link>
       <pubDate>Sun, 02 Feb 2025 13:46:24 +0600</pubDate>
-      <guid>http://localhost:60763/schedule/bof/</guid>
+      <guid>http://localhost:1313/schedule/bof/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Thursday (2 July), Friday (3 July) 2026 (proposed)&lt;/strong&gt;&lt;br&gt;&#xA;Birds of a Feather (BoF) sessions are unstructured timeslots where people can&#xA;self-organise themselves to discuss topics of interest. So, if there are any&#xA;specific topics you&amp;rsquo;d like to discuss face-to-face with other people this is&#xA;exactly the chance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workshops</title>
-      <link>http://localhost:60763/schedule/workshops/</link>
+      <link>http://localhost:1313/schedule/workshops/</link>
       <pubDate>Sat, 01 Feb 2025 14:13:24 +0200</pubDate>
-      <guid>http://localhost:60763/schedule/workshops/</guid>
+      <guid>http://localhost:1313/schedule/workshops/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshops</title>
-      <link>http://localhost:60763/call-for-proposals/workshops/</link>
+      <link>http://localhost:1313/call-for-proposals/workshops/</link>
       <pubDate>Thu, 23 Jan 2025 15:04:03 +0200</pubDate>
-      <guid>http://localhost:60763/call-for-proposals/workshops/</guid>
+      <guid>http://localhost:1313/call-for-proposals/workshops/</guid>
       <description>&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;&#xA;&lt;p&gt;All deadlines are preliminary and are subject to change. We are working hard to&#xA;stay on schedule as much as possible, but sometimes issues may occur. If&#xA;anything changes we will communicate it on the FOSS4G Europe public&#xA;channels and update timings here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Academic program</title>
-      <link>http://localhost:60763/call-for-proposals/academic-program/</link>
+      <link>http://localhost:1313/call-for-proposals/academic-program/</link>
       <pubDate>Fri, 17 Jan 2025 09:36:35 +0200</pubDate>
-      <guid>http://localhost:60763/call-for-proposals/academic-program/</guid>
+      <guid>http://localhost:1313/call-for-proposals/academic-program/</guid>
       <description>&lt;h2 id=&#34;academic-program-submission-timeline&#34;&gt;Academic program submission timeline&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Submission of abstracts:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Announcement of accepted talks:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Full Program:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Submission of full academic papers:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Conference:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;29 July - 3 July 2026&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;hr&gt;&#xA;&lt;br&gt;&#xA;&lt;div&gt;&#xA;&lt;center&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;#&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; class=&#34;btn btn-primary btn-lg disabled&#34;&gt;Submit a proposal for academic program&lt;/a&gt;&#xA;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marco Ciolli</title>
-      <link>http://localhost:60763/scientific-committee/marco-ciolli/</link>
+      <link>http://localhost:1313/scientific-committee/marco-ciolli/</link>
       <pubDate>Tue, 14 Jan 2025 11:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/marco-ciolli/</guid>
+      <guid>http://localhost:1313/scientific-committee/marco-ciolli/</guid>
       <description>&lt;p&gt;Marco Ciolli, PhD in Forestry, Associate Professor at DICAM and C3A,&#xA;University of Trento (Italy) teaches Master and PhD courses in Applied Ecology,&#xA;Spatial Ecological Modelling and GIS. He organized Summer Schools, GIS courses&#xA;and workshops in Europe, Africa, Asia, Australia and North America to spread&#xA;and support FOSS4G.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aleksandar Valjarević</title>
-      <link>http://localhost:60763/scientific-committee/aleksandar-valjarevic/</link>
+      <link>http://localhost:1313/scientific-committee/aleksandar-valjarevic/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/aleksandar-valjarevic/</guid>
+      <guid>http://localhost:1313/scientific-committee/aleksandar-valjarevic/</guid>
       <description>&lt;p&gt;Affiliation: University of Belgrade, Faculty of Geography&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Geography, cartography, GIS, numerical analysis&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alessandro Sarretta</title>
-      <link>http://localhost:60763/scientific-committee/alessandro-sarretta/</link>
+      <link>http://localhost:1313/scientific-committee/alessandro-sarretta/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/alessandro-sarretta/</guid>
+      <guid>http://localhost:1313/scientific-committee/alessandro-sarretta/</guid>
       <description>&lt;p&gt;Affiliation: CNR-IRPI, Research Institute for Geo-Hydrological Protection&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: (geo)spatial data sharing systems and big data analysis;&#xA;GIS for real-time applications; disaster response and recovery; open geospatial&#xA;science; open geospatial data; participatory mapping and crowdsourcing&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alexander Kotsev</title>
-      <link>http://localhost:60763/scientific-committee/alexander-kotsev/</link>
+      <link>http://localhost:1313/scientific-committee/alexander-kotsev/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/alexander-kotsev/</guid>
+      <guid>http://localhost:1313/scientific-committee/alexander-kotsev/</guid>
       <description>&lt;p&gt;Affiliation: European Commission, JRC&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: sensor networks, interoperability, standards, SDIs,&#xA;data spaces&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anca Anghelea</title>
-      <link>http://localhost:60763/scientific-committee/anca-anghelea/</link>
+      <link>http://localhost:1313/scientific-committee/anca-anghelea/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/anca-anghelea/</guid>
+      <guid>http://localhost:1313/scientific-committee/anca-anghelea/</guid>
       <description>&lt;p&gt;Affiliation: European Space Agency&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Earth Observation, FAIR Open Science, EO Cloud Platforms&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anka Lisec</title>
-      <link>http://localhost:60763/scientific-committee/anka-lisec/</link>
+      <link>http://localhost:1313/scientific-committee/anka-lisec/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/anka-lisec/</guid>
+      <guid>http://localhost:1313/scientific-committee/anka-lisec/</guid>
       <description>&lt;p&gt;Affiliation: University of Ljubljana, Faculty of Civil and Geodetic Engineering&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ante Šiljeg</title>
-      <link>http://localhost:60763/scientific-committee/ante-siljeg/</link>
+      <link>http://localhost:1313/scientific-committee/ante-siljeg/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/ante-siljeg/</guid>
+      <guid>http://localhost:1313/scientific-committee/ante-siljeg/</guid>
       <description>&lt;p&gt;Affiliation: University of Zadar&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: GIS, Remote Sensing&lt;/p&gt;</description>
     </item>
     <item>
       <title>Antonia Ivanda</title>
-      <link>http://localhost:60763/scientific-committee/antonia-ivanda/</link>
+      <link>http://localhost:1313/scientific-committee/antonia-ivanda/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/antonia-ivanda/</guid>
+      <guid>http://localhost:1313/scientific-committee/antonia-ivanda/</guid>
       <description>&lt;p&gt;Affiliation: University of Split, FESB&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Remote Sensing, Deep learning, water monitoring, CNN&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bianca Federici</title>
-      <link>http://localhost:60763/scientific-committee/bianca-federici/</link>
+      <link>http://localhost:1313/scientific-committee/bianca-federici/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/bianca-federici/</guid>
+      <guid>http://localhost:1313/scientific-committee/bianca-federici/</guid>
       <description>&lt;p&gt;Affiliation: University of Genova, Italy&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: GIS applications, traditional topography, GNSS, optical images&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clara Tattoni</title>
-      <link>http://localhost:60763/scientific-committee/clara-tattoni/</link>
+      <link>http://localhost:1313/scientific-committee/clara-tattoni/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/clara-tattoni/</guid>
+      <guid>http://localhost:1313/scientific-committee/clara-tattoni/</guid>
       <description>&lt;p&gt;Affiliation: Università dell&amp;rsquo;Insubria Italy&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evelyn Uuemaa</title>
-      <link>http://localhost:60763/scientific-committee/evelyn-uuemaa/</link>
+      <link>http://localhost:1313/scientific-committee/evelyn-uuemaa/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/evelyn-uuemaa/</guid>
+      <guid>http://localhost:1313/scientific-committee/evelyn-uuemaa/</guid>
       <description>&lt;p&gt;Affiliation: Landscape Geoinformatics Lab, University of Tartu&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: remote sensing, land use change, spatial modelling, explainable AI&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gresa Neziri</title>
-      <link>http://localhost:60763/scientific-committee/gresa-neziri/</link>
+      <link>http://localhost:1313/scientific-committee/gresa-neziri/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/gresa-neziri/</guid>
+      <guid>http://localhost:1313/scientific-committee/gresa-neziri/</guid>
       <description>&lt;p&gt;Affiliation: SpaceSyntaKs, Kosovo&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Architectural Engineering, Public Health, Remote Sensing,&#xA;Geostatistics, Geoinformatics (GIS)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hrvoje Matijević</title>
-      <link>http://localhost:60763/scientific-committee/hrvoje-matijevic/</link>
+      <link>http://localhost:1313/scientific-committee/hrvoje-matijevic/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/hrvoje-matijevic/</guid>
+      <guid>http://localhost:1313/scientific-committee/hrvoje-matijevic/</guid>
       <description>&lt;p&gt;Affiliation: University North, Department of Geodesy and Geomatics&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Web GIS technologies, geospatial data processing and&#xA;geospatial databases&lt;/p&gt;</description>
     </item>
     <item>
       <title>Krištof Oštir</title>
-      <link>http://localhost:60763/scientific-committee/kristof-ostir/</link>
+      <link>http://localhost:1313/scientific-committee/kristof-ostir/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/kristof-ostir/</guid>
+      <guid>http://localhost:1313/scientific-committee/kristof-ostir/</guid>
       <description>&lt;p&gt;Affiliation: University of Ljubljana, Faculty of Civil and Geodetic Engineering&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maria Antonia Brovelli</title>
-      <link>http://localhost:60763/scientific-committee/maria-antonia-brovelli/</link>
+      <link>http://localhost:1313/scientific-committee/maria-antonia-brovelli/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/maria-antonia-brovelli/</guid>
+      <guid>http://localhost:1313/scientific-committee/maria-antonia-brovelli/</guid>
       <description>&lt;p&gt;Affiliation: Politecnico di Milano&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: GIS, Earth Observation, GEOAI, Digital Twin Earth&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marina Tavra</title>
-      <link>http://localhost:60763/scientific-committee/marina-tavra/</link>
+      <link>http://localhost:1313/scientific-committee/marina-tavra/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/marina-tavra/</guid>
+      <guid>http://localhost:1313/scientific-committee/marina-tavra/</guid>
       <description>&lt;p&gt;Field of expertise: Spatial analysis in GIS, Web GIS development, Cartographic&#xA;visualization, Digital cartography, Conceptual modeling of geoinformation and&#xA;cartographic systems&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marjan Sikora</title>
-      <link>http://localhost:60763/scientific-committee/marjan-sikora/</link>
+      <link>http://localhost:1313/scientific-committee/marjan-sikora/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/marjan-sikora/</guid>
+      <guid>http://localhost:1313/scientific-committee/marjan-sikora/</guid>
       <description>&lt;p&gt;Affiliation: University of Split, FESB&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: GIS, Cartography, Programming, Geometric Simulations,&#xA;Programming Languages, Translators, Electroacoustics&lt;/p&gt;</description>
     </item>
     <item>
       <title>Massimiliano Cannata</title>
-      <link>http://localhost:60763/scientific-committee/massimiliano-cannata/</link>
+      <link>http://localhost:1313/scientific-committee/massimiliano-cannata/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/massimiliano-cannata/</guid>
+      <guid>http://localhost:1313/scientific-committee/massimiliano-cannata/</guid>
       <description>&lt;p&gt;Affiliation: Institute of Earth sciences, SUPSI-DACD, Switzerland&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Sensor data, earth sciences, water resources&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nikola Kranjčić</title>
-      <link>http://localhost:60763/scientific-committee/nikola-kranjcic/</link>
+      <link>http://localhost:1313/scientific-committee/nikola-kranjcic/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/nikola-kranjcic/</guid>
+      <guid>http://localhost:1313/scientific-committee/nikola-kranjcic/</guid>
       <description>&lt;p&gt;Affiliation: University North, Department of Geodesy and Geomatics&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: machine learning, satellite imagery, open street maps&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paolo Zatelli</title>
-      <link>http://localhost:60763/scientific-committee/paolo-zatelli/</link>
+      <link>http://localhost:1313/scientific-committee/paolo-zatelli/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/paolo-zatelli/</guid>
+      <guid>http://localhost:1313/scientific-committee/paolo-zatelli/</guid>
       <description>&lt;p&gt;Affiliation: University of Trento, Italy&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: GIS, image processing, photogrammetry, GIS educations&lt;/p&gt;</description>
     </item>
     <item>
       <title>Peter Mooney</title>
-      <link>http://localhost:60763/scientific-committee/peter-mooney/</link>
+      <link>http://localhost:1313/scientific-committee/peter-mooney/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/peter-mooney/</guid>
+      <guid>http://localhost:1313/scientific-committee/peter-mooney/</guid>
       <description>&lt;p&gt;Affiliation: Maynooth University&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: open geospatial science, open geospatial data,&#xA;(geo)spatial data sharing systems and big data analysis, GIS for real-time&#xA;applications, disaster response and recovery, open (geo)education,&#xA;participatory mapping and crowdsourcing, GeoAI and geospatial ML&lt;/p&gt;</description>
     </item>
     <item>
       <title>Silvija Šiljeg</title>
-      <link>http://localhost:60763/scientific-committee/silvija-siljeg/</link>
+      <link>http://localhost:1313/scientific-committee/silvija-siljeg/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/silvija-siljeg/</guid>
+      <guid>http://localhost:1313/scientific-committee/silvija-siljeg/</guid>
       <description>&lt;p&gt;Affiliation: University of Zadar, department for geography&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Urban Geography, Geographic Information Systems (GIS),&#xA;Quality of Life and Housing, Spatial Accessibility and Urban Amenities, Urban&#xA;Vulnerability and Modeling&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vlado Cetl</title>
-      <link>http://localhost:60763/scientific-committee/vlado-cetl/</link>
+      <link>http://localhost:1313/scientific-committee/vlado-cetl/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/scientific-committee/vlado-cetl/</guid>
+      <guid>http://localhost:1313/scientific-committee/vlado-cetl/</guid>
       <description>&lt;p&gt;Affiliation: University North, Croatia; University of Mostar, Bosnia-Herzegovina&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: spatial information management, spatial data&#xA;infrastructures, cadastre, land management, geoinformatics, GIS, risk&#xA;management.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lea Pauts</title>
-      <link>http://localhost:60763/program-committee/lea-pauts/</link>
+      <link>http://localhost:1313/program-committee/lea-pauts/</link>
       <pubDate>Mon, 13 Jan 2025 10:32:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/lea-pauts/</guid>
+      <guid>http://localhost:1313/program-committee/lea-pauts/</guid>
       <description>&lt;p&gt;A founding member of the Estonian Geoinformatics Society with 25 years of&#xA;expertise in geoinformatics. I am currently leading the topographic data&#xA;production for the national database in the Estonian Land and Spatial&#xA;Development Board. My passion lies in ensuring spatial data quality, and I&#xA;advocate for open data principles&#xA;and data-driven policies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Andrea Antonello</title>
-      <link>http://localhost:60763/program-committee/andrea-antonello/</link>
+      <link>http://localhost:1313/program-committee/andrea-antonello/</link>
       <pubDate>Mon, 13 Jan 2025 09:56:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/andrea-antonello/</guid>
+      <guid>http://localhost:1313/program-committee/andrea-antonello/</guid>
       <description>&lt;p&gt;Andrea Antonello has been involved in GFOSS development since earning his&#xA;degree in environmental engineering. He co-founded HydroloGIS, a company that&#xA;develops and utilizes GFOSS software for environmental analyses.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Luca Delucchi</title>
-      <link>http://localhost:60763/program-committee/luca-delucchi/</link>
+      <link>http://localhost:1313/program-committee/luca-delucchi/</link>
       <pubDate>Fri, 10 Jan 2025 09:38:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/luca-delucchi/</guid>
+      <guid>http://localhost:1313/program-committee/luca-delucchi/</guid>
       <description>&lt;p&gt;Luca is an OSGeo and OSM contributor and advocate. He graduated in&#xA;Geography applied to the environment, landscape and tourism from&#xA;University of Genoa (Italy) in 2008. Since the same year he work at&#xA;Fondazione Edmund Mach, a research center near Trento. He is&#xA;interested in all features about GIS: desktop, web, geodatabase,&#xA;developing and geodata. Right now he is working on a multiplatform&#xA;server and client application to monitor agricultural fields named&#xA;&lt;a href=&#34;https://digiagriapp.gitlab.io/digiagriapp-website/&#34;&gt;DigiAgriApp&lt;/a&gt;.&#xA;He contribute to GRASS GIS, OSGeoLive, QGIS, and ZOO-Project projects,&#xA;he is also the main developer of pyModis library.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Margherita Di Leo</title>
-      <link>http://localhost:60763/program-committee/margherita-di-leo/</link>
+      <link>http://localhost:1313/program-committee/margherita-di-leo/</link>
       <pubDate>Fri, 10 Jan 2025 08:15:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/margherita-di-leo/</guid>
+      <guid>http://localhost:1313/program-committee/margherita-di-leo/</guid>
       <description>&lt;p&gt;Margherita Di Leo is an engineer with a PhD in Methods and Technologies for&#xA;Environmental Monitoring. She has been an OSGeo charter member since 2011 and&#xA;has contributed to GRASS GIS, OSGeoLive, GSoC@OSGeo among others. She works at&#xA;the Joint Research Centre of the European Commission in Italy as an&#xA;external consultant.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Joana Simoes</title>
-      <link>http://localhost:60763/program-committee/joana-simoes/</link>
+      <link>http://localhost:1313/program-committee/joana-simoes/</link>
       <pubDate>Fri, 10 Jan 2025 08:09:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/joana-simoes/</guid>
+      <guid>http://localhost:1313/program-committee/joana-simoes/</guid>
       <description>&lt;p&gt;Joana is a data engineer and a data scientist, with 15+ years experience and a&#xA;strong expertise in the field of geospatial tech and analytics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jorge Sanz</title>
-      <link>http://localhost:60763/program-committee/jorge-sanz/</link>
+      <link>http://localhost:1313/program-committee/jorge-sanz/</link>
       <pubDate>Fri, 10 Jan 2025 08:05:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/jorge-sanz/</guid>
+      <guid>http://localhost:1313/program-committee/jorge-sanz/</guid>
       <description>&lt;p&gt;Jorge Sanz is a geospatial technologist from Valencia, Spain. With a&#xA;Cartography and Geodesy Engineering background, he has worked in Geographical&#xA;Information Systems and Software Engineering since 2004.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Luís Moreira de Sousa</title>
-      <link>http://localhost:60763/program-committee/luis-moreira-de-sousa/</link>
+      <link>http://localhost:1313/program-committee/luis-moreira-de-sousa/</link>
       <pubDate>Thu, 09 Jan 2025 07:54:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/luis-moreira-de-sousa/</guid>
+      <guid>http://localhost:1313/program-committee/luis-moreira-de-sousa/</guid>
       <description>&lt;p&gt;Luís Moreira de Sousa completed the Degree on Informatics and Computers&#xA;Engineering at the University of Lisbon in 2002, which he complemented with a&#xA;Masters on Geographic Information Systems in 2005. In the Department of Civil&#xA;Engineering of this university he was a junior researcher from 2002 to 2008,&#xA;contributing to applied research projects with Instituto da Água and Estradas&#xA;de Portugal. After a year as consultant with SIQuant at the National Laboratory&#xA;of Civil Engineering (LNEC), in 2009 he became an independent consultant,&#xA;supporting de development of the spatial data infrastructure of the newly&#xA;created Administração da Região Hidrográfica do Tejo (ARH-Tejo).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jachym Cepicky</title>
-      <link>http://localhost:60763/program-committee/jachym-cepicky/</link>
+      <link>http://localhost:1313/program-committee/jachym-cepicky/</link>
       <pubDate>Thu, 09 Jan 2025 07:48:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/jachym-cepicky/</guid>
+      <guid>http://localhost:1313/program-committee/jachym-cepicky/</guid>
       <description>&lt;p&gt;Ex- open source GIS contributor, OSGeo passive member. Currently product&#xA;manager of the Data, Maps and Search teams at&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.maptiler.com/team/jachym-cepicky/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;MapTiler.com&lt;/a&gt;&#xA;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Joachim Ungar</title>
-      <link>http://localhost:60763/program-committee/joachim-ungar/</link>
+      <link>http://localhost:1313/program-committee/joachim-ungar/</link>
       <pubDate>Wed, 08 Jan 2025 09:02:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/joachim-ungar/</guid>
+      <guid>http://localhost:1313/program-committee/joachim-ungar/</guid>
       <description>&lt;p&gt;Joachim Ungar is Lead Cartographer and Geospatial IT Engineer at EOX, an open&#xA;source software oriented company based in Vienna. He has a MSc degree in&#xA;Cartography and Geoinformation and specialized in large scale processing of&#xA;geodata, mainly satellite imagery, using GDAL and Python. He enthusiastically&#xA;participates and contributes to FOSS4G events since 2011.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Berit Mohr</title>
-      <link>http://localhost:60763/program-committee/berit-mohr/</link>
+      <link>http://localhost:1313/program-committee/berit-mohr/</link>
       <pubDate>Tue, 07 Jan 2025 14:07:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/berit-mohr/</guid>
+      <guid>http://localhost:1313/program-committee/berit-mohr/</guid>
       <description>&lt;p&gt;Berit Mohr is a GIS enthusiast who promotes and supports open source software.&#xA;Since 2022 she has been working with GFA Consulting Group GmbH and tries&#xA;actively to push GIS and open source into the development cooperation sector.&#xA;In October 2024, she has been working at OpenGIS.CH as a GIS specialist, where&#xA;she advises, trains and manages small projects. With her many years of&#xA;experience in various sectors such as academia, the private sector and the&#xA;development cooperation context, she brings a global perspective and has an&#xA;amazing talent for translating and teaching different languages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evelyn Uuemaa</title>
-      <link>http://localhost:60763/program-committee/evelyn-uuemaa/</link>
+      <link>http://localhost:1313/program-committee/evelyn-uuemaa/</link>
       <pubDate>Thu, 19 Dec 2024 14:28:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/evelyn-uuemaa/</guid>
+      <guid>http://localhost:1313/program-committee/evelyn-uuemaa/</guid>
       <description>&lt;p&gt;Evelyn is a geographer by heart and Professor in Geoinformatics in University&#xA;of Tartu. She holds a MSc in geoinformatics and PhD in landscape ecology and&#xA;environmental protection, and is developing the Landscape Geoinformatics&#xA;working group as a necessity to improve and strengthen environmental&#xA;geoinformatics capabilities at the university and for Estonia in general&#xA;through leading national and international research projects. Her research&#xA;interests evolve around the interactions of land use/land cover and water&#xA;quality, landscape changes and geospatial modelling with machine learning.&#xA;She is also interested in geospatial visualisation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Katja Haferkorn</title>
-      <link>http://localhost:60763/program-committee/katja-haferkorn/</link>
+      <link>http://localhost:1313/program-committee/katja-haferkorn/</link>
       <pubDate>Thu, 19 Dec 2024 14:27:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/katja-haferkorn/</guid>
+      <guid>http://localhost:1313/program-committee/katja-haferkorn/</guid>
       <description>&lt;p&gt;I am a geographer, interested in geoinformatics, beautiful maps and especially&#xA;in supporting the great OSS community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markus Neteler</title>
-      <link>http://localhost:60763/program-committee/markus-neteler/</link>
+      <link>http://localhost:1313/program-committee/markus-neteler/</link>
       <pubDate>Thu, 19 Dec 2024 14:25:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/markus-neteler/</guid>
+      <guid>http://localhost:1313/program-committee/markus-neteler/</guid>
       <description>&lt;p&gt;I am Markus Neteler (PhD), co-founder and senior consultant at mundialis&#xA;GmbH &amp;amp; Co. KG based in Bonn, Germany.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Petya Kangalova</title>
-      <link>http://localhost:60763/program-committee/petya-kangalova/</link>
+      <link>http://localhost:1313/program-committee/petya-kangalova/</link>
       <pubDate>Thu, 19 Dec 2024 14:19:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/petya-kangalova/</guid>
+      <guid>http://localhost:1313/program-committee/petya-kangalova/</guid>
       <description>&lt;p&gt;Tech Partnership and Engagement Lead at&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.hotosm.org/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;HOT&lt;/a&gt;&#xA;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Originally from Bulgaria, I am currently based in Bristol, UK. I am really&#xA;passionate about the impact of open mapping and using technology as the enabler&#xA;for people in supporting their communities. In this role, I hope to be able to&#xA;successfully build a dynamic collective of open tech contributors from&#xA;around the world!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Katre Kasemägi</title>
-      <link>http://localhost:60763/program-committee/katre-kasemagi/</link>
+      <link>http://localhost:1313/program-committee/katre-kasemagi/</link>
       <pubDate>Thu, 19 Dec 2024 12:27:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/katre-kasemagi/</guid>
+      <guid>http://localhost:1313/program-committee/katre-kasemagi/</guid>
       <description>&lt;p&gt;Open source GIS software friend and user. Favourite GIS tools are QGIS and&#xA;different R spatial libraries. Value small hacks and creative use of open&#xA;source data and GIS software. Previously worked in the public sector with&#xA;different spatial data services.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hans Gregers Hedegaard Petersen</title>
-      <link>http://localhost:60763/program-committee/hans-gregers-hedegaard-petersen/</link>
+      <link>http://localhost:1313/program-committee/hans-gregers-hedegaard-petersen/</link>
       <pubDate>Thu, 19 Dec 2024 12:08:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/hans-gregers-hedegaard-petersen/</guid>
+      <guid>http://localhost:1313/program-committee/hans-gregers-hedegaard-petersen/</guid>
       <description>&lt;p&gt;Greg is an open source and open data advocate. Though he started as a&#xA;statistical consultant and developer (using FOSS like Debian, R, etc), he&#xA;ended up in the geo business. Now he consults clients on several areas&#xA;regarding geodata - mostly within the use of geodata and GIS at public admin&#xA;clients. He has a strong belief in Open Data, and co-founded the company&#xA;Septima in January 2013 to utilize the newly released national data.&#xA;Today Septima employs 30 people. Greg is an avid speaker on the subject of&#xA;Open Data, and teaches courses on PostGIS, GeoServer etc. at&#xA;company and university level.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Carmen Diez</title>
-      <link>http://localhost:60763/program-committee/carmen-diez/</link>
+      <link>http://localhost:1313/program-committee/carmen-diez/</link>
       <pubDate>Thu, 19 Dec 2024 11:52:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/carmen-diez/</guid>
+      <guid>http://localhost:1313/program-committee/carmen-diez/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Degree in Civil Engineering and Master in Environmental Engineering and&#xA;Management of Water. Actually I work in Regional Ministry of Environment and&#xA;Spatial Planning in Madrid Government, using GIS in urban planning and spatial&#xA;development general management. Before that I worked modelling with GIS in&#xA;environmental flow regime, surface water quality and hydraulic modeling flood&#xA;watersheds of Spain.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vasile Craciunescu</title>
-      <link>http://localhost:60763/program-committee/vasile-craciunescu/</link>
+      <link>http://localhost:1313/program-committee/vasile-craciunescu/</link>
       <pubDate>Thu, 19 Dec 2024 11:47:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/vasile-craciunescu/</guid>
+      <guid>http://localhost:1313/program-committee/vasile-craciunescu/</guid>
       <description>&lt;p&gt;Vasile Craciunescu is a researcher with more than 23 years experience, working&#xA;for the Romanian National Meteorological Administration and Terrasigna, being&#xA;in charge with the scientific and operational activities related to GIS database&#xA;design and implementation, deployment of standardized web services, spatial&#xA;enabled web interfaces, ETL, EO data processing, project management. He&#xA;received his diploma in cartography and physical geography in 2001. He has a&#xA;good experience in working and leading national, EU and ESA research projects.&#xA;In 2006 Vasile started geo-spatial.org&#xA;(&lt;strong&gt;&lt;a href=&#34;https://geo-spatial.org&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;https://geo-spatial.org&lt;/a&gt;&#xA;&lt;/strong&gt;),&#xA;a collaborative&#xA;effort by and for the Romanian community to facilitate the sharing of geospatial&#xA;knowledge and the discovery and publishing of free geographic datasets and maps.&#xA;Since 2011 he is the Romanian delegate in the Copernicus User Forum at the&#xA;European Commission and the representative of Meteo Romania at Open Geospatial&#xA;Consortium. In August 2014 he was elected to the Open Source Geospatial Foundation&#xA;board of directors. For the last 12 years he has been teaching FOSS4G-based&#xA;techniques at the Faculty of Geography - University of Bucharest in the first&#xA;Romanian ICA-OSGeo Lab.&#xA;Vasile was the chair of the 2019 FOSS4G international conference.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Veronica Andreo</title>
-      <link>http://localhost:60763/program-committee/veronica-andreo/</link>
+      <link>http://localhost:1313/program-committee/veronica-andreo/</link>
       <pubDate>Thu, 19 Dec 2024 11:34:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/veronica-andreo/</guid>
+      <guid>http://localhost:1313/program-committee/veronica-andreo/</guid>
       <description>&lt;p&gt;Veronica Andreo holds a PhD in Biology and an MSc in Remote Sensing and GIS&#xA;Applications. She is part of the GRASS Dev Team, and serves as PSC chair since&#xA;2021. She works as a researcher for CONICET at Gulich Institute - Argentinian&#xA;Space Agency (CONAE) in Córdoba, Argentina.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codrina Maria Ilie</title>
-      <link>http://localhost:60763/program-committee/codrina-ilie/</link>
+      <link>http://localhost:1313/program-committee/codrina-ilie/</link>
       <pubDate>Thu, 19 Dec 2024 11:26:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/codrina-ilie/</guid>
+      <guid>http://localhost:1313/program-committee/codrina-ilie/</guid>
       <description>&lt;p&gt;Codrina Ilie is a technical geographer, an open source GIS/RS power user,&#xA;actively working as a project officer to support geospatial data services&#xA;development at Terrasigna. In her 12 years of activity, Codrina has essentially&#xA;focused on using open source GIS and RS solutions for data management,&#xA;processing and visualization. As an advocate for free and open source&#xA;software for geospatial, since 2010 she has been a volunteer trainer in the&#xA;Romanian geospatial community, geo-spatial.org. Since 2013, Codrina has been a&#xA;Charter Member and today serves the community as an OSGeo Board of Directors&#xA;elected member, within her third term.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Family-friendly activities</title>
-      <link>http://localhost:60763/schedule/family-friendly-activities/</link>
+      <link>http://localhost:1313/schedule/family-friendly-activities/</link>
       <pubDate>Sat, 07 Dec 2024 10:32:19 +0100</pubDate>
-      <guid>http://localhost:60763/schedule/family-friendly-activities/</guid>
+      <guid>http://localhost:1313/schedule/family-friendly-activities/</guid>
       <description>&lt;p&gt;Family-friendly activities will be published closer to the event.&lt;/p&gt;</description>
     </item>
     <item>
       <title>General program</title>
-      <link>http://localhost:60763/call-for-proposals/general-program/</link>
+      <link>http://localhost:1313/call-for-proposals/general-program/</link>
       <pubDate>Sat, 30 Nov 2024 13:09:24 +0200</pubDate>
-      <guid>http://localhost:60763/call-for-proposals/general-program/</guid>
+      <guid>http://localhost:1313/call-for-proposals/general-program/</guid>
       <description>&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;&#xA;&lt;p&gt;All deadlines are preliminary and are subject to change. We are working hard to&#xA;stay on schedule as much as possible, but sometimes issues may occur. If&#xA;anything changes we will communicate it on the FOSS4G Europe public&#xA;channels and update timings here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Enock Seth Nyamador</title>
-      <link>http://localhost:60763/program-committee/enock-seth-nyamador/</link>
+      <link>http://localhost:1313/program-committee/enock-seth-nyamador/</link>
       <pubDate>Fri, 29 Nov 2024 09:29:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/enock-seth-nyamador/</guid>
+      <guid>http://localhost:1313/program-committee/enock-seth-nyamador/</guid>
       <description>&lt;p&gt;Enock Seth Nyamador is a FOSS4G and Open Data Consultant and advocate.&#xA;He is an active OpenStreetMap contributor and OSGeo Charter member; member of&#xA;OSGeo Marketing Committee and OSGeoLive PSC. He also participates in Free&#xA;software and Free content movements.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marie Annusver</title>
-      <link>http://localhost:60763/loc/marie-annusver/</link>
+      <link>http://localhost:1313/loc/marie-annusver/</link>
       <pubDate>Fri, 29 Nov 2024 09:29:24 +0200</pubDate>
-      <guid>http://localhost:60763/loc/marie-annusver/</guid>
+      <guid>http://localhost:1313/loc/marie-annusver/</guid>
       <description>&lt;p&gt;I am a master&amp;rsquo;s student at the University of Tartu, majoring in Geography with&#xA;a focus on geoinformatics and cartography. I am very interested in using QGIS&#xA;for spatial analysis and map creation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stefanie Lumnitz</title>
-      <link>http://localhost:60763/program-committee/stefanie-lumnitz/</link>
+      <link>http://localhost:1313/program-committee/stefanie-lumnitz/</link>
       <pubDate>Fri, 29 Nov 2024 09:29:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/stefanie-lumnitz/</guid>
+      <guid>http://localhost:1313/program-committee/stefanie-lumnitz/</guid>
       <description></description>
     </item>
     <item>
       <title>Grgo Šarić</title>
-      <link>http://localhost:60763/program-committee/grgo-saric/</link>
+      <link>http://localhost:1313/program-committee/grgo-saric/</link>
       <pubDate>Tue, 26 Nov 2024 12:24:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/grgo-saric/</guid>
+      <guid>http://localhost:1313/program-committee/grgo-saric/</guid>
       <description>&lt;p&gt;Grgo Šarić has a Master’s degree in Spatial Planning and Regional Development&#xA;from the University of Zagreb. He works in local company Ecoplan d.o.o. in&#xA;Mostar and is a dedicated spatial planner specializing in the use of&#xA;open-source data to analyze spatial patterns and support data-driven&#xA;decision-making processes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sidorela Uku</title>
-      <link>http://localhost:60763/loc/sidorela-uku/</link>
+      <link>http://localhost:1313/loc/sidorela-uku/</link>
       <pubDate>Tue, 26 Nov 2024 10:04:24 +0200</pubDate>
-      <guid>http://localhost:60763/loc/sidorela-uku/</guid>
+      <guid>http://localhost:1313/loc/sidorela-uku/</guid>
       <description>&lt;p&gt;Sidorela is a mapping/geography enthusiast and advocate for open-source&#xA;technologies. Currently she is pursuing studies on Green Networking and Cloud&#xA;Computing at University of Lorraine.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kurt Menke</title>
-      <link>http://localhost:60763/program-committee/kurt-menke/</link>
+      <link>http://localhost:1313/program-committee/kurt-menke/</link>
       <pubDate>Sat, 23 Nov 2024 17:40:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/kurt-menke/</guid>
+      <guid>http://localhost:1313/program-committee/kurt-menke/</guid>
       <description>&lt;p&gt;In early 2021, Kurt moved from the USA to Denmark and now works for Septima P/S&#xA;in Copenhagen, Denmark. He earned a Master in Geography from the University of&#xA;New Mexico in 2000. He has a broad skillset. He is a spatial analyst,&#xA;cartographer, trainer/teacher and author. He has published many QGIS books,&#xA;the most recent being: Discover QGIS 3.x - Second Edition, QGIS for Hydrological&#xA;Applications - Second Edition, and Field Data Collection with QGIS and Mergin&#xA;Maps all with Locate Press. He was elected as an OsGeo Charter Member in 2015.&#xA;He is also a fellow of the Rewilding Institute and a board member of&#xA;Wild Arizona.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Danko Markovinović</title>
-      <link>http://localhost:60763/loc/danko-markovinovic/</link>
+      <link>http://localhost:1313/loc/danko-markovinovic/</link>
       <pubDate>Sat, 23 Nov 2024 15:02:24 +0200</pubDate>
-      <guid>http://localhost:60763/loc/danko-markovinovic/</guid>
+      <guid>http://localhost:1313/loc/danko-markovinovic/</guid>
       <description>&lt;p&gt;My journey in geodesy began at the Faculty of Geodesy, University of Zagreb, where I&#xA;completed my Bachelor&amp;rsquo;s, Master&amp;rsquo;s, and PhD degrees. I then spent 18 years as a&#xA;faculty member, contributing to research and education in the field. In a pivotal&#xA;moment in my career, I was appointed by the Government of the Republic&#xA;of Croatia as Director of the State Geodetic Administration, where I had the&#xA;opportunity to lead transformative national geospatial projects. Some of the key milestones&#xA;during my tenure included the launch of the State Geodetic Administration Geoportal&#xA;(2012), the NSDI Geoportal (2014), and the implementation of the INSPIRE directive through&#xA;the NSDI Law (2013). I was also responsible for overseeing the development and full implementation&#xA;of the Joint Information System for cadastre and land registry, ensuring free and open&#xA;access to geospatial data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marko Puljic</title>
-      <link>http://localhost:60763/loc/marko-puljic/</link>
+      <link>http://localhost:1313/loc/marko-puljic/</link>
       <pubDate>Sat, 23 Nov 2024 15:02:24 +0200</pubDate>
-      <guid>http://localhost:60763/loc/marko-puljic/</guid>
+      <guid>http://localhost:1313/loc/marko-puljic/</guid>
       <description>&lt;p&gt;I’m Marko Puljić, born in Mostar and educated at the Faculty of Economics,&#xA;University of Zagreb. For the last 11 years, I’ve worked with Ecoplan, one of&#xA;the largest consulting companies in Bosnia and Herzegovina specializing in&#xA;spatial planning and urbanism. My background in economics has given me a unique&#xA;lens through which I approach geospatial analysis and planning, combining&#xA;data-driven decision-making with the strategic insights necessary for impactful&#xA;spatial projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Astrid Emde</title>
-      <link>http://localhost:60763/program-committee/astrid-emde/</link>
+      <link>http://localhost:1313/program-committee/astrid-emde/</link>
       <pubDate>Sat, 23 Nov 2024 14:57:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/astrid-emde/</guid>
+      <guid>http://localhost:1313/program-committee/astrid-emde/</guid>
       <description>&lt;p&gt;Astrid Emde is an active member of OSGeo and the OSGeo Secretary. She&#xA;was in the OSGeo Board of Directors from 2017 till 2021. She is an&#xA;active member of FOSSGIS e.V. the german language Local Chapter of OSGeo&#xA;and part of the team that is organizing the annual FOSSGIS conference.&#xA;Astrid Emde is an Open Source Geospatial expert, actively working as a&#xA;GIS Consultant at WhereGroup in Bonn (Germany).&#xA;She is part of the Mapbender and OSGeoLive team. She received the Sol&#xA;Katz Award in 2018 at the FOSS4G conference in Dar es Salaam (Tanzania).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tõnis Kärdi</title>
-      <link>http://localhost:60763/loc/tonis-kardi/</link>
+      <link>http://localhost:1313/loc/tonis-kardi/</link>
       <pubDate>Thu, 21 Nov 2024 14:40:24 +0200</pubDate>
-      <guid>http://localhost:60763/loc/tonis-kardi/</guid>
+      <guid>http://localhost:1313/loc/tonis-kardi/</guid>
       <description>&lt;p&gt;Tõnis is a freelance GIS/IT consultant from Tartu, Estonia. Integrating spatial&#xA;data and spatial data usage into existing and newborn information systems alike&#xA;is his main focal point of work. And of course, advocating for the adoption of&#xA;FOSS for the purpose along the way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Besfort Guri</title>
-      <link>http://localhost:60763/program-committee/besfort-guri/</link>
+      <link>http://localhost:1313/program-committee/besfort-guri/</link>
       <pubDate>Thu, 21 Nov 2024 14:03:24 +0200</pubDate>
-      <guid>http://localhost:60763/program-committee/besfort-guri/</guid>
+      <guid>http://localhost:1313/program-committee/besfort-guri/</guid>
       <description>&lt;p&gt;Besfort Guri co-leads Kosovo’s open-source and mapping community. As FLOSSK’s&#xA;President, he advocates for open-source values at home. Engaged with the&#xA;OpenStreetMap Foundation and OSGeo, he represents them in Kosovo. Besfort&#xA;co-leads Open Spatial Kosovo and chaired FOSS4G 2023. Through OpS-IN,&#xA;his Kosovo business, he develops open-source GIS tools, demonstrating his&#xA;commitment to local and global tech progress.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hamidreza Ostadabbas</title>
-      <link>http://localhost:60763/loc/hamidreza-ostadabbas/</link>
+      <link>http://localhost:1313/loc/hamidreza-ostadabbas/</link>
       <pubDate>Thu, 21 Nov 2024 14:03:24 +0200</pubDate>
-      <guid>http://localhost:60763/loc/hamidreza-ostadabbas/</guid>
+      <guid>http://localhost:1313/loc/hamidreza-ostadabbas/</guid>
       <description>&lt;p&gt;Hamidreza Ostadabbas, Head of Geoinformatics Department at die STEG&#xA;Stadtentwicklung GmbH in Stuttgart, Germany, has been a GIS software developer&#xA;with the company since 2018. Passionate about open-source tools like QGIS and&#xA;PostgreSQL, he is also a Python Plugin developer. As a university lecturer at&#xA;Stuttgart University, he shares valuable knowledge on Smart, Open Data&#xA;Components and AI to master’s students. Since 2023, he serves as the Deputy&#xA;Young Surveyor of the Council of European Geodetic Surveyors (CLGE).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Map Gallery Submissions</title>
-      <link>http://localhost:60763/call-for-proposals/map-gallery-submissions/</link>
+      <link>http://localhost:1313/call-for-proposals/map-gallery-submissions/</link>
       <pubDate>Sat, 16 Nov 2024 14:19:24 +0200</pubDate>
-      <guid>http://localhost:60763/call-for-proposals/map-gallery-submissions/</guid>
+      <guid>http://localhost:1313/call-for-proposals/map-gallery-submissions/</guid>
       <description>&lt;h2 id=&#34;map-submissions-open&#34;&gt;Map Submissions Open!&lt;/h2&gt;&#xA;&lt;p&gt;Map gallery submission details will be published closer to the event.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Important dates</title>
-      <link>http://localhost:60763/about/important-dates/</link>
+      <link>http://localhost:1313/about/important-dates/</link>
       <pubDate>Sat, 16 Nov 2024 13:44:24 +0200</pubDate>
-      <guid>http://localhost:60763/about/important-dates/</guid>
+      <guid>http://localhost:1313/about/important-dates/</guid>
       <description>&lt;p&gt;The following dates are preliminary and are subject to changes. Calls are&#xA;planned to be opened for workshops, general, and academic program. Deadlines&#xA;for them will be different.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Code of Conduct</title>
-      <link>http://localhost:60763/about/coc/</link>
+      <link>http://localhost:1313/about/coc/</link>
       <pubDate>Wed, 06 Nov 2024 20:41:24 +0200</pubDate>
-      <guid>http://localhost:60763/about/coc/</guid>
+      <guid>http://localhost:1313/about/coc/</guid>
       <description>&lt;p&gt;This &lt;strong&gt;Code of Conduct&lt;/strong&gt; governs how we behave in any OSGeo forum or event and&#xA;whenever we will be judged by our actions. We expect it to be honoured by&#xA;everyone who participates in our event.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Frequently Asked Questions</title>
-      <link>http://localhost:60763/about/faq/</link>
+      <link>http://localhost:1313/about/faq/</link>
       <pubDate>Wed, 06 Nov 2024 20:41:24 +0200</pubDate>
-      <guid>http://localhost:60763/about/faq/</guid>
+      <guid>http://localhost:1313/about/faq/</guid>
       <description>&lt;div class=&#34;col-md-6&#34;&gt;&#xA;  &#xA;  &lt;div class=&#34;card&#34;&gt;&#xA;    &#xA;    &lt;div class=&#34;card-header&#34; id=&#34;headingOne&#34;&gt;&#xA;      &lt;h5 class=&#34;mb-0&#34;&gt;&#xA;        &lt;a data-toggle=&#34;collapse&#34; href=&#34;#when-and-where-will-the-conference-take-place&#34;&gt;&#xA;          &lt;span class=&#34;fa fa-plus-circle&#34;&gt;&lt;/span&gt;When and where will the conference take place?&#xA;        &lt;/a&gt;&#xA;      &lt;/h5&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &lt;div id=&#34;when-and-where-will-the-conference-take-place&#34; class=&#34;collapse&#34; data-parent=&#34;#accordion&#34;&gt;&#xA;      &lt;div class=&#34;card-body&#34;&gt;The conference is planned to take place from 29 June to 3 July 2026 in Timișoara, Romania.&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;col-md-6&#34;&gt;&#xA;  &#xA;  &lt;div class=&#34;card&#34;&gt;&#xA;    &#xA;    &lt;div class=&#34;card-header&#34; id=&#34;headingOne&#34;&gt;&#xA;      &lt;h5 class=&#34;mb-0&#34;&gt;&#xA;        &lt;a data-toggle=&#34;collapse&#34; href=&#34;#if-the-conference-is-in-romania-does-it-mean-my-presentationworkshop-needs-to-be-in-romanian&#34;&gt;&#xA;          &lt;span class=&#34;fa fa-plus-circle&#34;&gt;&lt;/span&gt;If the conference is in Romania, does it mean my presentation/workshop needs to be in Romanian?&#xA;        &lt;/a&gt;&#xA;      &lt;/h5&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &lt;div id=&#34;if-the-conference-is-in-romania-does-it-mean-my-presentationworkshop-needs-to-be-in-romanian&#34; class=&#34;collapse&#34; data-parent=&#34;#accordion&#34;&gt;&#xA;      &lt;div class=&#34;card-body&#34;&gt;No, the official language of the conference is English. All presentations and&#xA;workshops shall be conducted in English to accommodate our international&#xA;audience.&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;col-md-6&#34;&gt;&#xA;  &#xA;  &lt;div class=&#34;card&#34;&gt;&#xA;    &#xA;    &lt;div class=&#34;card-header&#34; id=&#34;headingOne&#34;&gt;&#xA;      &lt;h5 class=&#34;mb-0&#34;&gt;&#xA;        &lt;a data-toggle=&#34;collapse&#34; href=&#34;#will-the-presentations-be-public-after-the-conference&#34;&gt;&#xA;          &lt;span class=&#34;fa fa-plus-circle&#34;&gt;&lt;/span&gt;Will the presentations be public after the conference?&#xA;        &lt;/a&gt;&#xA;      &lt;/h5&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &lt;div id=&#34;will-the-presentations-be-public-after-the-conference&#34; class=&#34;collapse&#34; data-parent=&#34;#accordion&#34;&gt;&#xA;      &lt;div class=&#34;card-body&#34;&gt;Yes, all presentations will be recorded and made publicly available after the&#xA;conference. Our main goal is to foster FOSS4G, and that means also making all&#xA;the presentations available even to people that didn&amp;rsquo;t register in the first&#xA;place. After the conference,&#xA;the recorded talks will be published on&#xA;&lt;a href=&#34;https://video.osgeo.org/c/foss4geurope/videos&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;OSGeo PeerTube&lt;/a&gt;&#xA;,&#xA;&lt;a href=&#34;https://av.tib.eu/publisher/FOSS4G&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;TIB-AV portal&lt;/a&gt;&#xA;, and&#xA;&lt;a href=&#34;https://www.youtube.com/@FOSS4G&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;YouTube&lt;/a&gt;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;col-md-6&#34;&gt;&#xA;  &#xA;  &lt;div class=&#34;card&#34;&gt;&#xA;    &#xA;    &lt;div class=&#34;card-header&#34; id=&#34;headingOne&#34;&gt;&#xA;      &lt;h5 class=&#34;mb-0&#34;&gt;&#xA;        &lt;a data-toggle=&#34;collapse&#34; href=&#34;#have-you-considered-a-hybrid-online-face-to-face-event&#34;&gt;&#xA;          &lt;span class=&#34;fa fa-plus-circle&#34;&gt;&lt;/span&gt;Have you considered a hybrid online-face to face event?&#xA;        &lt;/a&gt;&#xA;      &lt;/h5&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &lt;div id=&#34;have-you-considered-a-hybrid-online-face-to-face-event&#34; class=&#34;collapse&#34; data-parent=&#34;#accordion&#34;&gt;&#xA;      &lt;div class=&#34;card-body&#34;&gt;No, FOSS4G Europe 2026 is planned as an in-person event. However,&#xA;to accommodate a wider audience, we plan to provide online streaming of the&#xA;conference sessions. This approach allows geospatial enthusiasts who cannot&#xA;attend in person to follow the talks virtually.&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;col-md-6&#34;&gt;&#xA;  &#xA;  &lt;div class=&#34;card&#34;&gt;&#xA;    &#xA;    &lt;div class=&#34;card-header&#34; id=&#34;headingOne&#34;&gt;&#xA;      &lt;h5 class=&#34;mb-0&#34;&gt;&#xA;        &lt;a data-toggle=&#34;collapse&#34; href=&#34;#i-am-not-dedicated-to-geoinformatics-can-i-attend-the-conference&#34;&gt;&#xA;          &lt;span class=&#34;fa fa-plus-circle&#34;&gt;&lt;/span&gt;I am not dedicated to geoinformatics, can I attend the conference?&#xA;        &lt;/a&gt;&#xA;      &lt;/h5&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &lt;div id=&#34;i-am-not-dedicated-to-geoinformatics-can-i-attend-the-conference&#34; class=&#34;collapse&#34; data-parent=&#34;#accordion&#34;&gt;&#xA;      &lt;div class=&#34;card-body&#34;&gt;Absolutely. The conference welcomes anyone interested in geospatial&#xA;technologies and open-source software. Whether you&amp;rsquo;re a professional from&#xA;another field, a student, or simply curious about geospatial innovations,&#xA;your participation is encouraged.&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;col-md-6&#34;&gt;&#xA;  &#xA;  &lt;div class=&#34;card&#34;&gt;&#xA;    &#xA;    &lt;div class=&#34;card-header&#34; id=&#34;headingOne&#34;&gt;&#xA;      &lt;h5 class=&#34;mb-0&#34;&gt;&#xA;        &lt;a data-toggle=&#34;collapse&#34; href=&#34;#i-want-to-get-involved-in-the-conference-how-do-i-do-that&#34;&gt;&#xA;          &lt;span class=&#34;fa fa-plus-circle&#34;&gt;&lt;/span&gt;I want to get involved in the conference! How do I do that?&#xA;        &lt;/a&gt;&#xA;      &lt;/h5&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &lt;div id=&#34;i-want-to-get-involved-in-the-conference-how-do-i-do-that&#34; class=&#34;collapse&#34; data-parent=&#34;#accordion&#34;&gt;&#xA;      &lt;div class=&#34;card-body&#34;&gt;&lt;p&gt;Are you ready to shine? Whether you&amp;rsquo;re a social media wizard, a team player&#xA;who can make magic happen, a tech genius who speaks the language of code, or&#xA;a creative soul with an eye for capturing moments through&#xA;photography—we need YOU! FOSS4GE is more than just a conference; it’s a&#xA;movement, a community, and a chance to leave your mark.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Get in touch</title>
-      <link>http://localhost:60763/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 06 Nov 2024 20:41:24 +0200</pubDate>
-      <guid>http://localhost:60763/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>About Venue</title>
-      <link>http://localhost:60763/venue/about-venue/</link>
+      <link>http://localhost:1313/venue/about-venue/</link>
       <pubDate>Thu, 14 Mar 2024 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60763/venue/about-venue/</guid>
+      <guid>http://localhost:1313/venue/about-venue/</guid>
       <description>&lt;p&gt;The FOSS4G Europe 2026 conference is planned to take place in Timișoara, Romania.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adopt-a-ticket</title>
-      <link>http://localhost:60763/registration/adopt-a-ticket/</link>
+      <link>http://localhost:1313/registration/adopt-a-ticket/</link>
       <pubDate>Sat, 10 Feb 2024 10:40:24 +0100</pubDate>
-      <guid>http://localhost:60763/registration/adopt-a-ticket/</guid>
+      <guid>http://localhost:1313/registration/adopt-a-ticket/</guid>
       <description>&lt;p&gt;Adopt-a-ticket is your chance to support FOSS4GE 2025 by purchasing any number of&#xA;extra tickets for the conference that will be donated to our wonderful workshop&#xA;instructors and Travel Grant Program (TGP) receivers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Travel Grant</title>
-      <link>http://localhost:60763/registration/travel-grant/</link>
+      <link>http://localhost:1313/registration/travel-grant/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60763/registration/travel-grant/</guid>
+      <guid>http://localhost:1313/registration/travel-grant/</guid>
       <description>&lt;h2 id=&#34;important-dates&#34;&gt;Important dates&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;TGP application period:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Evaluation:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Contact grant receivers:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Conference:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;27 July - 2 August 2026 (proposed)&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;center&gt;&#xD;&#xA;    &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScXWn7hXGa4dSZrNdScV-apfc5ydPMa7oy3P7q3gWmzDnCKhg/viewform&#34;&#xD;&#xA;        class=&#34;btn btn-primary btn-lg disabled&#34;&#xD;&#xA;        target=&#34;blank&#34; rel=&#34;noopener noreferrer&#34;&#xD;&#xA;        style=&#34;padding:32px;margin-top:30px;margin-bottom:30px&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;https://2024.europe.foss4g.org/images/icon/form-icon.png&#34; alt=&#34;TGP application form&#34;&gt;&#xD;&#xA;    &lt;span&gt;Submit a TGP application&lt;/span&gt;&lt;/a&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;hr&gt;&#xD;&#xA;&lt;h2 id=&#34;travel-grant-programme-tgp&#34;&gt;Travel Grant Programme (TGP)&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;F&lt;/strong&gt; in FOSS4G stands for Free and freedom is not only important for software&#xA;or data, but it is also important for the community in which everybody can freely&#xA;participate. For years&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.osgeo.org/initiatives/foss4g-travel-grant-program/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;OSGeo has provided a Travel Grant Programme (TGP)&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;for its conferences to increase the accessibility and diversity of FOSS4G events.&#xA;The local organising committee plans to provide travel grants in cooperation with OSGeo.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:60763/sponsors/readme/</link>
+      <link>http://localhost:1313/sponsors/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60763/sponsors/readme/</guid>
+      <guid>http://localhost:1313/sponsors/readme/</guid>
       <description>&lt;h2 id=&#34;adding-sponsors&#34;&gt;adding sponsors&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;we list sponsors by sponsor_group.name (think of this as &amp;ldquo;sponsorship level&amp;rdquo;)&#xA;from data/homepage.yml&lt;/li&gt;&#xA;&lt;li&gt;sponsor groups are in the order they appear in data/homepage.yml&lt;/li&gt;&#xA;&lt;li&gt;sponsor_item values are rendered in the order they appear in data/homepage.yml&lt;/li&gt;&#xA;&lt;li&gt;create sponsor md page file in content/sponsors. filename can be anything, but&#xA;as it will be an URL, please consider ascii chars only, no whitespaces please :)&lt;/li&gt;&#xA;&lt;li&gt;please pay attention that the specific &lt;code&gt;name&lt;/code&gt; value in data.homepage for the&#xA;sponsor is the same as md metadata section &lt;code&gt;title&lt;/code&gt; value. If a match is not found&#xA;the sponsor will not be listed in the generated page.&lt;/li&gt;&#xA;&lt;li&gt;sponsor page type should be set to &lt;code&gt;sponsor&lt;/code&gt; and layout &lt;code&gt;single&lt;/code&gt; (see .template.md)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

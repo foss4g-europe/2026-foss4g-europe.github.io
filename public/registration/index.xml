@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Registration on FOSS4G Europe 2026</title>
-    <link>http://localhost:60763/registration/</link>
+    <link>http://localhost:1313/registration/</link>
     <description>Recent content in Registration on FOSS4G Europe 2026</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 10 Feb 2024 10:40:24 +0100</lastBuildDate>
-    <atom:link href="http://localhost:60763/registration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/registration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adopt-a-ticket</title>
-      <link>http://localhost:60763/registration/adopt-a-ticket/</link>
+      <link>http://localhost:1313/registration/adopt-a-ticket/</link>
       <pubDate>Sat, 10 Feb 2024 10:40:24 +0100</pubDate>
-      <guid>http://localhost:60763/registration/adopt-a-ticket/</guid>
+      <guid>http://localhost:1313/registration/adopt-a-ticket/</guid>
       <description>&lt;p&gt;Adopt-a-ticket is your chance to support FOSS4GE 2025 by purchasing any number of&#xA;extra tickets for the conference that will be donated to our wonderful workshop&#xA;instructors and Travel Grant Program (TGP) receivers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Travel Grant</title>
-      <link>http://localhost:60763/registration/travel-grant/</link>
+      <link>http://localhost:1313/registration/travel-grant/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60763/registration/travel-grant/</guid>
+      <guid>http://localhost:1313/registration/travel-grant/</guid>
       <description>&lt;h2 id=&#34;important-dates&#34;&gt;Important dates&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;TGP application period:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Evaluation:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Contact grant receivers:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Conference:&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;27 July - 2 August 2026 (proposed)&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;center&gt;&#xD;&#xA;    &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScXWn7hXGa4dSZrNdScV-apfc5ydPMa7oy3P7q3gWmzDnCKhg/viewform&#34;&#xD;&#xA;        class=&#34;btn btn-primary btn-lg disabled&#34;&#xD;&#xA;        target=&#34;blank&#34; rel=&#34;noopener noreferrer&#34;&#xD;&#xA;        style=&#34;padding:32px;margin-top:30px;margin-bottom:30px&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;https://2024.europe.foss4g.org/images/icon/form-icon.png&#34; alt=&#34;TGP application form&#34;&gt;&#xD;&#xA;    &lt;span&gt;Submit a TGP application&lt;/span&gt;&lt;/a&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;hr&gt;&#xD;&#xA;&lt;h2 id=&#34;travel-grant-programme-tgp&#34;&gt;Travel Grant Programme (TGP)&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;F&lt;/strong&gt; in FOSS4G stands for Free and freedom is not only important for software&#xA;or data, but it is also important for the community in which everybody can freely&#xA;participate. For years&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.osgeo.org/initiatives/foss4g-travel-grant-program/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;OSGeo has provided a Travel Grant Programme (TGP)&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;for its conferences to increase the accessibility and diversity of FOSS4G events.&#xA;The local organising committee plans to provide travel grants in cooperation with OSGeo.&lt;/p&gt;</description>
     </item>
   </channel>

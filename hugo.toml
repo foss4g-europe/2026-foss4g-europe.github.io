@@ -238,11 +238,11 @@ weight = 5
     name = "Talks"
     url = "schedule/talks/"
 
-  [[menu.main]]
-    weight = 3
-    parent = "Schedule"
-    name = "HOT OSM drone workshop"
-    url = "schedule/hot-drone-mapping-workshop/"
+#  [[menu.main]]
+#    weight = 3
+#    parent = "Schedule"
+#    name = "HOT OSM drone workshop"
+#    url = "schedule/hot-drone-mapping-workshop/"
 
   [[menu.main]]
     weight = 4
@@ -259,8 +259,8 @@ weight = 5
   [[menu.main]]
     weight = 6
     parent = "Schedule"
-    name = "GeoChicas Take Mostar!"
-    url = "schedule/geochicas-take-mostar/"
+    name = "GeoChicas Timișoara"
+    url = "schedule/geochicas-timisoara/"
 
   [[menu.main]]
     weight = 7
@@ -558,7 +558,7 @@ img="images/icon/charlie.png"
 location = [43.344045, 17.79499]
 icon = "social"
 events = [
-{name="Geochicas take Mostar!", date="15 July", url="./schedule/geochicas-take-mostar/"},
+{name="GeoChicas Timișoara", date="TBD", url="./schedule/geochicas-timisoara/"},
 ]
 url = "https://www.instagram.com/charlie.mostar/"
 
