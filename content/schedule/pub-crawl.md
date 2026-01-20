@@ -1,6 +1,6 @@
 ---
 title: "Pub race"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2025-04-09T09:14:24+03:00
 map_select_id: [27,29,30,31,32,33,34]
 draft: false

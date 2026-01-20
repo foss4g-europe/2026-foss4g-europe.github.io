@@ -1,6 +1,6 @@
 ---
 title : "Andrea Antonello"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-01-13T09:56:24+02:00
 designation: "Program committee"
 image: "images/team/andrea-antonello.jpg"

@@ -1,6 +1,6 @@
 ---
 title : "Veronica Andreo"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2024-12-19T11:34:24+02:00
 designation: "Program Committee"
 image: "images/team/veronica-andreo.jpg"

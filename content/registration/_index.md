@@ -1,6 +1,6 @@
 ---
 title : "Registration"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-02-02T16:10:24+02:00
 description : "Registration overview for the FOSS4G Europe 2026 conference planned to take place in Timișoara, Romania."
 draft : false

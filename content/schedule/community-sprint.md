@@ -1,6 +1,6 @@
 ---
 title: "Community Sprint"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2025-05-13T10:54:24+02:00
 map_select_id: [1]
 draft: false

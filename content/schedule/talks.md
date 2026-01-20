@@ -1,6 +1,6 @@
 ---
 title : "Talks"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-02-02T14:11:24+02:00
 description : "FOSS4G Europe 2026 presentations schedule (proposed)."
 map_select_id: [1,2,3,8,11]

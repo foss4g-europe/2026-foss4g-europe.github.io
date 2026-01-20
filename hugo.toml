@@ -154,11 +154,11 @@ weight = 2
   url = "about/coc/"
   weight = 4
 
-  [[menu.main]]
-  parent = "About"
-  name = "Organizing committee"
-  url = "loc/"
-  weight = 5
+#  [[menu.main]]
+#  parent = "About"
+#  name = "Organizing committee"
+#  url = "loc/"
+#  weight = 5
 
 ## main menu item: Call for proposals
 [[menu.main]]
@@ -311,11 +311,11 @@ url = "sponsors/"
 weight = 6
 hasChildren = true
 
-  [[menu.main]]
-  weight = 2
-  parent = "Sponsors"
-  name = "Our Sponsors and partners"
-  url = "sponsors/"
+#  [[menu.main]]
+#  weight = 2
+#  parent = "Sponsors"
+#  name = "Our Sponsors and partners"
+#  url = "sponsors/"
 
 #  [[menu.main]]
 #    weight = 3
@@ -323,11 +323,11 @@ hasChildren = true
 #    name = "Our partners"
 #    url = "partners/"
 
-  [[menu.main]]
-  weight = 4
-  parent = "Sponsors"
-  name = "Call for Sponsors"
-  url = "sponsors/call-for-sponsors/"
+#  [[menu.main]]
+#  weight = 4
+#  parent = "Sponsors"
+#  name = "Call for Sponsors"
+#  url = "sponsors/call-for-sponsors/"
 
 ## main menu item: Call for proposals
 [[menu.main]]
@@ -344,7 +344,7 @@ weight = 7
   [[menu.main]]
   parent = "Venue"
   name = "Getting to Timișoara"
-  url = "venue/getting-to-mostar/"
+  url = "venue/getting-to-timisoara/"
   weight = 2
 
   [[menu.main]]
@@ -847,12 +847,12 @@ title = "facebook"
 icon = "fa-brands fa-facebook"
 link = "https://www.facebook.com/foss4ge/"
 
-[[params.social]]
-title = "google-play"
-icon = "fa-brands fa-google-play"
-link = "https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule"
+#[[params.social]]
+#title = "google-play"
+#icon = "fa-brands fa-google-play"
+#link = "https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule"
 
-[[params.social]]
-title = "f-droid"
-icon = "fa-brands fa-android"
-link = "https://f-droid.org/en/packages/net.gaast.giggity/"
+#[[params.social]]
+#title = "f-droid"
+#icon = "fa-brands fa-android"
+#link = "https://f-droid.org/en/packages/net.gaast.giggity/"

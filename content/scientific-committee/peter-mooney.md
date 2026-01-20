@@ -1,6 +1,6 @@
 ---
 title : "Peter Mooney"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-01-14T10:44:24+02:00
 designation: "Scientific Committee"
 image: "images/team/peter-mooney.jpeg"

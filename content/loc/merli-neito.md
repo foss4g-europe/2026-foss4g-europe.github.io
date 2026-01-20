@@ -1,6 +1,6 @@
 ---
 title : "Merli Neito"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-02-14T09:08:24+02:00
 designation: "Organizing committee"
 image: "images/team/merli-neito.jpg"

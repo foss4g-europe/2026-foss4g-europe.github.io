@@ -1,6 +1,6 @@
 ---
 title : "OPENGIS.ch"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-05-05T11:30:24+02:00
 designation: "Silver"
 image: "images/sponsors/opengisch-resize.png"

@@ -1,6 +1,6 @@
 ---
 title : "CloudFerro"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-06-05T15:09:24+03:00
 designation: "Silver"
 image: "images/sponsors/cloudferro-logo.png"

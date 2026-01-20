@@ -1,6 +1,6 @@
 ---
 title: "Session chair guidelines"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2025-06-26T15:35:24+03:00
 draft: false
 layout: "single"

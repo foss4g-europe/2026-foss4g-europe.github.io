@@ -1,6 +1,6 @@
 ---
 title : "Hans Gregers Hedegaard Petersen"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2024-12-19T12:08:24+02:00
 designation: "Program Committee"
 image: "images/team/hans-gregers-hedegaard-petersen.jpeg"

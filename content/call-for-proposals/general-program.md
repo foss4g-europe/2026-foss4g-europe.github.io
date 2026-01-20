@@ -1,6 +1,6 @@
 ---
 title: "General program"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2024-11-30T13:09:24+02:00
 description: "FOSS4G Europe is the regional
 flagship event of OSGeo - an open, grassroots and dynamic community. We are
@@ -23,14 +23,14 @@ channels and update timings here.
 
 The 2026 call timeline will be published closer to the event.
 
-|   |   |
-|:--|-------:|
-| Call for papers: | **TBD** |
-| Community voting period: | **TBD** |
-| Program committee review period: | **TBD** |
-| Announce accepted talks: | **TBD** |
-| Full program: | **TBD** |
-| Conference: | **1 July - 3 July 2026 (proposed)** |
+|   |                                    |
+|:--|-----------------------------------:|
+| Call for papers: | 26 January 2026 - 27 February 2026 |
+| Community voting period: |       1 March 2026 - 13 March 2026 |
+| Program committee review period: |       1 March 2026 - 22 March 2026 |
+| Announce accepted talks: |                      25 March 2026 |
+| Full program: |                       1 April 2026 |
+| Conference: |          **29 June - 1 July 2026** |
 
 <br>
 <br>

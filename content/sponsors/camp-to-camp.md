@@ -1,6 +1,6 @@
 ---
 title: "Camp to Camp"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2025-04-15T14:42:28+01:00
 designation: "Supporter"
 image: "images/sponsors/C2C_2022_RGB_moto_square_logo.png"

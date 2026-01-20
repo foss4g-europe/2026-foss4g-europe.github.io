@@ -1,6 +1,6 @@
 ---
 title : "EnviroSolutions"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-06-05T08:31:24+03:00
 designation: "Supporter"
 image: "images/sponsors/envirosolutions-logo.png"

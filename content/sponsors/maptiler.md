@@ -1,6 +1,6 @@
 ---
 title : "MapTiler"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-06-27T20:03:24+03:00
 designation: "Silver"
 image: "images/sponsors/maptiler-logo-vertical-resize.png"

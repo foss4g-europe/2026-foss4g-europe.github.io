@@ -1,6 +1,6 @@
 ---
 title : "QGIS España"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-05-21T15:00:24+02:00
 designation: "Supporter"
 image: "images/sponsors/qgises-logo-resize.png"

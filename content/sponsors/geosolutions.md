@@ -1,6 +1,6 @@
 ---
 title : "GeoSolutions"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-05-21T15:08:24+02:00
 designation: "Gold"
 image: "images/sponsors/geosolutions.png"

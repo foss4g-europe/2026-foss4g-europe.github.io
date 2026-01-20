@@ -1,6 +1,6 @@
 ---
 title: "Map Gallery Submissions"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2024-11-16T14:19:24+02:00
 description: "FOSS4G Europe is the regional
 flagship event of OSGeo - an open, grassroots and dynamic community. We are

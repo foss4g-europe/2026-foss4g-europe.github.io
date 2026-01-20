@@ -1,6 +1,6 @@
 ---
 title: "About Venue"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2024-03-14T15:40:24+06:00
 map_select_id: [1,2,3,11]
 draft: false

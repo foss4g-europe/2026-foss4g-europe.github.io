@@ -1,6 +1,6 @@
 ---
 title: "Excursion"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2025-03-19T09:00:00+02:00
 map_select_id: [1]
 draft: false

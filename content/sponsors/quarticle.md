@@ -1,6 +1,6 @@
 ---
 title : "Quarticle"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-06-05T17:39:24+03:00
 designation: "Gold"
 image: "images/sponsors/quarticle-logo.png"

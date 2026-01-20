@@ -1,6 +1,6 @@
 ---
 title : "Joachim Ungar"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-01-08T09:02:24+02:00
 designation: "Program Committee"
 image: "images/team/joachim-ungar.jpeg"

@@ -1,6 +1,6 @@
 ---
 title: "Call for sponsors"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2026-03-21T14:42:28+01:00
 description: "We are honoured to invite you to take this opportunity to be a financial partner
 for the FOSS4G Europe conference planned to take place in Timișoara, Romania in 2026. By sponsoring

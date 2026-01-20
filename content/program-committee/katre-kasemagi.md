@@ -1,6 +1,6 @@
 ---
 title : "Katre Kasemägi"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2024-12-19T12:27:24+02:00
 designation: "Program Committee"
 image: "images/team/katre-kasemagi.png"

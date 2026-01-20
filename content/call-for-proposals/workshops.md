@@ -1,6 +1,6 @@
 ---
 title: "Workshops"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2025-01-23T15:04:03+02:00
 description: "FOSS4G Europe is the regional
 flagship event of OSGeo - an open, grassroots and dynamic community.
@@ -15,21 +15,19 @@ layout: "single"
 
 ## Timeline
 
-All deadlines are preliminary and are subject to change. We are working hard to
-stay on schedule as much as possible, but sometimes issues may occur. If
+We are working hard to stay on schedule as much as possible, but sometimes issues may occur. If
 anything changes we will communicate it on the FOSS4G Europe public
 channels and update timings here.
 
-The 2026 call timeline will be published closer to the event.
 
-|   |   |
-|:--|-------:|
-| Call for papers: | **TBD** |
-| Community voting period: | **TBD** |
-| Program committee review period: | **TBD** |
-| Announce accepted workshops: | **TBD** |
-| Full program: | **TBD** |
-| Workshops: | **29 June - 30 June 2026 (proposed)** |
+|                                  |                                  |
+|:---------------------------------|---------------------------------:|
+| Call for workshops:              |  26 January 2026 - 13 March 2026 |
+| Community voting period:         | 16 February 2026 - 28 March 2026 |
+| Program committee review period: |      28 February - 13 March 2026 |
+| Announce accepted workshops:     |                    16 March 2026 |
+| Full program:                    |                    18 March 2026 |
+| Workshops:                       |         **2 July - 3 July 2026** |
 
 <br>
 <br>

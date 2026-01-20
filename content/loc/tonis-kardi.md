@@ -1,6 +1,6 @@
 ---
 title : "Tõnis Kärdi"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2024-11-21T14:40:24+02:00
 designation: "Organizing committee"
 image: "./images/team/tkardi.jpg"

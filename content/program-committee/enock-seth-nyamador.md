@@ -1,6 +1,6 @@
 ---
 title : "Enock Seth Nyamador"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2024-11-29T09:29:24+02:00
 designation: "Program Committee"
 image: "./images/team/enock-seth-nyamador.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Academic program"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2025-01-17T09:36:35+02:00
 description: "FOSS4G Europe is the regional
 flagship event of OSGeo - an open, grassroots and dynamic community. The

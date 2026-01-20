@@ -1,6 +1,6 @@
 ---
 title : "Kurt Menke"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2024-11-23T17:40:24+02:00
 designation: "Program Committee"
 image: "./images/team/kurt-menke.png"

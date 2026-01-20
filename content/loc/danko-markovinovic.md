@@ -1,6 +1,6 @@
 ---
 title : "Danko Markovinović"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2024-11-23T15:02:24+02:00
 designation: "Organizing committee"
 image: "./images/team/danko-markovinovic.jpg"

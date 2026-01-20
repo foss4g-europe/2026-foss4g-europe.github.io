@@ -1,6 +1,6 @@
 ---
 title: "Adopt-a-ticket"
-page_header_bg: "images/background/page-title-bg.jpg"
+page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2024-02-10T10:40:24+01:00
 description: "Adopt-a-ticket is your chance to support FOSS4GE 2025 by
 purchasing any number extra tickets for the conference that will be donated to

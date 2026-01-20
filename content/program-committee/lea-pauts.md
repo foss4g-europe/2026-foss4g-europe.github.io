@@ -1,6 +1,6 @@
 ---
 title : "Lea Pauts"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-01-13T10:32:24+02:00
 designation: "Program committee"
 image: "images/team/lea-pauts.jpg"

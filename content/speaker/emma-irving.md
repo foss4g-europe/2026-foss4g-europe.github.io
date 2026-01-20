@@ -1,6 +1,6 @@
 ---
 title : "Emma Irving"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-06-28T09:47:24+03:00
 designation: ""
 image: "images/speakers/Emma_Irving.jpg"

@@ -1,6 +1,6 @@
 ---
 title : "Joana Simoes"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2025-01-10T08:09:24+02:00
 designation: "Program committee"
 image: "images/team/joana-simoes.jpg"
