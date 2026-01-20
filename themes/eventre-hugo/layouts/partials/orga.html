@@ -1,0 +1,41 @@
+{{ if site.Data.homepage.orga.enable }}
+{{ with site.Data.homepage.orga }}
+<section class="sponsors section bg-orga overlay-white">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h3>{{.title | markdownify}}</h3>
+          <p>{{ .content | markdownify}}</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        {{range .orga_group }}
+        {{ if .orga_item }}
+        <!-- Title -->
+        <div class="sponsor-title text-center">
+          <h5>{{ .name | markdownify }}</h5>
+        </div>
+        <div class="block text-center">
+          <ul class="list-inline sponsors-list">
+            {{ range .orga_item }}
+            <li class="list-inline-item">
+              <div class="image-block text-center">
+                <a href="{{ .link | safeURL }}">
+                  <img src="{{ .logo | absURL }}" alt="{{.name}}" class="img-fluid">
+                </a>
+              </div>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}

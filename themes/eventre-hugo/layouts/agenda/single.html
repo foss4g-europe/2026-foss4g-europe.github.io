@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="content">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<pretalx-schedule event-url="https://talks.osgeo.org/{{ .Params.pretalx }}/" locale="en" format="grid"></pretalx-schedule>
+<noscript>
+   <div class="pretalx-widget">
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://talks.osgeo.org/{{ .Params.pretalx }}/schedule/">click here</a>.
+        </div>
+    </div>
+</noscript>
+
+{{ end }}

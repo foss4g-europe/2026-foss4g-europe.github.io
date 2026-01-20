@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+{{ partial "orga.html" }}
+
+<section class="section speakers white">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 section-title">
+        {{.Content}}
+			</div>
+		</div>
+
+		{{ with site.Data.homepage.sponsors }}
+		{{range .sponsor_group }}
+		{{ if .sponsor_item }}
+			<div class="row">
+				<div class="col-12 section-title">
+					<h3>{{ .name }}</h3>
+				</div>
+			</div>
+			<div class="row">
+		  {{ range .sponsor_item }}
+			{{ range $page := where (where site.RegularPages "Type" "sponsor") "Params.Title" .name }}
+	  		<div class="col-lg-3 col-md-4 col-sm-6">
+		  		<div class="speaker-item">
+			  		<div class="image">
+				  		<img src="{{ $page.Params.image | absURL }}" alt="{{ $page.Title }}" class="img-fluid">
+							{{ if $page.Params.social }}
+					  	<div class="primary-overlay"></div>
+						  <div class="socials">
+							  <ul class="list-inline">
+                  {{ range first 4 $page.Params.social }}
+                  <li class="list-inline-item"><a href="{{.link | safeURL }}"><i class="fa {{.icon}}"></i></a></li>
+                  {{ end }}
+							  </ul>
+						  </div>
+							{{ end }}
+					  </div>
+					  <div class="content text-center">
+						  <h5><a href="{{ .Permalink }}"><b>{{.Title }}</b></a></h5>
+					  </div>
+				  </div>
+        </div>
+			{{ end }}
+
+			{{ end }}
+		</div>
+			{{ end }}
+			{{ end }}
+			{{ if .button.enable }}
+			{{ with .button }}
+			<div class="sponsor-btn text-center">
+				<a href="{{ .link | absURL }}" class="btn btn-main-md">{{.label}}</a>
+			</div>
+			{{ end }}
+			{{ end }}
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}
