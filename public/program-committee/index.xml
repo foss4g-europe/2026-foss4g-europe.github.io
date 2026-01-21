@@ -2,206 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General Program Committee on FOSS4G Europe 2026</title>
-    <link>http://localhost:1313/program-committee/</link>
+    <link>https://2026-foss4g-europe.github.io/program-committee/</link>
     <description>Recent content in General Program Committee on FOSS4G Europe 2026</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 14 Feb 2025 19:53:24 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/program-committee/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://2026-foss4g-europe.github.io/program-committee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anita Graser</title>
-      <link>http://localhost:1313/program-committee/anita-graser/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/anita-graser/</link>
       <pubDate>Fri, 14 Feb 2025 19:53:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/anita-graser/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/anita-graser/</guid>
       <description>&lt;p&gt;Anita Graser is a spatial data scientist, open-source GIS advocate, and&#xA;author. Her background is in geoinformatics, and she is currently&#xA;working as a Senior Scientist in the Data Science &amp;amp; Artificial&#xA;Intelligence research group at AIT Austrian Institute of Technology in&#xA;Vienna. Anita also serves on the QGIS project steering committee and&#xA;teaches Python for QGIS at Unigis Salzburg. She is the lead developer of&#xA;MovingPandas (a Python library for analyzing movement data) and has&#xA;developed tools such as the Time Manager plugin for QGIS. She has&#xA;received multiple awards, including the international OSGeo Sol Katz&#xA;award for her contributions to open-source geographic information&#xA;systems. Anita has published several books about QGIS, including&#xA;“Learning QGIS” and “QGIS Map Design” and writes a popular spatial data&#xA;science blog at&#xA;&lt;strong&gt;&lt;a href=&#34;https://anitagraser.com&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;https://anitagraser.com&lt;/a&gt;&#xA;&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Andrius Balčiūnas</title>
-      <link>http://localhost:1313/program-committee/andrius-balciunas/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/andrius-balciunas/</link>
       <pubDate>Sun, 02 Feb 2025 17:20:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/andrius-balciunas/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/andrius-balciunas/</guid>
       <description>&lt;p&gt;Andrius Balčiūnas is a Lecturer of Cartography, Geographic Information Systems&#xA;and Web Mapping at the Geoscience Institute of Vilnius University.&#xA;PhD in Physical Science, graduate in Geography at Vilnius University. Founder&#xA;and GIS Developer at Geografines informacines technologijos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lea Pauts</title>
-      <link>http://localhost:1313/program-committee/lea-pauts/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/lea-pauts/</link>
       <pubDate>Mon, 13 Jan 2025 10:32:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/lea-pauts/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/lea-pauts/</guid>
       <description>&lt;p&gt;A founding member of the Estonian Geoinformatics Society with 25 years of&#xA;expertise in geoinformatics. I am currently leading the topographic data&#xA;production for the national database in the Estonian Land and Spatial&#xA;Development Board. My passion lies in ensuring spatial data quality, and I&#xA;advocate for open data principles&#xA;and data-driven policies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Andrea Antonello</title>
-      <link>http://localhost:1313/program-committee/andrea-antonello/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/andrea-antonello/</link>
       <pubDate>Mon, 13 Jan 2025 09:56:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/andrea-antonello/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/andrea-antonello/</guid>
       <description>&lt;p&gt;Andrea Antonello has been involved in GFOSS development since earning his&#xA;degree in environmental engineering. He co-founded HydroloGIS, a company that&#xA;develops and utilizes GFOSS software for environmental analyses.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Luca Delucchi</title>
-      <link>http://localhost:1313/program-committee/luca-delucchi/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/luca-delucchi/</link>
       <pubDate>Fri, 10 Jan 2025 09:38:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/luca-delucchi/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/luca-delucchi/</guid>
       <description>&lt;p&gt;Luca is an OSGeo and OSM contributor and advocate. He graduated in&#xA;Geography applied to the environment, landscape and tourism from&#xA;University of Genoa (Italy) in 2008. Since the same year he work at&#xA;Fondazione Edmund Mach, a research center near Trento. He is&#xA;interested in all features about GIS: desktop, web, geodatabase,&#xA;developing and geodata. Right now he is working on a multiplatform&#xA;server and client application to monitor agricultural fields named&#xA;&lt;a href=&#34;https://digiagriapp.gitlab.io/digiagriapp-website/&#34;&gt;DigiAgriApp&lt;/a&gt;.&#xA;He contribute to GRASS GIS, OSGeoLive, QGIS, and ZOO-Project projects,&#xA;he is also the main developer of pyModis library.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Margherita Di Leo</title>
-      <link>http://localhost:1313/program-committee/margherita-di-leo/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/margherita-di-leo/</link>
       <pubDate>Fri, 10 Jan 2025 08:15:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/margherita-di-leo/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/margherita-di-leo/</guid>
       <description>&lt;p&gt;Margherita Di Leo is an engineer with a PhD in Methods and Technologies for&#xA;Environmental Monitoring. She has been an OSGeo charter member since 2011 and&#xA;has contributed to GRASS GIS, OSGeoLive, GSoC@OSGeo among others. She works at&#xA;the Joint Research Centre of the European Commission in Italy as an&#xA;external consultant.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Joana Simoes</title>
-      <link>http://localhost:1313/program-committee/joana-simoes/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/joana-simoes/</link>
       <pubDate>Fri, 10 Jan 2025 08:09:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/joana-simoes/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/joana-simoes/</guid>
       <description>&lt;p&gt;Joana is a data engineer and a data scientist, with 15+ years experience and a&#xA;strong expertise in the field of geospatial tech and analytics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jorge Sanz</title>
-      <link>http://localhost:1313/program-committee/jorge-sanz/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/jorge-sanz/</link>
       <pubDate>Fri, 10 Jan 2025 08:05:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/jorge-sanz/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/jorge-sanz/</guid>
       <description>&lt;p&gt;Jorge Sanz is a geospatial technologist from Valencia, Spain. With a&#xA;Cartography and Geodesy Engineering background, he has worked in Geographical&#xA;Information Systems and Software Engineering since 2004.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Luís Moreira de Sousa</title>
-      <link>http://localhost:1313/program-committee/luis-moreira-de-sousa/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/luis-moreira-de-sousa/</link>
       <pubDate>Thu, 09 Jan 2025 07:54:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/luis-moreira-de-sousa/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/luis-moreira-de-sousa/</guid>
       <description>&lt;p&gt;Luís Moreira de Sousa completed the Degree on Informatics and Computers&#xA;Engineering at the University of Lisbon in 2002, which he complemented with a&#xA;Masters on Geographic Information Systems in 2005. In the Department of Civil&#xA;Engineering of this university he was a junior researcher from 2002 to 2008,&#xA;contributing to applied research projects with Instituto da Água and Estradas&#xA;de Portugal. After a year as consultant with SIQuant at the National Laboratory&#xA;of Civil Engineering (LNEC), in 2009 he became an independent consultant,&#xA;supporting de development of the spatial data infrastructure of the newly&#xA;created Administração da Região Hidrográfica do Tejo (ARH-Tejo).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jachym Cepicky</title>
-      <link>http://localhost:1313/program-committee/jachym-cepicky/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/jachym-cepicky/</link>
       <pubDate>Thu, 09 Jan 2025 07:48:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/jachym-cepicky/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/jachym-cepicky/</guid>
       <description>&lt;p&gt;Ex- open source GIS contributor, OSGeo passive member. Currently product&#xA;manager of the Data, Maps and Search teams at&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.maptiler.com/team/jachym-cepicky/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;MapTiler.com&lt;/a&gt;&#xA;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Joachim Ungar</title>
-      <link>http://localhost:1313/program-committee/joachim-ungar/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/joachim-ungar/</link>
       <pubDate>Wed, 08 Jan 2025 09:02:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/joachim-ungar/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/joachim-ungar/</guid>
       <description>&lt;p&gt;Joachim Ungar is Lead Cartographer and Geospatial IT Engineer at EOX, an open&#xA;source software oriented company based in Vienna. He has a MSc degree in&#xA;Cartography and Geoinformation and specialized in large scale processing of&#xA;geodata, mainly satellite imagery, using GDAL and Python. He enthusiastically&#xA;participates and contributes to FOSS4G events since 2011.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Berit Mohr</title>
-      <link>http://localhost:1313/program-committee/berit-mohr/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/berit-mohr/</link>
       <pubDate>Tue, 07 Jan 2025 14:07:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/berit-mohr/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/berit-mohr/</guid>
       <description>&lt;p&gt;Berit Mohr is a GIS enthusiast who promotes and supports open source software.&#xA;Since 2022 she has been working with GFA Consulting Group GmbH and tries&#xA;actively to push GIS and open source into the development cooperation sector.&#xA;In October 2024, she has been working at OpenGIS.CH as a GIS specialist, where&#xA;she advises, trains and manages small projects. With her many years of&#xA;experience in various sectors such as academia, the private sector and the&#xA;development cooperation context, she brings a global perspective and has an&#xA;amazing talent for translating and teaching different languages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evelyn Uuemaa</title>
-      <link>http://localhost:1313/program-committee/evelyn-uuemaa/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/evelyn-uuemaa/</link>
       <pubDate>Thu, 19 Dec 2024 14:28:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/evelyn-uuemaa/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/evelyn-uuemaa/</guid>
       <description>&lt;p&gt;Evelyn is a geographer by heart and Professor in Geoinformatics in University&#xA;of Tartu. She holds a MSc in geoinformatics and PhD in landscape ecology and&#xA;environmental protection, and is developing the Landscape Geoinformatics&#xA;working group as a necessity to improve and strengthen environmental&#xA;geoinformatics capabilities at the university and for Estonia in general&#xA;through leading national and international research projects. Her research&#xA;interests evolve around the interactions of land use/land cover and water&#xA;quality, landscape changes and geospatial modelling with machine learning.&#xA;She is also interested in geospatial visualisation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Katja Haferkorn</title>
-      <link>http://localhost:1313/program-committee/katja-haferkorn/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/katja-haferkorn/</link>
       <pubDate>Thu, 19 Dec 2024 14:27:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/katja-haferkorn/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/katja-haferkorn/</guid>
       <description>&lt;p&gt;I am a geographer, interested in geoinformatics, beautiful maps and especially&#xA;in supporting the great OSS community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markus Neteler</title>
-      <link>http://localhost:1313/program-committee/markus-neteler/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/markus-neteler/</link>
       <pubDate>Thu, 19 Dec 2024 14:25:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/markus-neteler/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/markus-neteler/</guid>
       <description>&lt;p&gt;I am Markus Neteler (PhD), co-founder and senior consultant at mundialis&#xA;GmbH &amp;amp; Co. KG based in Bonn, Germany.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Petya Kangalova</title>
-      <link>http://localhost:1313/program-committee/petya-kangalova/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/petya-kangalova/</link>
       <pubDate>Thu, 19 Dec 2024 14:19:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/petya-kangalova/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/petya-kangalova/</guid>
       <description>&lt;p&gt;Tech Partnership and Engagement Lead at&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.hotosm.org/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;HOT&lt;/a&gt;&#xA;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Originally from Bulgaria, I am currently based in Bristol, UK. I am really&#xA;passionate about the impact of open mapping and using technology as the enabler&#xA;for people in supporting their communities. In this role, I hope to be able to&#xA;successfully build a dynamic collective of open tech contributors from&#xA;around the world!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Katre Kasemägi</title>
-      <link>http://localhost:1313/program-committee/katre-kasemagi/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/katre-kasemagi/</link>
       <pubDate>Thu, 19 Dec 2024 12:27:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/katre-kasemagi/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/katre-kasemagi/</guid>
       <description>&lt;p&gt;Open source GIS software friend and user. Favourite GIS tools are QGIS and&#xA;different R spatial libraries. Value small hacks and creative use of open&#xA;source data and GIS software. Previously worked in the public sector with&#xA;different spatial data services.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hans Gregers Hedegaard Petersen</title>
-      <link>http://localhost:1313/program-committee/hans-gregers-hedegaard-petersen/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/hans-gregers-hedegaard-petersen/</link>
       <pubDate>Thu, 19 Dec 2024 12:08:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/hans-gregers-hedegaard-petersen/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/hans-gregers-hedegaard-petersen/</guid>
       <description>&lt;p&gt;Greg is an open source and open data advocate. Though he started as a&#xA;statistical consultant and developer (using FOSS like Debian, R, etc), he&#xA;ended up in the geo business. Now he consults clients on several areas&#xA;regarding geodata - mostly within the use of geodata and GIS at public admin&#xA;clients. He has a strong belief in Open Data, and co-founded the company&#xA;Septima in January 2013 to utilize the newly released national data.&#xA;Today Septima employs 30 people. Greg is an avid speaker on the subject of&#xA;Open Data, and teaches courses on PostGIS, GeoServer etc. at&#xA;company and university level.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Carmen Diez</title>
-      <link>http://localhost:1313/program-committee/carmen-diez/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/carmen-diez/</link>
       <pubDate>Thu, 19 Dec 2024 11:52:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/carmen-diez/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/carmen-diez/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Degree in Civil Engineering and Master in Environmental Engineering and&#xA;Management of Water. Actually I work in Regional Ministry of Environment and&#xA;Spatial Planning in Madrid Government, using GIS in urban planning and spatial&#xA;development general management. Before that I worked modelling with GIS in&#xA;environmental flow regime, surface water quality and hydraulic modeling flood&#xA;watersheds of Spain.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vasile Craciunescu</title>
-      <link>http://localhost:1313/program-committee/vasile-craciunescu/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/vasile-craciunescu/</link>
       <pubDate>Thu, 19 Dec 2024 11:47:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/vasile-craciunescu/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/vasile-craciunescu/</guid>
       <description>&lt;p&gt;Vasile Craciunescu is a researcher with more than 23 years experience, working&#xA;for the Romanian National Meteorological Administration and Terrasigna, being&#xA;in charge with the scientific and operational activities related to GIS database&#xA;design and implementation, deployment of standardized web services, spatial&#xA;enabled web interfaces, ETL, EO data processing, project management. He&#xA;received his diploma in cartography and physical geography in 2001. He has a&#xA;good experience in working and leading national, EU and ESA research projects.&#xA;In 2006 Vasile started geo-spatial.org&#xA;(&lt;strong&gt;&lt;a href=&#34;https://geo-spatial.org&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;https://geo-spatial.org&lt;/a&gt;&#xA;&lt;/strong&gt;),&#xA;a collaborative&#xA;effort by and for the Romanian community to facilitate the sharing of geospatial&#xA;knowledge and the discovery and publishing of free geographic datasets and maps.&#xA;Since 2011 he is the Romanian delegate in the Copernicus User Forum at the&#xA;European Commission and the representative of Meteo Romania at Open Geospatial&#xA;Consortium. In August 2014 he was elected to the Open Source Geospatial Foundation&#xA;board of directors. For the last 12 years he has been teaching FOSS4G-based&#xA;techniques at the Faculty of Geography - University of Bucharest in the first&#xA;Romanian ICA-OSGeo Lab.&#xA;Vasile was the chair of the 2019 FOSS4G international conference.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Veronica Andreo</title>
-      <link>http://localhost:1313/program-committee/veronica-andreo/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/veronica-andreo/</link>
       <pubDate>Thu, 19 Dec 2024 11:34:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/veronica-andreo/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/veronica-andreo/</guid>
       <description>&lt;p&gt;Veronica Andreo holds a PhD in Biology and an MSc in Remote Sensing and GIS&#xA;Applications. She is part of the GRASS Dev Team, and serves as PSC chair since&#xA;2021. She works as a researcher for CONICET at Gulich Institute - Argentinian&#xA;Space Agency (CONAE) in Córdoba, Argentina.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Codrina Maria Ilie</title>
-      <link>http://localhost:1313/program-committee/codrina-ilie/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/codrina-ilie/</link>
       <pubDate>Thu, 19 Dec 2024 11:26:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/codrina-ilie/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/codrina-ilie/</guid>
       <description>&lt;p&gt;Codrina Ilie is a technical geographer, an open source GIS/RS power user,&#xA;actively working as a project officer to support geospatial data services&#xA;development at Terrasigna. In her 12 years of activity, Codrina has essentially&#xA;focused on using open source GIS and RS solutions for data management,&#xA;processing and visualization. As an advocate for free and open source&#xA;software for geospatial, since 2010 she has been a volunteer trainer in the&#xA;Romanian geospatial community, geo-spatial.org. Since 2013, Codrina has been a&#xA;Charter Member and today serves the community as an OSGeo Board of Directors&#xA;elected member, within her third term.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Enock Seth Nyamador</title>
-      <link>http://localhost:1313/program-committee/enock-seth-nyamador/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/enock-seth-nyamador/</link>
       <pubDate>Fri, 29 Nov 2024 09:29:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/enock-seth-nyamador/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/enock-seth-nyamador/</guid>
       <description>&lt;p&gt;Enock Seth Nyamador is a FOSS4G and Open Data Consultant and advocate.&#xA;He is an active OpenStreetMap contributor and OSGeo Charter member; member of&#xA;OSGeo Marketing Committee and OSGeoLive PSC. He also participates in Free&#xA;software and Free content movements.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stefanie Lumnitz</title>
-      <link>http://localhost:1313/program-committee/stefanie-lumnitz/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/stefanie-lumnitz/</link>
       <pubDate>Fri, 29 Nov 2024 09:29:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/stefanie-lumnitz/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/stefanie-lumnitz/</guid>
       <description></description>
     </item>
     <item>
       <title>Grgo Šarić</title>
-      <link>http://localhost:1313/program-committee/grgo-saric/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/grgo-saric/</link>
       <pubDate>Tue, 26 Nov 2024 12:24:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/grgo-saric/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/grgo-saric/</guid>
       <description>&lt;p&gt;Grgo Šarić has a Master’s degree in Spatial Planning and Regional Development&#xA;from the University of Zagreb. He works in local company Ecoplan d.o.o. in&#xA;Mostar and is a dedicated spatial planner specializing in the use of&#xA;open-source data to analyze spatial patterns and support data-driven&#xA;decision-making processes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kurt Menke</title>
-      <link>http://localhost:1313/program-committee/kurt-menke/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/kurt-menke/</link>
       <pubDate>Sat, 23 Nov 2024 17:40:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/kurt-menke/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/kurt-menke/</guid>
       <description>&lt;p&gt;In early 2021, Kurt moved from the USA to Denmark and now works for Septima P/S&#xA;in Copenhagen, Denmark. He earned a Master in Geography from the University of&#xA;New Mexico in 2000. He has a broad skillset. He is a spatial analyst,&#xA;cartographer, trainer/teacher and author. He has published many QGIS books,&#xA;the most recent being: Discover QGIS 3.x - Second Edition, QGIS for Hydrological&#xA;Applications - Second Edition, and Field Data Collection with QGIS and Mergin&#xA;Maps all with Locate Press. He was elected as an OsGeo Charter Member in 2015.&#xA;He is also a fellow of the Rewilding Institute and a board member of&#xA;Wild Arizona.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Astrid Emde</title>
-      <link>http://localhost:1313/program-committee/astrid-emde/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/astrid-emde/</link>
       <pubDate>Sat, 23 Nov 2024 14:57:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/astrid-emde/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/astrid-emde/</guid>
       <description>&lt;p&gt;Astrid Emde is an active member of OSGeo and the OSGeo Secretary. She&#xA;was in the OSGeo Board of Directors from 2017 till 2021. She is an&#xA;active member of FOSSGIS e.V. the german language Local Chapter of OSGeo&#xA;and part of the team that is organizing the annual FOSSGIS conference.&#xA;Astrid Emde is an Open Source Geospatial expert, actively working as a&#xA;GIS Consultant at WhereGroup in Bonn (Germany).&#xA;She is part of the Mapbender and OSGeoLive team. She received the Sol&#xA;Katz Award in 2018 at the FOSS4G conference in Dar es Salaam (Tanzania).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Besfort Guri</title>
-      <link>http://localhost:1313/program-committee/besfort-guri/</link>
+      <link>https://2026-foss4g-europe.github.io/program-committee/besfort-guri/</link>
       <pubDate>Thu, 21 Nov 2024 14:03:24 +0200</pubDate>
-      <guid>http://localhost:1313/program-committee/besfort-guri/</guid>
+      <guid>https://2026-foss4g-europe.github.io/program-committee/besfort-guri/</guid>
       <description>&lt;p&gt;Besfort Guri co-leads Kosovo’s open-source and mapping community. As FLOSSK’s&#xA;President, he advocates for open-source values at home. Engaged with the&#xA;OpenStreetMap Foundation and OSGeo, he represents them in Kosovo. Besfort&#xA;co-leads Open Spatial Kosovo and chaired FOSS4G 2023. Through OpS-IN,&#xA;his Kosovo business, he develops open-source GIS tools, demonstrating his&#xA;commitment to local and global tech progress.&lt;/p&gt;</description>
     </item>
   </channel>

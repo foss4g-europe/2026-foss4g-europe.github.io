@@ -2,192 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scientific Committee on FOSS4G Europe 2026</title>
-    <link>http://localhost:1313/scientific-committee/</link>
+    <link>https://2026-foss4g-europe.github.io/scientific-committee/</link>
     <description>Recent content in Scientific Committee on FOSS4G Europe 2026</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 19 Feb 2025 11:13:24 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/scientific-committee/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://2026-foss4g-europe.github.io/scientific-committee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marco Minghini</title>
-      <link>http://localhost:1313/scientific-committee/marco-minghini/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/marco-minghini/</link>
       <pubDate>Wed, 19 Feb 2025 11:13:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/marco-minghini/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/marco-minghini/</guid>
       <description>&lt;p&gt;Marco has been an OSGeo Charter Member since 2015. He currently works as a&#xA;Scientific Project Officer at the&#xA;&lt;strong&gt;&lt;a href=&#34;https://joint-research-centre.ec.europa.eu/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;European Commission – Joint Research Centre (JRC)&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;in Ispra, Italy, supporting policies on geospatial data&#xA;sharing/interoperability as well as the implementation of the&#xA;&lt;strong&gt;&lt;a href=&#34;https://inspire.ec.europa.eu/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;INSPIRE Directive&lt;/a&gt;&#xA;&lt;/strong&gt;.&#xA;He is a researcher, educator and advocate on open source software and open&#xA;data. Since 2022 he is the Chair of&#xA;&lt;strong&gt;&lt;a href=&#34;https://www2.isprs.org/commissions/comm4/icwg-4-3-2/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;ISPRS Intercommission Working Group &amp;#34;Open innovation in Geospatial science and Remote Sensing&amp;#34;&lt;/a&gt;&#xA;&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tomislav Hlupić</title>
-      <link>http://localhost:1313/scientific-committee/tomislav-hlupic/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/tomislav-hlupic/</link>
       <pubDate>Fri, 07 Feb 2025 09:10:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/tomislav-hlupic/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/tomislav-hlupic/</guid>
       <description>&lt;p&gt;I am currently external associate at University of Zagereb, FER where I am&#xA;working as a lecturer on Geospatial Databases. My research interests, besides&#xA;spatial data, also cover fields of data engineering and cloud analytics.&#xA;My work primarily focuses on modelling and implementing data warehouses and&#xA;data lakes, where I am currently mostly focused on their implementations in&#xA;the cloud environments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ljiljana Šerić</title>
-      <link>http://localhost:1313/scientific-committee/ljiljana-seric/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/ljiljana-seric/</link>
       <pubDate>Wed, 05 Feb 2025 09:08:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/ljiljana-seric/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/ljiljana-seric/</guid>
       <description>&lt;p&gt;prof.dr.sc. Ljiljana Šerić is full Professor at the University of Split, FESB,&#xA;with a PhD in Computer Science. Specializing in Artificial Intelligence,&#xA;Distributed Systems, and Web Programming, My work focuses on interdisciplinary&#xA;projects that bridge environmental management and computer science,&#xA;leveraging intelligent systems to address real-world challenges.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marco Ciolli</title>
-      <link>http://localhost:1313/scientific-committee/marco-ciolli/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/marco-ciolli/</link>
       <pubDate>Tue, 14 Jan 2025 11:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/marco-ciolli/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/marco-ciolli/</guid>
       <description>&lt;p&gt;Marco Ciolli, PhD in Forestry, Associate Professor at DICAM and C3A,&#xA;University of Trento (Italy) teaches Master and PhD courses in Applied Ecology,&#xA;Spatial Ecological Modelling and GIS. He organized Summer Schools, GIS courses&#xA;and workshops in Europe, Africa, Asia, Australia and North America to spread&#xA;and support FOSS4G.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aleksandar Valjarević</title>
-      <link>http://localhost:1313/scientific-committee/aleksandar-valjarevic/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/aleksandar-valjarevic/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/aleksandar-valjarevic/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/aleksandar-valjarevic/</guid>
       <description>&lt;p&gt;Affiliation: University of Belgrade, Faculty of Geography&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Geography, cartography, GIS, numerical analysis&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alessandro Sarretta</title>
-      <link>http://localhost:1313/scientific-committee/alessandro-sarretta/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/alessandro-sarretta/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/alessandro-sarretta/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/alessandro-sarretta/</guid>
       <description>&lt;p&gt;Affiliation: CNR-IRPI, Research Institute for Geo-Hydrological Protection&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: (geo)spatial data sharing systems and big data analysis;&#xA;GIS for real-time applications; disaster response and recovery; open geospatial&#xA;science; open geospatial data; participatory mapping and crowdsourcing&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alexander Kotsev</title>
-      <link>http://localhost:1313/scientific-committee/alexander-kotsev/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/alexander-kotsev/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/alexander-kotsev/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/alexander-kotsev/</guid>
       <description>&lt;p&gt;Affiliation: European Commission, JRC&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: sensor networks, interoperability, standards, SDIs,&#xA;data spaces&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anca Anghelea</title>
-      <link>http://localhost:1313/scientific-committee/anca-anghelea/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/anca-anghelea/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/anca-anghelea/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/anca-anghelea/</guid>
       <description>&lt;p&gt;Affiliation: European Space Agency&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Earth Observation, FAIR Open Science, EO Cloud Platforms&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anka Lisec</title>
-      <link>http://localhost:1313/scientific-committee/anka-lisec/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/anka-lisec/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/anka-lisec/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/anka-lisec/</guid>
       <description>&lt;p&gt;Affiliation: University of Ljubljana, Faculty of Civil and Geodetic Engineering&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ante Šiljeg</title>
-      <link>http://localhost:1313/scientific-committee/ante-siljeg/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/ante-siljeg/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/ante-siljeg/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/ante-siljeg/</guid>
       <description>&lt;p&gt;Affiliation: University of Zadar&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: GIS, Remote Sensing&lt;/p&gt;</description>
     </item>
     <item>
       <title>Antonia Ivanda</title>
-      <link>http://localhost:1313/scientific-committee/antonia-ivanda/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/antonia-ivanda/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/antonia-ivanda/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/antonia-ivanda/</guid>
       <description>&lt;p&gt;Affiliation: University of Split, FESB&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Remote Sensing, Deep learning, water monitoring, CNN&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bianca Federici</title>
-      <link>http://localhost:1313/scientific-committee/bianca-federici/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/bianca-federici/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/bianca-federici/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/bianca-federici/</guid>
       <description>&lt;p&gt;Affiliation: University of Genova, Italy&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: GIS applications, traditional topography, GNSS, optical images&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clara Tattoni</title>
-      <link>http://localhost:1313/scientific-committee/clara-tattoni/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/clara-tattoni/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/clara-tattoni/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/clara-tattoni/</guid>
       <description>&lt;p&gt;Affiliation: Università dell&amp;rsquo;Insubria Italy&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evelyn Uuemaa</title>
-      <link>http://localhost:1313/scientific-committee/evelyn-uuemaa/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/evelyn-uuemaa/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/evelyn-uuemaa/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/evelyn-uuemaa/</guid>
       <description>&lt;p&gt;Affiliation: Landscape Geoinformatics Lab, University of Tartu&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: remote sensing, land use change, spatial modelling, explainable AI&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gresa Neziri</title>
-      <link>http://localhost:1313/scientific-committee/gresa-neziri/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/gresa-neziri/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/gresa-neziri/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/gresa-neziri/</guid>
       <description>&lt;p&gt;Affiliation: SpaceSyntaKs, Kosovo&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Architectural Engineering, Public Health, Remote Sensing,&#xA;Geostatistics, Geoinformatics (GIS)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hrvoje Matijević</title>
-      <link>http://localhost:1313/scientific-committee/hrvoje-matijevic/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/hrvoje-matijevic/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/hrvoje-matijevic/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/hrvoje-matijevic/</guid>
       <description>&lt;p&gt;Affiliation: University North, Department of Geodesy and Geomatics&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Web GIS technologies, geospatial data processing and&#xA;geospatial databases&lt;/p&gt;</description>
     </item>
     <item>
       <title>Krištof Oštir</title>
-      <link>http://localhost:1313/scientific-committee/kristof-ostir/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/kristof-ostir/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/kristof-ostir/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/kristof-ostir/</guid>
       <description>&lt;p&gt;Affiliation: University of Ljubljana, Faculty of Civil and Geodetic Engineering&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maria Antonia Brovelli</title>
-      <link>http://localhost:1313/scientific-committee/maria-antonia-brovelli/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/maria-antonia-brovelli/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/maria-antonia-brovelli/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/maria-antonia-brovelli/</guid>
       <description>&lt;p&gt;Affiliation: Politecnico di Milano&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: GIS, Earth Observation, GEOAI, Digital Twin Earth&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marina Tavra</title>
-      <link>http://localhost:1313/scientific-committee/marina-tavra/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/marina-tavra/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/marina-tavra/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/marina-tavra/</guid>
       <description>&lt;p&gt;Field of expertise: Spatial analysis in GIS, Web GIS development, Cartographic&#xA;visualization, Digital cartography, Conceptual modeling of geoinformation and&#xA;cartographic systems&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marjan Sikora</title>
-      <link>http://localhost:1313/scientific-committee/marjan-sikora/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/marjan-sikora/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/marjan-sikora/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/marjan-sikora/</guid>
       <description>&lt;p&gt;Affiliation: University of Split, FESB&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: GIS, Cartography, Programming, Geometric Simulations,&#xA;Programming Languages, Translators, Electroacoustics&lt;/p&gt;</description>
     </item>
     <item>
       <title>Massimiliano Cannata</title>
-      <link>http://localhost:1313/scientific-committee/massimiliano-cannata/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/massimiliano-cannata/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/massimiliano-cannata/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/massimiliano-cannata/</guid>
       <description>&lt;p&gt;Affiliation: Institute of Earth sciences, SUPSI-DACD, Switzerland&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Sensor data, earth sciences, water resources&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nikola Kranjčić</title>
-      <link>http://localhost:1313/scientific-committee/nikola-kranjcic/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/nikola-kranjcic/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/nikola-kranjcic/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/nikola-kranjcic/</guid>
       <description>&lt;p&gt;Affiliation: University North, Department of Geodesy and Geomatics&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: machine learning, satellite imagery, open street maps&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paolo Zatelli</title>
-      <link>http://localhost:1313/scientific-committee/paolo-zatelli/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/paolo-zatelli/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/paolo-zatelli/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/paolo-zatelli/</guid>
       <description>&lt;p&gt;Affiliation: University of Trento, Italy&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: GIS, image processing, photogrammetry, GIS educations&lt;/p&gt;</description>
     </item>
     <item>
       <title>Peter Mooney</title>
-      <link>http://localhost:1313/scientific-committee/peter-mooney/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/peter-mooney/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/peter-mooney/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/peter-mooney/</guid>
       <description>&lt;p&gt;Affiliation: Maynooth University&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: open geospatial science, open geospatial data,&#xA;(geo)spatial data sharing systems and big data analysis, GIS for real-time&#xA;applications, disaster response and recovery, open (geo)education,&#xA;participatory mapping and crowdsourcing, GeoAI and geospatial ML&lt;/p&gt;</description>
     </item>
     <item>
       <title>Silvija Šiljeg</title>
-      <link>http://localhost:1313/scientific-committee/silvija-siljeg/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/silvija-siljeg/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/silvija-siljeg/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/silvija-siljeg/</guid>
       <description>&lt;p&gt;Affiliation: University of Zadar, department for geography&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: Urban Geography, Geographic Information Systems (GIS),&#xA;Quality of Life and Housing, Spatial Accessibility and Urban Amenities, Urban&#xA;Vulnerability and Modeling&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vlado Cetl</title>
-      <link>http://localhost:1313/scientific-committee/vlado-cetl/</link>
+      <link>https://2026-foss4g-europe.github.io/scientific-committee/vlado-cetl/</link>
       <pubDate>Tue, 14 Jan 2025 10:44:24 +0200</pubDate>
-      <guid>http://localhost:1313/scientific-committee/vlado-cetl/</guid>
+      <guid>https://2026-foss4g-europe.github.io/scientific-committee/vlado-cetl/</guid>
       <description>&lt;p&gt;Affiliation: University North, Croatia; University of Mostar, Bosnia-Herzegovina&lt;/p&gt;&#xA;&lt;p&gt;Field of expertise: spatial information management, spatial data&#xA;infrastructures, cadastre, land management, geoinformatics, GIS, risk&#xA;management.&lt;/p&gt;</description>
     </item>
   </channel>

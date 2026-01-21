@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Sponsors on FOSS4G Europe 2026</title>
-    <link>http://localhost:1313/sponsors/</link>
+    <link>https://2026-foss4g-europe.github.io/sponsors/</link>
     <description>Recent content in Our Sponsors on FOSS4G Europe 2026</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 27 Jun 2025 20:03:24 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://2026-foss4g-europe.github.io/sponsors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MapTiler</title>
-      <link>http://localhost:1313/sponsors/maptiler/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/maptiler/</link>
       <pubDate>Fri, 27 Jun 2025 20:03:24 +0300</pubDate>
-      <guid>http://localhost:1313/sponsors/maptiler/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/maptiler/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://bit.ly/3uNX1Dj&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;MapTiler&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;makes maps easy. Everyone can customize and integrate the maps into their&#xA;websites and mobile apps. MapTiler is a platform that gives developers&#xA;a maps API, tools to turn imagery and data into map tiles, and a server for&#xA;hosting maps locally using MBTiles, GeoPackage, or PostGIS. At MapTiler,&#xA;we ♡ open source and believe in its importance to geographical systems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quarticle</title>
-      <link>http://localhost:1313/sponsors/quarticle/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/quarticle/</link>
       <pubDate>Thu, 05 Jun 2025 17:39:24 +0300</pubDate>
-      <guid>http://localhost:1313/sponsors/quarticle/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/quarticle/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://quarticle.ch/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;Quarticle&lt;/a&gt;&#xA;&lt;/strong&gt; delivers next-generation, cloud-native geo-intelligence solutions&#xA;that empower organizations to manage, analyze, and distribute geospatial&#xA;data at scale—securely, flexibly, and with industry-leading performance.&#xA;By combining open-source software with proprietary innovations, Quarticle&#xA;ensures clients retain control over their data while benefiting from&#xA;continuous community-driven enhancements.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CloudFerro</title>
-      <link>http://localhost:1313/sponsors/cloudferro/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/cloudferro/</link>
       <pubDate>Thu, 05 Jun 2025 15:09:24 +0300</pubDate>
-      <guid>http://localhost:1313/sponsors/cloudferro/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/cloudferro/</guid>
       <description>&lt;p&gt;&lt;strong&gt;CloudFerro&lt;/strong&gt; provides &lt;strong&gt;innovative cloud services&lt;/strong&gt;. The company delivers&#xA;and operates cloud computing platforms for demanding markets, such as the&#xA;European space sector, climate research and science. Its broad experience&#xA;and in-depth expertise include storing and processing &lt;strong&gt;big data sets&lt;/strong&gt;, such&#xA;as multipetabyte repositories of Earth Observation satellite data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TomTom</title>
-      <link>http://localhost:1313/sponsors/tomtom/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/tomtom/</link>
       <pubDate>Thu, 05 Jun 2025 08:53:24 +0300</pubDate>
-      <guid>http://localhost:1313/sponsors/tomtom/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/tomtom/</guid>
       <description>&lt;p&gt;TomTom N.V., an Amsterdam-based Dutch multinational, specializes in location&#xA;technology and consumer electronics. Founded in 1991, TomTom revolutionized&#xA;the consumer satellite navigation market in 2004 with its first all-in-one&#xA;portable device. Today, it&amp;rsquo;s a leading provider of accurate &lt;strong&gt;maps&lt;/strong&gt;, &lt;strong&gt;real-time&#xA;traffic&lt;/strong&gt;, and &lt;strong&gt;navigation&lt;/strong&gt; solutions for consumers and enterprises, including&#xA;the automotive sector, while actively innovating in areas like &lt;strong&gt;autonomous&lt;/strong&gt;&#xA;driving.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EnviroSolutions</title>
-      <link>http://localhost:1313/sponsors/envirosolutions/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/envirosolutions/</link>
       <pubDate>Thu, 05 Jun 2025 08:31:24 +0300</pubDate>
-      <guid>http://localhost:1313/sponsors/envirosolutions/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/envirosolutions/</guid>
       <description>&lt;p&gt;We are EnviroSolutions, a Polish company specializing in OpenSource GIS. We&#xA;provide solutions for public institutions and private sector, especially:&lt;/p&gt;</description>
     </item>
     <item>
       <title>GeoSolutions</title>
-      <link>http://localhost:1313/sponsors/geosolutions/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/geosolutions/</link>
       <pubDate>Wed, 21 May 2025 15:08:24 +0200</pubDate>
-      <guid>http://localhost:1313/sponsors/geosolutions/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/geosolutions/</guid>
       <description>&lt;p&gt;&lt;strong&gt;GeoSolutions&lt;/strong&gt; is specialized in the dissemination of geospatial data with&#xA;&lt;strong&gt;Open Source&lt;/strong&gt; software according to the standards created by the &lt;strong&gt;Open GeoSpatial&#xA;Consortium (OGC)&lt;/strong&gt; and the &lt;strong&gt;ISO Technical Committee 211&lt;/strong&gt;, which provide the base&#xA;building blocks for the &lt;strong&gt;INSPIRE&lt;/strong&gt; regulations. &lt;strong&gt;GeoSolutions&amp;rsquo;&lt;/strong&gt; team is composed by&#xA;renowned international professionals with leading roles in some of the main&#xA;&lt;strong&gt;Open Source&lt;/strong&gt; products for the geospatial field like &lt;strong&gt;GeoServer&lt;/strong&gt;, &lt;strong&gt;GeoNetwork&lt;/strong&gt;,&#xA;&lt;strong&gt;MapStore&lt;/strong&gt; and &lt;strong&gt;GeoNode&lt;/strong&gt; for which &lt;strong&gt;GeoSolutions&lt;/strong&gt; provides&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.geosolutionsgroup.com/enterprise-support-services&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;Enterprise Support Services&lt;/a&gt;&#xA;&lt;/strong&gt;,&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.geosolutionsgroup.com/subscription-services&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;Subscription Services&lt;/a&gt;&#xA;&lt;/strong&gt;, and&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.geosolutionsgroup.com/professional-training&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;Professional Training Services&lt;/a&gt;&#xA;&lt;/strong&gt;.&#xA;&lt;strong&gt;GeoSolutions&lt;/strong&gt; counts among its customers more than 300 national and&#xA;international government agencies as well as private companies worldwide.&lt;/p&gt;</description>
     </item>
     <item>
       <title>QGIS España</title>
-      <link>http://localhost:1313/sponsors/qgises/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/qgises/</link>
       <pubDate>Wed, 21 May 2025 15:00:24 +0200</pubDate>
-      <guid>http://localhost:1313/sponsors/qgises/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/qgises/</guid>
       <description>&lt;p&gt;We are the QGIS group users in Spain, who, like you, use QGIS in our daily lives&#xA;for professional work, research or as entertainment. We help make QGIS even&#xA;better, be it by sharing knowledge, translating, developing features or&#xA;helping other users.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OPENGIS.ch</title>
-      <link>http://localhost:1313/sponsors/opengisch/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/opengisch/</link>
       <pubDate>Mon, 05 May 2025 11:30:24 +0200</pubDate>
-      <guid>http://localhost:1313/sponsors/opengisch/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/opengisch/</guid>
       <description>&lt;p&gt;The most powerful and efficient way to manage your data on-the-go.&#xA;&lt;br&gt;&lt;br&gt;&#xA;With the&#xA;&lt;strong&gt;&lt;a href=&#34;https://qfield.org/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;QField&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;productivity suite, you can streamline your fieldwork processes&#xA;and improve fieldwork efficiency. Our products are designed to work together&#xA;seamlessly, providing a complete solution for all your fieldwork needs. Whether&#xA;you’re collecting data in remote locations or managing large-scale projects in&#xA;a hyperconnected city, our tools have you covered.&#xA;&lt;br&gt;&lt;br&gt;&#xA;QField is the professional fieldwork app for QGIS. With more than 250K active&#xA;monthly users and 1 million downloads, QField helps people worldwide digitise&#xA;their data on- and off-line thanks to state-of-the-art technology, user-friendly&#xA;interface and cutting-edge hardware integrations. Capturing geotagged video and&#xA;audio, calculating altitude profiles, connecting to external sensors like Geiger&#xA;counters, or the first-ever integration with a surveyor-grade handheld&#xA;GNSS with IMU -&#xA;&lt;strong&gt;&lt;a href=&#34;https://www.happysurvey.ch/de/survey/mini-ii/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;the Happy mini II&lt;/a&gt;&#xA;&lt;/strong&gt; -&#xA;are just a few of the highlights that you&#xA;will find in the app that won the prestigious Best of Swiss Apps Enterprise&#xA;2022 award.&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://qfield.cloud/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;QFieldCloud&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;is the SaaS (software as a service) solution provided by&#xA;&lt;strong&gt;&lt;a href=&#34;https://opengis.ch/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;OPENGIS.ch&lt;/a&gt;&#xA;&lt;/strong&gt;, one of the main contributors and developers of QGIS, that allows&#xA;your team to integrate field data into your SDI seamlessly. QFieldCloud is an&#xA;open-source web application written in Python using the Django Web framework&#xA;that encourages rapid development and clean, pragmatic designs.&#xA;&lt;br&gt;&lt;br&gt;&#xA;Don’t waste any more time on inefficient field data collection. Try the&#xA;&lt;strong&gt;&lt;a href=&#34;https://qfield.cloud/join&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; &gt;QField productivity suite&lt;/a&gt;&#xA;&lt;/strong&gt;&#xA;and revolutionize your workflow today!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Camp to Camp</title>
-      <link>http://localhost:1313/sponsors/camp-to-camp/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/camp-to-camp/</link>
       <pubDate>Tue, 15 Apr 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:1313/sponsors/camp-to-camp/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/camp-to-camp/</guid>
       <description>&lt;p&gt;When location matters, we help our customers solve their most important challenges.&#xA;&lt;br&gt;&#xA;Camptocamp is one of the leading service providers in the field of Open Source GIS, with a strong&#xA;commitment to various communities.&#xA;&lt;br&gt;&#xA;Our services are built on over 20 years of experience in delivering innovative GIS solutions&#xA;for public authorities and private companies. Our guiding principle is to offer high-quality,&#xA;customer-focused service tailored to specific needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>B&#39;GEO</title>
-      <link>http://localhost:1313/sponsors/bgeo/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/bgeo/</link>
       <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:1313/sponsors/bgeo/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/bgeo/</guid>
       <description>&lt;p&gt;BGEO is a knowledge-driven company specializing in open-source Geographic&#xA;Information Systems (GIS) and water management solutions. As the main developers&#xA;of Giswater—a free, open-source software for water cycle management—and&#xA;co-founders of the Giswater Association, BGEO leverages open-source technology&#xA;to enhance the efficiency and resilience of water utilities. Their comprehensive services&#xA;include consulting, implementation, and training, focusing on operating digital twins for&#xA;water supply, urban drainage, and sewer networks. Additionally, BGEO offers engineering&#xA;services related to urban infrastructures, encompassing various studies, environmental&#xA;management, master plans, and engineering projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>European Space Agency</title>
-      <link>http://localhost:1313/sponsors/esa/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/esa/</link>
       <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:1313/sponsors/esa/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/esa/</guid>
       <description>&lt;p&gt;The European Space Agency (ESA) serves as Europe&amp;rsquo;s gateway to space, with a mission to shape&#xA;the development of Europe&amp;rsquo;s space capability and ensure that investment in space continues to&#xA;deliver benefits to the citizens of Europe and the world. ​&lt;/p&gt;</description>
     </item>
     <item>
       <title>GeoCat bv</title>
-      <link>http://localhost:1313/sponsors/geocat/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/geocat/</link>
       <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:1313/sponsors/geocat/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/geocat/</guid>
       <description>&lt;p&gt;GeoCat provides advanced software and services that make publishing geographic and open&#xA;data on the internet easier and more efficient than ever. Our expert developers play a leading&#xA;role in open-source software, creating sustainable applications based on Open Standards and&#xA;the Free and Open Source software philosophy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Geoinova d.o.o.</title>
-      <link>http://localhost:1313/sponsors/geoinova/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/geoinova/</link>
       <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:1313/sponsors/geoinova/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/geoinova/</guid>
       <description>&lt;p&gt;GeoINOVA is a one of leading regional providers of innovative GIS solutions that enable the simple&#xA;and efficient publishing of geographical data. Their specialized software, such as TeleCAD-GIS,&#xA;supports telecommunications operators and other organizations in planning, designing, and maintaining&#xA;infrastructure. By combining deep domain knowledge with the latest technologies, GeoINOVA bridges&#xA;the gap between raw data and valuable insights about our living environment. Their commitment to&#xA;open standards and sustainable, tailored products makes them a trusted partner for organizations&#xA;at the regional, national, and international levels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Honorable mentions</title>
-      <link>http://localhost:1313/sponsors/honorable-mentions/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/honorable-mentions/</link>
       <pubDate>Fri, 21 Mar 2025 14:42:28 +0100</pubDate>
-      <guid>http://localhost:1313/sponsors/honorable-mentions/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/honorable-mentions/</guid>
       <description>&lt;p&gt;It’s incredible to witness random acts of kindness — people giving&#xA;generously for the good of the community.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/sponsors/readme/</link>
+      <link>https://2026-foss4g-europe.github.io/sponsors/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sponsors/readme/</guid>
+      <guid>https://2026-foss4g-europe.github.io/sponsors/readme/</guid>
       <description>&lt;h2 id=&#34;adding-sponsors&#34;&gt;adding sponsors&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;we list sponsors by sponsor_group.name (think of this as &amp;ldquo;sponsorship level&amp;rdquo;)&#xA;from data/homepage.yml&lt;/li&gt;&#xA;&lt;li&gt;sponsor groups are in the order they appear in data/homepage.yml&lt;/li&gt;&#xA;&lt;li&gt;sponsor_item values are rendered in the order they appear in data/homepage.yml&lt;/li&gt;&#xA;&lt;li&gt;create sponsor md page file in content/sponsors. filename can be anything, but&#xA;as it will be an URL, please consider ascii chars only, no whitespaces please :)&lt;/li&gt;&#xA;&lt;li&gt;please pay attention that the specific &lt;code&gt;name&lt;/code&gt; value in data.homepage for the&#xA;sponsor is the same as md metadata section &lt;code&gt;title&lt;/code&gt; value. If a match is not found&#xA;the sponsor will not be listed in the generated page.&lt;/li&gt;&#xA;&lt;li&gt;sponsor page type should be set to &lt;code&gt;sponsor&lt;/code&gt; and layout &lt;code&gt;single&lt;/code&gt; (see .template.md)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

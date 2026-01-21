@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keynote speakers on FOSS4G Europe 2026</title>
-    <link>http://localhost:1313/speaker/</link>
+    <link>https://2026-foss4g-europe.github.io/speaker/</link>
     <description>Recent content in Keynote speakers on FOSS4G Europe 2026</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 28 Jun 2025 09:47:24 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/speaker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://2026-foss4g-europe.github.io/speaker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emma Irving</title>
-      <link>http://localhost:1313/speaker/emma-irving/</link>
+      <link>https://2026-foss4g-europe.github.io/speaker/emma-irving/</link>
       <pubDate>Sat, 28 Jun 2025 09:47:24 +0300</pubDate>
-      <guid>http://localhost:1313/speaker/emma-irving/</guid>
+      <guid>https://2026-foss4g-europe.github.io/speaker/emma-irving/</guid>
       <description></description>
     </item>
     <item>
       <title>Sylvain Corlay</title>
-      <link>http://localhost:1313/speaker/sylvain-corlay/</link>
+      <link>https://2026-foss4g-europe.github.io/speaker/sylvain-corlay/</link>
       <pubDate>Thu, 26 Jun 2025 13:27:24 +0300</pubDate>
-      <guid>http://localhost:1313/speaker/sylvain-corlay/</guid>
+      <guid>https://2026-foss4g-europe.github.io/speaker/sylvain-corlay/</guid>
       <description></description>
     </item>
     <item>
       <title>Vlado Cetl</title>
-      <link>http://localhost:1313/speaker/vlado-cetl/</link>
+      <link>https://2026-foss4g-europe.github.io/speaker/vlado-cetl/</link>
       <pubDate>Thu, 26 Jun 2025 13:27:24 +0300</pubDate>
-      <guid>http://localhost:1313/speaker/vlado-cetl/</guid>
+      <guid>https://2026-foss4g-europe.github.io/speaker/vlado-cetl/</guid>
       <description></description>
     </item>
   </channel>
