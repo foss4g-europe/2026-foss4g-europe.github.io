@@ -104,11 +104,13 @@ discount for presenters.
 {{</ faq >}}
 
 {{< faq "I'm holding the workshop? Do I have to register?" >}}
-Yes, everebody is required to register for the conference. Each workshop is
+Yes, everebody is required to register for the conference. 
+<!--
+Each workshop is
 entitled to two complimentary tickets for its presenters. However, if
 presenters choose to purchase their tickets, it would greatly support the
 conference's organization and sustainability. Your contribution is highly
-appreciated.
+appreciated. -->
 {{</ faq >}}
 
 <!-- {{< faq "How do I sign up to attend the conference?" >}}
