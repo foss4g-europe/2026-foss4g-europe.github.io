@@ -12,49 +12,231 @@ Registration will be open starting from: 18 February 2026.
 More information will be provided in the following days.
 
 <style type="text/css">
-  .container{ max-width: 72% !important;}
-    .tg  {border-collapse:collapse;border-spacing:0; width:100%;font-family: "Montserrat", sans-serif;font-variant-ligatures: none;}
-    .tg td{border-color: rgb(44, 43, 43);border-style:solid;border-width:1px;
-      overflow:hidden;padding:10px 5px;word-break:normal; width: 12%;}
-    .tg th{border-color:rgb(44, 43, 43);border-style:solid;border-width:1px;
-     overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-head{text-align:center;vertical-align:middle; background-color: transparent;}
-    .tg .tg-body{text-align:center;vertical-align:middle; height: 100px;}
-    h6{color:goldenrod}
-    </style>
+  .container{ max-width: 95% !important;}
+  .schedule-table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+    font-variant-ligatures: none;
+    margin: 20px 0;
+  }
+  .schedule-table td, .schedule-table th {
+    border: 1px solid rgb(44, 43, 43);
+    padding: 8px 5px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 0.9em;
+  }
+  .schedule-table th {
+    background-color: #4e9790;
+    color: white;
+    font-weight: bold;
+    padding: 12px 5px;
+  }
+  .schedule-table .time-col {
+    background-color: #f5f5f5;
+    font-weight: 500;
+    width: 8%;
+  }
+  .schedule-table .event-cell {
+    background-color: #fff;
+  }
+  .schedule-table .highlight {
+    background-color: #e8f4f3;
+    font-weight: 500;
+  }
+  .legend {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #4e9790;
+  }
+  .legend h4 {
+    color: #4e9790;
+    margin-bottom: 10px;
+  }
+  .legend ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  .legend li {
+    padding: 5px 0;
+  }
+</style>
+
 <section>
 <div>
-    <table class="tg">
+  <h2>Detailed Schedule</h2>
+  <table class="schedule-table">
     <thead>
       <tr>
-        <td class="tg-head"><h5>Monday</h5>29 June</td>
-        <td class="tg-head"><h5>Tuesday</h5>30 June</td>
-        <td class="tg-head"><h5>Wednesday</h5>1 July</td>
-        <td class="tg-head"><h5>Thursday </h5>2 July</td>
-        <td class="tg-head"><h5>Friday </h5>3 July</td>
+        <th>Time</th>
+        <th>Sunday<br>29 June</th>
+        <th>Monday<br>30 June</th>
+        <th>Tuesday<br>1 July</th>
+        <th>Wednesday<br>2 July</th>
+        <th>Thursday<br>3 July</th>
+        <th>Friday<br>4 July</th>
+        <th>Saturday<br>5 July</th>
       </tr>
     </thead>
     <tbody>
-      <tr style="height:200px;">
-        <td class="tg-body" colspan="1"><a href="./workshops/"><h6 style="color: rgb(177, 81, 81);"><b>Workshops</b></h6></a></td>
-        <td class="tg-body" colspan="1"><a href="./workshops/"><h6 style="color: rgb(177, 81, 81);"><b>Workshops</b></h6></a></td>
-        <td class="tg-body" colspan="3"><a href="./talks/"><h6 style="color: darkblue;"><b>Main Conference</b></h6></td>
+      <tr>
+        <td class="time-col">07:30 - 08:00</td>
+        <td class="highlight">Registration</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
-        <td class="tg-body" rowspan="2"><a href="./b2b/"><b>B2B</b></a></td>
-        <td class="tg-body"><a href="./ice-breaker/"><b>Ice breaker</b></a></td>
-        <td class="tg-body"><a href="#"><b>Social dinner</b></a></td>
-        <td class="tg-body" rowspan="2"><a href="./excursion"><b>Recaș Winery Trip</b></a></td>
+        <td class="time-col">08:00 - 08:30</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="highlight">Registration</td>
+        <td class="highlight">Registration</td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
-        <td class="tg-body" rowspan="1"><a href="./geochicas-take-mostar/"><b>GeoChicas event</b></a></td>
-        <td class="tg-body" rowspan="1"><a href="./pub-crawl/"><b>Pub race</b></a></td>
-        <td class="tg-body" rowspan="1"><a href="./city-tour/"><b>Guided tours</b></a></td>
+        <td class="time-col">09:00 - 11:00</td>
+        <td class="highlight">Opening plenary session</td>
+        <td></td>
+        <td></td>
+        <td class="highlight">Workshop Session 1-1</td>
+        <td class="highlight">Workshop Session 2-1</td>
+        <td class="highlight">OSGeo code sprint / QGIS contributors' meeting</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="time-col">11:00 - 11:30</td>
+        <td class="highlight">Coffee break</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="time-col">11:30 - 13:00</td>
+        <td class="highlight">Parallel sessions</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="time-col">13:00 - 14:00</td>
+        <td class="highlight">Lunch break</td>
+        <td></td>
+        <td></td>
+        <td class="highlight">Lunch break</td>
+        <td class="highlight">Lunch break</td>
+        <td class="highlight">Pizza time!</td>
+        <td class="highlight">Pizza time!</td>
+      </tr>
+      <tr>
+        <td class="time-col">14:00 - 16:00</td>
+        <td class="highlight">Parallel sessions</td>
+        <td></td>
+        <td></td>
+        <td class="highlight">Workshop Session 1-2</td>
+        <td class="highlight">Workshop Session 2-2</td>
+        <td class="highlight">OSGeo code sprint / QGIS contributors' meeting</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="time-col">16:00 - 16:30</td>
+        <td class="highlight">Coffee break</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="time-col">16:30 - 18:00</td>
+        <td class="highlight">Parallel sessions</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="time-col">18:00 - 18:30</td>
+        <td></td>
+        <td class="highlight">Birds of a feather / Poster session</td>
+        <td class="highlight">Birds of a feather / Poster session</td>
+        <td class="highlight">Pub Crawl</td>
+        <td class="highlight">Pub Crawl</td>
+        <td class="highlight">Guided tours! 🌆🚶‍♀️🚶🏽🚶‍♀️🚶‍♀️</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="time-col">18:30 - 19:00</td>
+        <td class="highlight">B2B meeting</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="time-col">19:00 - 19:30</td>
+        <td></td>
+        <td class="highlight">Geochicas</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="time-col">20:00 - 21:00</td>
+        <td class="highlight">Guided tours 🌆🚶‍♀️🚶🏽🚶‍♀️🚶‍♀️</td>
+        <td></td>
+        <td class="highlight">Winery visit / Pub Crawl</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="time-col">21:00 - 22:00</td>
+        <td class="highlight">Ice breaker</td>
+        <td class="highlight">Gala dinner</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>
     </tbody>
-    </table>
-    <br><br>
-    <div>You can explore the agenda by clicking through the items above.</div>
+  </table>
+
+  <div class="legend">
+    <h4>📍 Locations</h4>
+    <ul>
+      <li>🏛️ UVT central location</li>
+      <li>🏢 ICAM</li>
+      <li>🍽️ Zaza Resto Pub</li>
+      <li>🍷 Vineri 15</li>
+      <li>🍺 Pub Crawl locations</li>
+      <li>🏙️ Timișoara lovely city</li>
+      <li>🍇 Recaș Winery</li>
+    </ul>
+  </div>
 </div>
 </section>
 
