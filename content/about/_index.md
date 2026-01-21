@@ -66,3 +66,4 @@ then visited:
 - Guimarães, Portugal (2018)
 - Valmiera, Latvia (2020) - cancelled
 - **{{< extlink href="https://2024.europe.foss4g.org/" title="Tartu, Estonia (2024)" target="blank" rel="noopener noreferrer" >}}**
+- **{{< extlink href="https://2025.europe.foss4g.org/" title="Mosta, Bosnia and Herzegovina (2025)" target="blank" rel="noopener noreferrer" >}}**
