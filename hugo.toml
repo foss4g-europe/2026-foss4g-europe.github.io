@@ -305,11 +305,11 @@ weight = 5
     url = "schedule/pub-crawl/"
 
 ## Main menu item: Sponsors
-[[menu.main]]
-name = "Sponsors"
-url = "sponsors/"
-weight = 6
-hasChildren = true
+#[[menu.main]]
+#name = "Sponsors"
+#url = "sponsors/"
+#weight = 6
+#hasChildren = true
 
 #  [[menu.main]]
 #  weight = 2
