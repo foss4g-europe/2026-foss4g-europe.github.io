@@ -56,7 +56,7 @@ for them will be different.
 ---
 
 ### Program committee review period
-22 February 2026 - 1 March 2026
+23 February 2026 - 1 March 2026
 
 ---
 
