@@ -22,11 +22,11 @@ channels and update timings here.
 
 |                                  |                                     |
 |:---------------------------------|------------------------------------:|
-| Call for workshops:              |  26 January 2026 - 13 February 2026 |
-| Community voting period:         | 16 February 2026 - 28 February 2026 |
-| Program committee review period: |         28 February - 13 March 2026 |
-| Announce accepted workshops:     |                       16 March 2026 |
-| Full program:                    |                       18 March 2026 |
+| Call for workshops:              |  26 January 2026 - 15 February 2026 |
+| Community voting period:         | 15 February 2026 - 22 February 2026 |
+| Program committee review period: |          22 February - 1 March 2026 |
+| Announce accepted workshops:     |                        3 March 2026 |
+| Full program:                    |                        8 March 2026 |
 | Workshops:                       |            **2 July - 3 July 2026** |
 
 <br>
