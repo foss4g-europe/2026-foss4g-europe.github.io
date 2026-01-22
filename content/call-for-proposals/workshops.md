@@ -20,14 +20,14 @@ anything changes we will communicate it on the FOSS4G Europe public
 channels and update timings here.
 
 
-|                                  |                                  |
-|:---------------------------------|---------------------------------:|
-| Call for workshops:              |  26 January 2026 - 13 March 2026 |
-| Community voting period:         | 16 February 2026 - 28 March 2026 |
-| Program committee review period: |      28 February - 13 March 2026 |
-| Announce accepted workshops:     |                    16 March 2026 |
-| Full program:                    |                    18 March 2026 |
-| Workshops:                       |         **2 July - 3 July 2026** |
+|                                  |                                     |
+|:---------------------------------|------------------------------------:|
+| Call for workshops:              |  26 January 2026 - 13 February 2026 |
+| Community voting period:         | 16 February 2026 - 28 February 2026 |
+| Program committee review period: |         28 February - 13 March 2026 |
+| Announce accepted workshops:     |                       16 March 2026 |
+| Full program:                    |                       18 March 2026 |
+| Workshops:                       |            **2 July - 3 July 2026** |
 
 <br>
 <br>
