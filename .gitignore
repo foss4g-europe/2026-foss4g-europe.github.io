@@ -3,6 +3,7 @@ public/
 
 # Hugo cache
 resources/_gen/
+resources/gen/
 .hugo_build.lock
 
 # IDE
