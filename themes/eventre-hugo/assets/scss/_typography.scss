@@ -62,17 +62,17 @@ label {
 a {
 	font-size: 1rem;
 	line-height: 26px;
-	color: #4e9790;
+	color: $primary-color;
 	margin-bottom: 0;
 
 	&:hover {
-		color: ee581e;
+	    color: ee581e;
 	}
 }
 
 
 // Placeholder Color Change
 .form-control::-webkit-input-placeholder {
-	color: darken($light, 30%);
-	font-size: 0.9375rem; //15px
+    color: darken($light, 30%);
+    font-size: 0.9375rem; //15px
 }
