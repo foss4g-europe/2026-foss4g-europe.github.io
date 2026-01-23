@@ -77,18 +77,18 @@ Planned sponsorship levels:
 
 A number of preconfigured sponsorship packages have been prepared and outlined below
 
-| Sponsorship Level                 	 | Diamond 	                   | Platinum 	             | Gold  	   | Silver 	  | Bronze 	   | Suporter 	 |
-|:-----------------------------------:|-----------------------------|------------------------|-----------|-----------|------------|------------|
-| Price                             	 | 	   >15.000€                | 10.000€     	          | 5.000€  	 | 2500€   	 | 1500€   	  | 500€    	  |
-| Sponsored talk in main track      	 | 	    ✅ (Keynote)            | 	     ✅ (Presentation) | 	         | 	         | 	          | 	          |
-| Conference Passes                 	 | 	         4                 | 	              4       | 	     3   | 	 2       | 	    1     | 	      0   |
-| B2B tickets                       	 | 	            4              | 	    4                 | 	  3      | 	     2   | 	  1       | 	  0       |
-| Speech/presentation during B2B    	 | 	      (10m pitch)          | 	 (5m pitch)           | 	   0     | 0	        | 0	         | 0	         |
-| Sponsor logo in Venue rooms       	 | 	         ✅                 | 	     ✅                 | 	  ✅       | 	         | 	          | 	          |
-| Sponsor logo on conference banner 	 | 	             ✅             | 	              ✅        | 	   ✅      | 	✅        | 	          | 	          |
-| Website promotion & signage       	 | 	         ✅                 | 	      ✅                | 	 ✅        | 	 ✅       | 	        ✅ | 	  ✅       |
-| Mention in press releases         	 | 	           ✅               | 	           ✅           | 	   ✅      | 	  0      | 	    0     | 	    0     |
-| Exhibition space                  	 | 	         16 mp (tentative) | 16 m2    	             | 10 m2 	   | 5 m2   	  | 	 0        | 	      0   |
+| Sponsorship Level                 	 | Diamond 	                   | Platinum 	             | Gold  	   | Silver 	 | Bronze 	   | Suporter 	 |
+|:-----------------------------------:|-----------------------------|------------------------|-----------|----------|------------|---------|
+| Price                             	 | 	   >15.000€                | 10.000€     	          | 5.000€  	 | 2500€   	 | 1500€   	  | 500€    	 |
+| Sponsored talk in main track      	 | 	    ✅ (Keynote)            | 	     ✅ (Presentation) | 	   ❌     | 	    ❌   | 	   ❌      | 	     ❌ |
+| Conference Passes                 	 | 	         4️⃣               | 	               4️⃣                 | 	     3️⃣ | 	  2️⃣   | 	    1️⃣   | 	      ❌ |
+| B2B tickets                       	 | 	             4️⃣                        | 	     4️⃣                           | 	   3️⃣     | 	     2️⃣  | 	  1️⃣      | 	  ❌    |
+| Speech/presentation during B2B    	 | 	      (10m pitch)          | 	 (5m pitch)           | 	   ❌     | ❌	       | ❌	         | ❌	      |
+| Sponsor logo in Venue rooms       	 | 	         ✅                 | 	     ✅                 | 	  ✅      | 	    ❌   | 	   ❌      | 	  ❌    |
+| Sponsor logo on conference banner 	 | 	             ✅             | 	              ✅        | 	   ✅     | 	✅       | 	    ❌     | 	   ❌   |
+| Website promotion & signage       	 | 	         ✅                 | 	      ✅                | 	 ✅       | 	 ✅      | 	        ✅ | 	  ✅    |
+| Mention in press releases         	 | 	           ✅               | 	           ✅           | 	   ✅     | 	  ❌     | 	    ❌     | 	    ❌  |
+| Exhibition space                  	 | 	         16 mp (tentative) | 16 m2    	             | 10 m2 	   | 5 m2   	 | 	 ❌        | 	      ❌ |
 
 #### Platinum
 
