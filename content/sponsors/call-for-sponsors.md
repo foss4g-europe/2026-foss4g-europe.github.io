@@ -1,12 +1,14 @@
 ---
 title: "Call for sponsors"
 page_header_bg: "images/background/background-nn-1.jpeg"
-date: 2026-03-21T14:42:28+01:00
+date: 2026-01-23T22:15:00+02:00
 description: "We are honoured to invite you to take this opportunity to be a financial partner
 for the FOSS4G Europe conference planned to take place in Timișoara, Romania in 2026. By sponsoring
 FOSS4GE 2026, You are extending your support to the whole open source geospatial
 community"
 draft: false
+type: "page"
+layout: "single"
 ---
 # Call for sponsors
 
@@ -17,25 +19,9 @@ is the premier gathering of the OSGeo European community. This week-long event
 program that includes two days of hands-on workshops, three days of insightful presentations, 
 and two days dedicated to the community sprint, fostering collaboration and innovation.
 
-FOSS4GE 2026 will be an in-person event but we are working hard to make
-streaming of all presentations a reality in addition to recorded material which
-will later be published on the
-**{{<
-    extlink href="https://video.osgeo.org/c/foss4geurope/video-playlists/"
-    title="OSGeo PeerTube"
-    target="blank" rel="noopener noreferrer"
->}}**,
-**{{<
-    extlink href="https://av.tib.eu/publisher/FOSS4G"
-    title="TIB-AV"
-    target="blank" rel="noopener noreferrer"
->}}**
-and
-**{{<
-    extlink href="https://www.youtube.com/@FOSS4G/playlists"
-    title="FOSS4G YouTube channel"
-    target="blank" rel="noopener noreferrer"
->}}** portal.
+FOSS4GE 2026 will be an in-person event but we are working hard to make realtime
+streaming of all presentations in addition to recorded material which
+will later be published.
 
 
 We are honoured to invite you to take this opportunity to be a sponsor
@@ -58,7 +44,7 @@ Partnership in the FOSS4G Europe conference gives you:
 
 ### Audience
 
-Around 500-600 participants are expected to attend the conference on-site from all
+Around 400-500 participants are expected to attend the conference on-site from all
 over Europe. Moreover, the whole conference will be streamed and recorded
 to an even larger audience.
 
@@ -82,32 +68,41 @@ Audience profile:
 
 Planned sponsorship levels:
 
+- Diamond (15000€)
 - Platinum (10000€)
 - Gold (5000€)
 - Silver (2500€)
 - Bronze (1500€)
 - Supporter (500€)
 
-We have prepared a number of preconfigured sponsorship packages summarised
-in the following table. If for whatever reason you cannot find a package that
-suits your needs, please feel free to reach out to us so we can work out
-something that fits your needs.
-{{< figure
-    src="/images/sponsor_levels.png"
-    alttext="sponsor levels"
-    link="/doc/FOSS4G-Europe-call-for-sponsors.pdf"
-    width="800"
-    target="blank"
-    rel="noopener noreferrer"
-    >}}
+A number of preconfigured sponsorship packages have been prepared and outlined below
+
+| Sponsorship Level                 	 | Diamond 	                   | Platinum 	             | Gold  	   | Silver 	  | Bronze 	   | Suporter 	 |
+|:-----------------------------------:|-----------------------------|------------------------|-----------|-----------|------------|------------|
+| Price                             	 | 	   >15.000€                | 10.000€     	          | 5.000€  	 | 2500€   	 | 1500€   	  | 500€    	  |
+| Sponsored talk in main track      	 | 	    ✅ (Keynote)            | 	     ✅ (Presentation) | 	         | 	         | 	          | 	          |
+| Conference Passes                 	 | 	         4                 | 	              4       | 	     3   | 	 2       | 	    1     | 	      0   |
+| B2B tickets                       	 | 	            4              | 	    4                 | 	  3      | 	     2   | 	  1       | 	  0       |
+| Speech/presentation during B2B    	 | 	      (10m pitch)          | 	 (5m pitch)           | 	   0     | 0	        | 0	         | 0	         |
+| Sponsor logo in Venue rooms       	 | 	         ✅                 | 	     ✅                 | 	  ✅       | 	         | 	          | 	          |
+| Sponsor logo on conference banner 	 | 	             ✅             | 	              ✅        | 	   ✅      | 	✅        | 	          | 	          |
+| Website promotion & signage       	 | 	         ✅                 | 	      ✅                | 	 ✅        | 	 ✅       | 	        ✅ | 	  ✅       |
+| Mention in press releases         	 | 	           ✅               | 	           ✅           | 	   ✅      | 	  0      | 	    0     | 	    0     |
+| Exhibition space                  	 | 	         16 mp (tentative) | 16 m2    	             | 10 m2 	   | 5 m2   	  | 	 0        | 	      0   |
+
+#### Platinum
+
+#### Gold
+
+#### Silver
+
+#### Bronze
+
+#### Suporter
+
 
 *Since the expo space is limited, please talk to us about your needs 
 
-The full sponsorship prospectus can be downloaded as a pdf file
-**{{<
-    extlink href="/doc/FOSS4G-Europe-call-for-sponsors.pdf"
-    title="here"
-    target="blank" rel="noopener noreferrer"
->}}**.
 
-If you are interested in becoming a sponsor, please contact us at: **info-europe@foss4g.org**
+
+If you are interested in becoming a sponsor, please contact us at: **foss4g-europe-sponsor@e-uvt.ro**

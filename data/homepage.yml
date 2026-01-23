@@ -306,7 +306,7 @@ orga:
 
 ############### Sponsors ##################
 sponsors:
-  enable : false
+  enable : true
   title : "Our partners, supporters, and sponsors"
   content : ""
   button:
@@ -317,6 +317,9 @@ sponsors:
 
   - name : "Platinum"
     sponsor_item:
+    - name: "Quarticle"
+      logo: "images/sponsors/quarticle-logo-transparent.png"
+      link: "./sponsors/quarticle/"
     - name : "GeoCat bv"
       logo : "images/sponsors/geocat.svg"
       link : "./sponsors/geocat/"
@@ -329,9 +332,7 @@ sponsors:
     - name : "TomTom"
       logo : "images/sponsors/tomtom.png"
       link : "./sponsors/tomtom/"
-    - name : "Quarticle"
-      logo : "images/sponsors/quarticle-logo-transparent.png"
-      link : "./sponsors/quarticle/"
+
 
   - name : "Silver"
     sponsor_item:
@@ -369,8 +370,8 @@ sponsors:
       logo : "images/sponsors/envirosolutions.svg"
       link : "./sponsors/envirosolutions/"
 
-  - name : "Media Partners"
-    sponsor_item:
-    - name : "GISWorld-Tech"
-      logo : "images/partners/gisworld.png"
-      link : "./partners/gisworld/"
+#  - name : "Media Partners"
+#    sponsor_item:
+#    - name : "GISWorld-Tech"
+#      logo : "images/partners/gisworld.png"
+#      link : "./partners/gisworld/"
