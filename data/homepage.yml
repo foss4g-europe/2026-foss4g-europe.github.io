@@ -320,55 +320,24 @@ sponsors:
     - name: "Quarticle"
       logo: "images/sponsors/quarticle-logo-transparent.png"
       link: "./sponsors/quarticle/"
-    - name : "GeoCat bv"
-      logo : "images/sponsors/geocat.svg"
-      link : "./sponsors/geocat/"
+
 
   - name : "Gold"
     sponsor_item:
-    - name : "GeoSolutions"
-      logo : "images/sponsors/geosolutions.png"
-      link : "./sponsors/geosolutions/"
-    - name : "TomTom"
-      logo : "images/sponsors/tomtom.png"
-      link : "./sponsors/tomtom/"
+
 
 
   - name : "Silver"
     sponsor_item:
-    - name : "European Space Agency"
-      logo : "images/sponsors/ESA_logo.svg"
-      link : "./sponsors/esa/"
-    - name : "OPENGIS.ch"
-      logo : "images/sponsors/opengisch.png"
-      link : "./sponsors/opengisch/"
-    - name : "CloudFerro"
-      logo : "images/sponsors/cloudferro-logo-transparent.png"
-      link : "./sponsors/cloudferro/"
-    - name : "MapTiler"
-      logo : "images/sponsors/maptiler-logo-vertical.png"
-      link : "./sponsors/maptiler/"
+
 
   - name : "Bronze"
     sponsor_item:
-    - name : "Geoinova d.o.o."
-      logo : "images/sponsors/geoinova.svg"
-      link : "./sponsors/geoinova/"
-    - name : "B'GEO"
-      logo : "images/sponsors/bgeo-logo-transparent.png"
-      link : "./sponsors/bgeo/"
+
 
   - name : "Supporter"
     sponsor_item:
-    - name : "Camp to Camp"
-      logo : "images/sponsors/C2C_2022_RGB_moto_square_logo.svg"
-      link : "./sponsors/camp-to-camp/"
-    - name : "QGIS España"
-      logo : "images/sponsors/qgises-logo.png"
-      link : "./sponsors/qgises/"
-    - name : "EnviroSolutions"
-      logo : "images/sponsors/envirosolutions.svg"
-      link : "./sponsors/envirosolutions/"
+
 
 #  - name : "Media Partners"
 #    sponsor_item:
