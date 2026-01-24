@@ -305,17 +305,17 @@ weight = 5
     url = "schedule/pub-crawl/"
 
 ## Main menu item: Sponsors
-#[[menu.main]]
-#name = "Sponsors"
-#url = "sponsors/"
-#weight = 6
-#hasChildren = true
+[[menu.main]]
+name = "Sponsors"
+url = "sponsors/"
+weight = 6
+hasChildren = true
 
-#  [[menu.main]]
-#  weight = 2
-#  parent = "Sponsors"
-#  name = "Our Sponsors and partners"
-#  url = "sponsors/"
+  [[menu.main]]
+  weight = 2
+  parent = "Sponsors"
+  name = "Our Sponsors and partners"
+  url = "sponsors/"
 
 #  [[menu.main]]
 #    weight = 3
@@ -323,11 +323,11 @@ weight = 5
 #    name = "Our partners"
 #    url = "partners/"
 
-#  [[menu.main]]
-#  weight = 4
-#  parent = "Sponsors"
-#  name = "Call for Sponsors"
-#  url = "sponsors/call-for-sponsors/"
+  [[menu.main]]
+  weight = 4
+  parent = "Sponsors"
+  name = "Call for Sponsors"
+  url = "sponsors/call-for-sponsors/"
 
 ## main menu item: Call for proposals
 [[menu.main]]
