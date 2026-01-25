@@ -2,12 +2,12 @@
 title : "Codrina Maria Ilie"
 page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2024-12-19T11:26:24+02:00
-designation: "Program Committee"
+designation: "Program Chair"
 image: "images/team/codrina-ilie.png"
 draft : false
 type: "team"
 layout: "single"
-includepage: ""
+includepage: "loc/"
 social:
 - name: "mastodon"
   icon: "fa-brands fa-mastodon"

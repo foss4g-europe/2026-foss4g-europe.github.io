@@ -23,14 +23,14 @@ channels and update timings here.
 
 The 2026 call timeline will be published closer to the event.
 
-|   |                                |
-|:--|-------------------------------:|
-| Call for papers: | 1 February 2026 - 8 March 2026 |
-| Community voting period: |   8 March 2026 - 22 March 2026 |
-| Program committee review period: |   20 March 2026 - 6 April 2026 |
-| Announce accepted talks: |                   6 April 2026 |
-| Full program: |                  13 April 2026 |
-| Conference: |      **29 June - 1 July 2026** |
+|   |                                  |
+|:--|---------------------------------:|
+| Call for papers: | 16 February 2026 - 23 March 2026 |
+| Community voting period: |     23 March 2026 - 5 April 2026 |
+| Program committee review period: |    23 March 2026 - 27 April 2026 |
+| Announce accepted talks: |                    30 April 2026 |
+| Full program: |                      11 May 2026 |
+| Conference: |        **29 June - 1 July 2026** |
 
 <br>
 <br>

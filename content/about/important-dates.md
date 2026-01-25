@@ -14,27 +14,27 @@ for them will be different.
 ## General Program
 
 ### Call for papers
-1 February 2026 - 8 March 2026
+16 February 2026 - 22 March 2026
 
 ---
 
 ### Community voting period
-8 March 2026 - 22 March 2026
+23 March 2026 - 5 April 2026
 
 ---
 
 ### Program committee review period
-20 March 2026 - 6 April 2026
+23 March 2026 - 27 April 2026
 
 ---
 
 ### Announcement of accepted talks
-6 April 2026
+30 April 2026
 
 ---
 
 ### Full program
-13 April 2026
+11 May 2026
 
 ---
 
@@ -51,22 +51,22 @@ for them will be different.
 ---
 
 ### Community voting period
-15 February 2026 - 22 February 2026
+16 February 2026 - 1 March 2026
 
 ---
 
 ### Program committee review period
-23 February 2026 - 1 March 2026
+16 February 2026 - 15 March 2026
 
 ---
 
 ### Announcement of accepted workshops
-3 March 2026
+16 March 2026
 
 ---
 
 ### Full program
-8 March 2026
+23 March 2026
 
 ---
 
@@ -78,7 +78,7 @@ for them will be different.
 ## Registration
 
 ### End of Early Bird registration
-TBD
+1 May 2026
 
 ---
 
