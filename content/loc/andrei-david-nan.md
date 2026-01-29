@@ -3,7 +3,7 @@ title : "Andrei-David Nan"
 page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2026-01-29T14:41:24+02:00
 designation: ""
-image: "images/team/andrei-david-nan.png"
+image: "images/team/andrei-david-nan.jpeg"
 draft : false
 type: "team"
 layout: "single"

@@ -3,7 +3,7 @@ title : "Iuhasz Gabriel"
 page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2026-01-29T15:08:00+02:00
 designation: "Program Comitee"
-image: "images/team/iuhasz-gabriel.jpg"
+image: "images/team/iuhasz-gabriel.jpeg"
 draft : false
 type: "team"
 layout: "single"
