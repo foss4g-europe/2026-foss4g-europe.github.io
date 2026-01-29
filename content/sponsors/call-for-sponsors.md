@@ -95,4 +95,4 @@ A number of preconfigured sponsorship packages have been prepared and outlined b
 
 
 
-If you are interested in becoming a sponsor, please contact us at: **foss4g-europe-sponsor@e-uvt.ro**
+If you are interested in becoming a sponsor, please contact us at: **foss4g-europe-sponsor@uvt.ro**
