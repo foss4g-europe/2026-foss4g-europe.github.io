@@ -5,7 +5,7 @@ date: 2025-06-26T13:27:24+03:00
 designation: ""
 image: "images/team/vlado-cetl.jpg"
 pretalx: "https://talks.osgeo.org/foss4g-europe-2025/talk/N9HHEF/"
-draft : false
+draft : true
 social:
 #- name: "linkedin"
 #  icon: "fa-brands fa-linkedin"

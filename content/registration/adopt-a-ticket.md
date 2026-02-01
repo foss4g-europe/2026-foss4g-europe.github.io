@@ -5,7 +5,7 @@ date: 2024-02-10T10:40:24+01:00
 description: "Adopt-a-ticket is your chance to support FOSS4GE 2025 by
 purchasing any number extra tickets for the conference that will be donated to
 our wonderful workshop instructors and Travel Grant Program (TGP) receivers."
-draft: false
+draft: true
 ---
 
 Adopt-a-ticket is your chance to support FOSS4GE 2025 by purchasing any number of
