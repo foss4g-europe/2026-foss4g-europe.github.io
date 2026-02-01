@@ -7,7 +7,7 @@ image: "images/team/vasile-craciunescu.jpeg"
 draft : false
 type: "team"
 layout: "single"
-includepage: ""
+includepage: "loc/"
 social:
 - name: "mastodon"
   icon: "fa-brands fa-mastodon"
