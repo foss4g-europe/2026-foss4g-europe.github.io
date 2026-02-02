@@ -7,7 +7,7 @@ flagship event of OSGeo - an open, grassroots and dynamic community. The
 Scientific Committee invites original research contributions
 addressing any topic or domain connected to free and open source geospatial
 software."
-draft: false
+draft: true
 layout: "single"
 ---
 
