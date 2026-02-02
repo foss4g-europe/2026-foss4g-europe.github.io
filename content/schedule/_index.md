@@ -72,13 +72,13 @@ More information will be provided in the following days.
     <thead>
       <tr>
         <th>Time</th>
-        <th>Sunday<br>29 June</th>
-        <th>Monday<br>30 June</th>
-        <th>Tuesday<br>1 July</th>
-        <th>Wednesday<br>2 July</th>
-        <th>Thursday<br>3 July</th>
-        <th>Friday<br>4 July</th>
-        <th>Saturday<br>5 July</th>
+        <th>Monday<br>29 June</th>
+        <th>Tuesday<br>30 June</th>
+        <th>Wednesday<br>1 July</th>
+        <th>Thursday<br>2 July</th>
+        <th>Friday<br>3 July</th>
+        <th>Saturday<br>4 July</th>
+        <th>Sunday<br>5 July</th>
       </tr>
     </thead>
     <tbody>
