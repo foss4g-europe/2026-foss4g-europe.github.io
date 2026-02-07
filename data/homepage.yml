@@ -294,10 +294,10 @@ orga:
   - name : "Organizing partners"
     orga_item:
     - name : "West University of Timișoara (UVT)"
-      logo : "https://uvt.ro/wp-content/uploads/2020/07/Asset-9.png" #"images/logo1.png"
+      logo : "images/logo_uvt.png"
       link : "https://www.uvt.ro/en/"
     - name : "Geo-Spatial.Org"
-      logo : "https://geo-spatial.org/img/geo-spatialorg-social-card.jpg"
+      logo : "images/geo-spatialorg-social-card.jpg"
       link : "https://geo-spatial.org/"
     - name : "Romanian Space Agency (ROSA)"
       logo : "images/rosa_logo.png"
