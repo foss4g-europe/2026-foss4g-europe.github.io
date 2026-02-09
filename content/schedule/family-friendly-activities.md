@@ -1,7 +1,7 @@
 ---
 title: "Family-friendly activities"
 page_header_bg: "images/background/background-nn-1.jpeg"
-date: 2024-12-07T10:32:19+01:00
+date: 2026-02-09T10:32:19+01:00
 map_select_id: [20,21,22,23,24,25,26]
 draft: false
 layout: "single"

@@ -1,7 +1,7 @@
 ---
 title : "Important dates"
 page_header_bg : "images/background/background-nn-1.jpeg"
-date: 2024-11-16T13:44:24+02:00
+date: 2026-02-09T13:44:24+02:00
 description : "Some important dates to keep track of for FOSS4G Europe 2026"
 draft : false
 layout : "single"

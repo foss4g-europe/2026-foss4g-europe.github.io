@@ -1,7 +1,7 @@
 ---
 title: "General program"
 page_header_bg: "images/background/background-nn-1.jpeg"
-date: 2024-11-30T13:09:24+02:00
+date: 2026-02-09T13:09:24+02:00
 description: "FOSS4G Europe is the regional
 flagship event of OSGeo - an open, grassroots and dynamic community. We are
 looking for novel and original submissions on development, use, and advocacy

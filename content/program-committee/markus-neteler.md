@@ -1,7 +1,7 @@
 ---
 title : "Markus Neteler"
 page_header_bg : "images/background/background-nn-1.jpeg"
-date: 2024-12-19T14:25:24+02:00
+date: 2026-02-09T14:25:24+02:00
 designation: "Program Committee"
 image: "images/team/markus-neteler.jpg"
 draft : false
