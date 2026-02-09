@@ -6,3 +6,5 @@ description : "Meet the FOSS4G Europe 2025 Scientific Committee."
 draft : false
 type: "team"
 ---
+
+To be announced!
