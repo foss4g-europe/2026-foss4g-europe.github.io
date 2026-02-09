@@ -118,9 +118,9 @@ team = "program-committee"
 link = "program-committee/"
 title = "General program committee"
 [[params.teams]]
-team = "scientific-committee"
-link = "scientific-committee/"
-title = "Scientific committee"
+team = "academic-committee"
+link = "academic-committee/"
+title = "Academic committee"
 
 ####################### navigation ##########################
 
@@ -344,8 +344,8 @@ weight = 7
 
   [[menu.main]]
   parent = "Committees"
-  name = "Scientific committee"
-  url = "scientific-committee/"
+  name = "Academic Committee"
+  url = "academic-committee/"
   weight = 2
 
 
