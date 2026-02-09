@@ -333,7 +333,7 @@ hasChildren = true
 ## main menu item: Commitees
 [[menu.main]]
 name = "Committees"
-url = "committees/"
+url = "program-committee/"
 weight = 7
 
   [[menu.main]]
