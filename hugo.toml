@@ -330,11 +330,37 @@ hasChildren = true
   name = "Call for Sponsors"
   url = "sponsors/call-for-sponsors/"
 
+## main menu item: Commitees
+[[menu.main]]
+name = "Committees"
+url = "committees/"
+weight = 7
+
+  [[menu.main]]
+  parent = "Committees"
+  name = "General program committee"
+  url = "program-committee/"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Committees"
+  name = "Scientific committee"
+  url = "scientific-committee/"
+  weight = 2
+
+
+  [[menu.main]]
+  parent = "Committees"
+  name = "Local organizing committee"
+  url = "loc/"
+  weight = 3
+
+
 ## main menu item: Call for proposals
 [[menu.main]]
 name = "Venue"
 url = "venue/"
-weight = 7
+weight = 8
 
   [[menu.main]]
   parent = "Venue"
@@ -380,7 +406,7 @@ weight = 7
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 8
+weight = 9
 
 
 
