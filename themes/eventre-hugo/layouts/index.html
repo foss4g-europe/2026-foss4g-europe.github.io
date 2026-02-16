@@ -21,21 +21,23 @@
           {{with .heading_2}}<h2>{{ . | markdownify }}</h2>{{end}}
           <h6>{{ .content | markdownify }}</h6>
           <!-- Action Button -->
-          {{ if .button.enable }}
-          {{ with .button }}
-          <a href="{{ .link | absURL }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">{{ .label }}</a>
-          {{ end }}
-          {{ end }}
-          {{ if .button_2.enable }}
-          {{ with .button_2 }}
-          <a href="{{ .link | absURL }}" target="blank" rel="noopener noreferrer" class="btn btn-primary">{{ .label }}</a>
-          {{ end }}
-          {{ end }}
-          {{ if .button_3.enable }}
-          {{ with .button_3 }}
-          <a href="{{ .link | absURL }}" target="blank" rel="noopener noreferrer" class="btn btn-white-md">{{ .label }}</a>
-          {{ end }}
-          {{ end }}
+	  <div class="banner-buttons">
+              {{ if .button.enable }}
+              {{ with .button }}
+	      <a href="{{ .link | absURL }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">{{ .label }}</a>
+              {{ end }}
+              {{ end }}
+              {{ if .button_2.enable }}
+              {{ with .button_2 }}
+              <a href="{{ .link | absURL }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">{{ .label }}</a>
+              {{ end }}
+              {{ end }}
+              {{ if .button_3.enable }}
+              {{ with .button_3 }}
+              <a href="{{ .link | absURL }}" target="_blank" rel="noopener noreferrer" class="btn btn-white-md">{{ .label }}</a>
+              {{ end }}
+              {{ end }}
+	  </div>
         </div>
       </div>
     </div>
