@@ -23,12 +23,12 @@
           <!-- Action Button -->
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .link | absURL }}" target="_blank" rel="noopener noreferrer" class="btn btn-white-md float-right">{{ .label }}</a>
+          <a href="{{ .link | absURL }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">{{ .label }}</a>
           {{ end }}
           {{ end }}
           {{ if .button_2.enable }}
           {{ with .button_2 }}
-          <a href="{{ .link | absURL }}" target="blank" rel="noopener noreferrer" class="btn btn-white-md">{{ .label }}</a>
+          <a href="{{ .link | absURL }}" target="blank" rel="noopener noreferrer" class="btn btn-primary">{{ .label }}</a>
           {{ end }}
           {{ end }}
           {{ if .button_3.enable }}

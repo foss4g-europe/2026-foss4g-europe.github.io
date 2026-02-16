@@ -11,12 +11,12 @@ banner:
     day : 29
   button:
     enable: true
-    label: "Submit a proposal!"
-    link: "https://talks.osgeo.org/foss4g-europe-2026/cfp"
+    label: "Submit a proposal for workshop"
+    link: "https://talks.osgeo.org/foss4g-europe-2026-workshops/cfp"
   button_2:
-    enable: false
-    label: "stream recordings"
-    link: "/livestream/"
+    enable: true
+    label: "Submit a proposal for general program"
+    link: "https://talks.osgeo.org/foss4g-europe-2026/cfp"
   # button:
   #   enable : true
   #   label : "recordings on youtube"
