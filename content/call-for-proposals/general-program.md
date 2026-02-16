@@ -266,9 +266,9 @@ consider the proposal carefully.
 <p>
 {{<
     extlink
-    href="#"
+    href="https://talks.osgeo.org/foss4g-europe-2026/cfp"
     title="Submit a proposal for general program"       
-    class="btn btn-primary btn-lg disabled"
+    class="btn btn-primary btn-lg"
     rel="noopener noreferrer"
     >}}
 </p>
