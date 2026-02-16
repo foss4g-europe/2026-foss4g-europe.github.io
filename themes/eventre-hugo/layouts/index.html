@@ -23,7 +23,7 @@
           <!-- Action Button -->
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .link | absURL }}" target="blank" rel="noopener noreferrer" class="btn btn-white-md">{{ .label }}</a>
+          <a href="{{ .link | absURL }}" target="_blank" rel="noopener noreferrer" class="btn btn-white-md float-right">{{ .label }}</a>
           {{ end }}
           {{ end }}
           {{ if .button_2.enable }}

@@ -10,9 +10,9 @@ banner:
     month : 6
     day : 29
   button:
-    enable : false
-    label : "Academic track proceedings"
-    link : "https://isprs-archives.copernicus.org/articles/XLVIII-4-W13-2025/"
+    enable: true
+    label: "Submit a proposal!"
+    link: "https://talks.osgeo.org/foss4g-europe-2026/cfp"
   button_2:
     enable: false
     label: "stream recordings"
