@@ -46,7 +46,7 @@ for them will be different.
 ## Workshops
 
 ### Call for workshops
-26 January 2026 - 15 February 2026
+26 January 2026 - ~~15 February 2026~~ **20 February 2026**
 
 ---
 
