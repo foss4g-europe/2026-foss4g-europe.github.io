@@ -96,10 +96,6 @@ A **regular talk** is allocated to a 30 minute slot:
 - 5 minutes for questions and answers, and
 - 5 minutes for the participants to change rooms and next speaker setup.
 
-A **lightning talk** is a 5 minute speaker slot, with
-- 4 minutes for the talk, and
-- 1 minute for the next speaker setup.
-
 ## Submitting a proposal
 ### General topics
 When submitting your talk, you will be asked to select one general topic that
