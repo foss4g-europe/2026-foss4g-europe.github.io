@@ -24,7 +24,7 @@
 	  <div class="banner-buttons">
               {{ if .button.enable }}
               {{ with .button }}
-	      <a href="{{ .link | absURL }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">{{ .label }}</a>
+	      <a href="{{ .link | absURL }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary disabled">{{ .label }}</a>
               {{ end }}
               {{ end }}
               {{ if .button_2.enable }}

@@ -11,8 +11,8 @@ banner:
     day : 29
   button:
     enable: true
-    label: "Submit a proposal for workshop"
-    link: "https://talks.osgeo.org/foss4g-europe-2026-workshops/cfp"
+    label: "Community votes opens shortly"
+    link: "#"
   button_2:
     enable: true
     label: "Submit a proposal for general program"
