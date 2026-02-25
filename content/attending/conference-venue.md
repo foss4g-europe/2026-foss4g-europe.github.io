@@ -1,5 +1,5 @@
 ---
-title: "About Venue"
+title: "Conference Venue"
 page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2026-02-09T16:20:24+06:00
 map_select_id: [1,2,3,11]
@@ -27,7 +27,6 @@ The university also has multiple auditoriums suitable for parallel tracks.
 Timișoara has a long multicultural history and was designated European Cultural Capital for 2023.
 It is located in western Romania, close to Serbia and Hungary.
 
-
 ## Getting Around
 
 Timișoara is a walkable city, with taxis and ride-sharing available.
@@ -45,5 +44,5 @@ Timișoara is a walkable city, with taxis and ride-sharing available.
 
 ## Still Have Questions?
 
-For specific venue details or accessibility inquiries, please contact us at:  
+For specific venue details or accessibility inquiries, please contact us at:
 **info@foss4g-europe.org**
