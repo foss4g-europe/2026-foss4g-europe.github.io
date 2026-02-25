@@ -245,11 +245,12 @@ weight = 5
 #    name = "HOT OSM drone workshop"
 #    url = "schedule/hot-drone-mapping-workshop/"
 
-  [[menu.main]]
-    weight = 4
-    parent = "Schedule"
-    name = "Free city tour"
-    url = "schedule/city-tour/"
+#  [[menu.main]]
+#    weight = 4
+#    parent = "Schedule"
+#    name = "Free city tour"
+#    url = "schedule/city-tour/"
+#    moved to attending/optional-activities/timisoara-guided-tours/
 
   [[menu.main]]
     weight = 5
@@ -263,17 +264,19 @@ weight = 5
     name = "GeoChicas Timișoara"
     url = "schedule/geochicas-timisoara/"
 
-  [[menu.main]]
-    weight = 7
-    parent = "Schedule"
-    name = "Ice-Breaker"
-    url = "schedule/ice-breaker/"
+#  [[menu.main]]
+#    weight = 7
+#    parent = "Schedule"
+#    name = "Ice-Breaker"
+#    url = "schedule/ice-breaker/"
+#    moved to attending/social-activities/ice-breaker/
 
-  [[menu.main]]
-    weight = 8
-    parent = "Schedule"
-    name = "Social Bytes"
-    url = "schedule/social-bytes/"
+#  [[menu.main]]
+#    weight = 8
+#    parent = "Schedule"
+#    name = "Social Bytes"
+#    url = "schedule/social-bytes/"
+#    moved to attending/social-activities/social-bytes/
 
   [[menu.main]]
     weight = 9
@@ -287,23 +290,26 @@ weight = 5
     name = "Community Sprint"
     url = "schedule/community-sprint/"
 
-  [[menu.main]]
-    weight = 11
-    parent = "Schedule"
-    name = "Excursion"
-    url = "schedule/excursion/"
+#  [[menu.main]]
+#    weight = 11
+#    parent = "Schedule"
+#    name = "Excursion"
+#    url = "schedule/excursion/"
+#    moved to attending/optional-activities/wine-tasting/
 
-  [[menu.main]]
-    weight = 12
-    parent = "Schedule"
-    name = "Family friendly activities"
-    url = "schedule/family-friendly-activities/"
+#  [[menu.main]]
+#    weight = 12
+#    parent = "Schedule"
+#    name = "Family friendly activities"
+#    url = "schedule/family-friendly-activities/"
+#    moved to attending/optional-activities/family-friendly-activities/
 
-  [[menu.main]]
-    weight = 13
-    parent = "Schedule"
-    name = "Pub crawl"
-    url = "schedule/pub-crawl/"
+#  [[menu.main]]
+#    weight = 13
+#    parent = "Schedule"
+#    name = "Pub crawl"
+#    url = "schedule/pub-crawl/"
+#    moved to attending/social-activities/pub-crawl/
 
 ## Main menu item: Sponsors
 [[menu.main]]
@@ -356,29 +362,65 @@ weight = 7
   weight = 3
 
 
-## main menu item: Call for proposals
+## main menu item: Attending
 [[menu.main]]
-name = "Venue"
-url = "venue/"
+name = "Attending"
+url = "attending/"
 weight = 8
 
   [[menu.main]]
-  parent = "Venue"
-  name = "About venue"
-  url = "venue/about-venue/"
+  parent = "Attending"
+  name = "Conference Venue"
+  url = "attending/conference-venue/"
   weight = 1
 
   [[menu.main]]
-  parent = "Venue"
-  name = "Getting to Timișoara"
-  url = "venue/getting-to-timisoara/"
+  parent = "Attending"
+  name = "Accommodation"
+  url = "attending/accommodation/"
   weight = 2
 
   [[menu.main]]
-  parent = "Venue"
-  name = "Accommodation"
-  url = "venue/accommodation/"
+  parent = "Attending"
+  name = "Entry in Romania"
+  url = "attending/entry-in-romania/"
   weight = 3
+
+  [[menu.main]]
+  parent = "Attending"
+  name = "Social Activities"
+  url = "attending/social-activities/"
+  weight = 4
+
+  [[menu.main]]
+  parent = "Attending"
+  name = "Optional Activities"
+  url = "attending/optional-activities/"
+  weight = 5
+
+  [[menu.main]]
+  parent = "Attending"
+  name = "Getting to/around Timișoara"
+  url = "attending/getting-to-around-timisoara/"
+  weight = 6
+
+  [[menu.main]]
+  parent = "Attending"
+  name = "Tourism"
+  url = "attending/tourism/"
+  weight = 7
+
+  [[menu.main]]
+  parent = "Attending"
+  name = "Travel Guide"
+  url = "attending/travel-guide/"
+  weight = 8
+
+  [[menu.main]]
+  parent = "Attending"
+  name = "Merchandise"
+  url = "attending/merchandise/"
+  weight = 9
 
 #  [[menu.main]]
 #  parent = "About"
