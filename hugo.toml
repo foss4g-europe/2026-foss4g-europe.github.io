@@ -155,11 +155,17 @@ weight = 2
   url = "about/coc/"
   weight = 4
 
+  [[menu.main]]
+  parent = "About"
+  name = "Volunteers"
+  url = "volunteers/"
+  weight = 5
+
 #  [[menu.main]]
 #  parent = "About"
 #  name = "Organizing committee"
 #  url = "loc/"
-#  weight = 5
+#  weight = 6
 
 ## main menu item: Call for proposals
 [[menu.main]]
