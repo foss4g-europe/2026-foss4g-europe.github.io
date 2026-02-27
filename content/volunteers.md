@@ -51,7 +51,7 @@ You may also be called to support other stations when extra backup is needed.
 {{<
     extlink
     href="https://docs.google.com/forms/d/e/1FAIpQLSex2DBOFV7GzhPwzMXsx26jW6vytK_jHfJnfpEjVTgRGkTiXA/viewform"
-    title="Volunteer application form (Google Forms)"
+    title="Volunteer application form"
     class="btn btn-primary btn-lg center"
     rel="noopener noreferrer"
 >}}
