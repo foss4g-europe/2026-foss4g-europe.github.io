@@ -147,7 +147,7 @@ abstracts will be published online on the first day of the conference at the
 latest.
 
 The extended abstracts will be included in the FOSS4G Europe 2026 Proceedings,
-each with a distinct Digital Object Identifier (DOI) in Zenodo, an open-access
+each with a distinct Digital Object Identifier (DOI) in [Zenodo](https://zenodo.org/), an open-access
 online repository.
 
 In addition, the Scientific Committee is organising a Special Issue in a
