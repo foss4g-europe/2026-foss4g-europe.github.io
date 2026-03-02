@@ -1,7 +1,7 @@
 ---
 title : "Florina Ardelean"
 page_header_bg : "images/background/background-nn-1.jpeg"
-designation: "Academic Comitee"
+designation: "Academic Track Co-chair"
 date: 2026-03-02T10:05:00+02:00
 image: "images/team/florina-ardelean.jpeg"
 draft : false
