@@ -32,7 +32,7 @@ Following the established tradition, a Scientific Track running over the three
 days of FOSS4G Europe 2026 is organised, dedicated to scientific use cases and
 applications of free and open source geospatial software.
 
-The Scientific Committee of FOSS4G Europe 2026 invites original research
+The [Scientific Committee](https://2026.europe.foss4g.org/scientific-committee/) of FOSS4G Europe 2026 invites original research
 contributions addressing any topic or domain connected to FOSS4G, including but
 not limited to:
 
