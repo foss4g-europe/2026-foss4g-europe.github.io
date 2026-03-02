@@ -1,7 +1,7 @@
 ---
 title : "Marian Neagul"
 page_header_bg : "images/background/background-nn-1.jpeg"
-date: 2026-01-24T14:25:24+02:00
+date: 2026-03-01T12:50:24+02:00
 designation: "Conference Chair"
 image: "images/team/marian-neagul.jpeg"
 draft : false

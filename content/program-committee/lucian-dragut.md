@@ -1,7 +1,7 @@
 ---
 title : "Lucian Drăguț"
 page_header_bg : "images/background/background-nn-1.jpeg"
-designation: "Program Comitee"
+designation: "Academic Track Co-chair"
 date: 2026-01-29T15:05:00+02:00
 image: "images/team/lucian-dragut.png"
 draft : false

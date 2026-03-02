@@ -2,7 +2,7 @@
 title : "Marco Minghini"
 page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2026-02-18T10:00:00+02:00
-designation: "FOSS4G \"Made in Europe\" Chair"
+designation: "Academic Track Co-chair"
 image: "images/team/marco-minghini.png"
 draft : false
 type: "team"
