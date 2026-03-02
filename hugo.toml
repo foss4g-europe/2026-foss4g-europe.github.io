@@ -187,8 +187,8 @@ weight = 3
 
   [[menu.main]]
   parent = "Call for proposals"
-  name = "Academic Program"
-  url = "call-for-proposals/academic-program/"
+  name = "Scientific Program" 
+  url = "call-for-proposals/scientific-program/"
   weight = 6
 
 #  [[menu.main]]

@@ -26,7 +26,7 @@ Proceed to the [**general program talks call-for-proposals**](/call-for-proposal
 
 More details will be published closer to the event.
 
-## Academic Program
+## Scientific Program
 The CfP timeline will be published closer to the event.
 
-Proceed to the [**academic program call-for-proposals**](/call-for-proposals/academic-program/).
+Proceed to the [**scientific program call-for-proposals**](/call-for-proposals/scientific-program/).

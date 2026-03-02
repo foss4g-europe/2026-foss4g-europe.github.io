@@ -37,8 +37,8 @@ presentation at any time up to 30 minutes before your session starts. But please
 even if you really like living on the edge try not to leave it to the last
 minute. Things piling up somewhere there will not help the conference experience
 for any of us.
-- NB! Academic track presenters! Please use the general program submissions page
-also for Academic Track presentations. Let's collect presentations all under
+- NB! Scientific track presenters! Please use the general program submissions page
+also for Scientific Track presentations. Let's collect presentations all under
 the same pretalx event so they are easily accessible from the unified schedule.
 - Internet connectivity is there, but don’t rely solely on it.
 Oddly, things tend to break exactly at the moment of live demos.

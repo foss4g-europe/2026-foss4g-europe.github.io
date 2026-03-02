@@ -8,7 +8,7 @@ layout : "single"
 ---
 
 The following dates are preliminary and are subject to changes. Calls are
-planned to be opened for workshops, general, and academic program. Deadlines
+planned to be opened for workshops, general, and scientific program. Deadlines
 for them will be different.
 
 ## General Program
