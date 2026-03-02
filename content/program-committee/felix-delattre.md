@@ -2,7 +2,7 @@
 title: "Felix Delattre"
 page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2026-02-11T17:06:00+02:00
-designation: "Program Committee"
+designation: ""
 image: "images/team/felix-delattre.jpg"
 draft : false
 type: "team"
