@@ -2,7 +2,7 @@
 title : "Astrid Emde"
 page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2026-02-18T10:10:00+02:00
-designation: "FOSS4G \"Made in Europe\" Chair"
+designation: ""
 image: "images/team/astrid.jpg"
 draft : false
 type: "team"
