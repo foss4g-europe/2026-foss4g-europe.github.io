@@ -1,7 +1,7 @@
 ---
 title : "Marco Ciolli"
 page_header_bg : "images/background/background-nn-1.jpeg"
-designation: "Academic Track Co-chair"
+designation: "Scientific Track Co-chair"
 date: 2026-03-02T11:05:00+02:00
 image: "images/team/marco-ciolli.jpg"
 draft : false
