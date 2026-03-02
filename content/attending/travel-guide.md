@@ -1,8 +1,7 @@
 ---
-title: "Venue"
+title: "Travel Guide"
 page_header_bg: "images/background/background-nn-1.jpeg"
-date: 2024-11-06T20:41:24+02:00
-map_select_id: [1,2,3]
+date: 2026-01-01T00:00:00+02:00
 draft: false
 layout: "single"
 ---
