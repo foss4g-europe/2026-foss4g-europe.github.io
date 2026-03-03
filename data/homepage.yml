@@ -17,10 +17,10 @@ banner:
     enable: true
     label: "Submit a proposal for general program"
     link: "https://talks.osgeo.org/foss4g-europe-2026/cfp"
-  # button:
-  #   enable : true
-  #   label : "recordings on youtube"
-  #   link : "https://www.youtube.com/watch?v=NT7BifRbPqQ&list=PLqa06jy1NEM0QkCSb94zkEFvzRAMgaFY5"
+  button_3:
+    enable : true
+    label : "Scientific Track"
+    link : "https://2026.europe.foss4g.org/call-for-proposals/scientific-program/"
   # button_3:
   #   enable : true
   #   label : "Photos"
