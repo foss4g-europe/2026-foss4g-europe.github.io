@@ -318,7 +318,7 @@ sponsors:
   - name : "Platinum"
     sponsor_item:
     - name: "Quarticle"
-      logo: "images/sponsors/quarticle-logo-transparent.png"
+      logo: "images/sponsors/quarticle.png"
       link: "./sponsors/quarticle/"
 
 
@@ -332,6 +332,9 @@ sponsors:
     - name: "OPENGIS.ch"
       logo: "images/sponsors/opengisch-resize.png"
       link: "./sponsors/opengisch/"
+    - name: "GAUSS S.R.L."
+      logo: "images/sponsors/GAUSS.png"
+      link: "./sponsors/gauss/"
 
 
   - name : "Bronze"

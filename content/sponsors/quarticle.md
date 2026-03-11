@@ -3,7 +3,7 @@ title : "Quarticle"
 page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2026-01-23T17:39:24+03:00
 designation: "Platinum"
-image: "images/sponsors/quarticle-logo.png"
+image: "images/sponsors/quarticle.png"
 draft : false
 type: "sponsor"
 layout: "single"
