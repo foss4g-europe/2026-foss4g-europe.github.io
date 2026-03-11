@@ -329,6 +329,9 @@ sponsors:
 
   - name : "Silver"
     sponsor_item:
+    - name: "OPENGIS.ch"
+      logo: "images/sponsors/opengisch-resize.png"
+      link: "./sponsors/opengisch/"
 
 
   - name : "Bronze"

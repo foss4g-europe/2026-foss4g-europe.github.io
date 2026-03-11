@@ -7,4 +7,4 @@ draft : false
 type: "sponsor"
 ---
 
-Sponsors will be published closer to the event.
+<!-- Sponsors will be published closer to the event. -->
