@@ -3,7 +3,7 @@ title : "Stefanie Lumnitz"
 page_header_bg : "images/background/background-nn-1.jpeg"
 date: 2026-03-11T10:30:00+02:00
 designation: "FOSS4G Made in EUROPE Co-chair"
-image: "images/team/stefanie-lumnitz.png"
+image: "images/team/stefanie-lumnitz.jpg"
 draft : false
 type: "team"
 layout: "single"
