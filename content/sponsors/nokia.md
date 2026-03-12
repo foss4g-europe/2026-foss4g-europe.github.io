@@ -3,7 +3,7 @@ title : "Nokia"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2026-03-12T11:12:20+03:00
 designation: "Silver"
-image: "images/sponsors/nokia.svg"
+image: "images/sponsors/nokia.png"
 draft : false
 type: "sponsor"
 layout: "single"

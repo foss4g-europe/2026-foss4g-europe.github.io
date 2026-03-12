@@ -336,10 +336,10 @@ sponsors:
       logo: "images/sponsors/GAUSS.png"
       link: "./sponsors/gauss/"
     - name: "Nokia"
-      logo: "images/sponsors/nokia.svg"
+      logo: "images/sponsors/nokia.png"
       link: "./sponsors/nokia/"
     - name: "CS GROUP - ROMANIA"
-      logo: "images/sponsors/CS-GROUP.svg"
+      logo: "images/sponsors/CS-GROUP.png"
       link: "./sponsors/cs-group-romania/"
 
 

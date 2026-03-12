@@ -3,7 +3,7 @@ title : "CS GROUP - ROMANIA"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2026-03-12T10:30:00+02:00
 designation: "Silver"
-image: "images/sponsors/CS-GROUP.svg"
+image: "images/sponsors/CS-GROUP.png"
 draft : false
 type: "sponsor"
 layout: "single"
