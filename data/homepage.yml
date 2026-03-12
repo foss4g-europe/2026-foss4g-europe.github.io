@@ -335,6 +335,9 @@ sponsors:
     - name: "GAUSS S.R.L."
       logo: "images/sponsors/GAUSS.png"
       link: "./sponsors/gauss/"
+    - name: "Nokia"
+      logo: "images/sponsors/nokia.svg"
+      link: "./sponsors/nokia/"
 
 
   - name : "Bronze"
