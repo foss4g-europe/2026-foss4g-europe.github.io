@@ -26,6 +26,22 @@ layout: "single"
 
 <hr>
 
+<div>
+<center>
+<p>
+{{<
+    extlink
+    href="https://talks.osgeo.org/foss4g-europe-2026-academic-track/cfp"
+    title="Submit an abstract"
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer"
+>}}
+</p>
+</center>
+</div>
+
+<hr>
+
 ## Description
 
 Following the established tradition, a Scientific Track running over the three
@@ -160,4 +176,17 @@ journal remains subject to acceptance based on the journal review process
 More news will follow on this page as soon as the Special Issue is agreed with
 the journal.
 
-
+<hr>
+<div>
+<center>
+<p>
+{{<
+    extlink
+    href="https://talks.osgeo.org/foss4g-europe-2026-academic-track/cfp"
+    title="Submit an abstract"
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer"
+>}}
+</p>
+</center>
+</div>
