@@ -7,6 +7,10 @@ image: "images/sponsors/CS-GROUP.png"
 draft : false
 type: "sponsor"
 layout: "single"
+social:
+- name: "homepage"
+  icon: "fa-solid fa-house"
+  link: "https://www.c-s.ro/acasa"
 ---
 
 CS GROUP - ROMANIA, a proud affiliate of CS GROUP - France, has been shaping

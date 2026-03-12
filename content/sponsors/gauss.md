@@ -7,6 +7,10 @@ image: "images/sponsors/GAUSS.png"
 draft : false
 type: "sponsor"
 layout: "single"
+social:
+- name: "homepage"
+  icon: "fa-solid fa-house"
+  link: "https://www.gauss.ro"
 ---
 
 GAUSS is a Romanian leader in geodesy, topography, cadastre, and geographic

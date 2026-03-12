@@ -7,6 +7,10 @@ image: "images/sponsors/nokia.png"
 draft : false
 type: "sponsor"
 layout: "single"
+social:
+- name: "homepage"
+  icon: "fa-solid fa-house"
+  link: "https://www.nokia.com"
 ---
 
 Nokia is a global leader in connectivity for the AI era, providing the
