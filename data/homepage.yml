@@ -338,6 +338,9 @@ sponsors:
     - name: "Nokia"
       logo: "images/sponsors/nokia.svg"
       link: "./sponsors/nokia/"
+    - name: "CS GROUP - ROMANIA"
+      logo: "images/sponsors/CS-GROUP.svg"
+      link: "./sponsors/cs-group-romania/"
 
 
   - name : "Bronze"
