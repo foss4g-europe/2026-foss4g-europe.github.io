@@ -318,30 +318,29 @@ sponsors:
   - name : "Platinum"
     sponsor_item:
     - name: "Quarticle"
-      logo: "images/sponsors/quarticle.png"
+      logo: "images/sponsors/quarticle.svg"
       link: "./sponsors/quarticle/"
-
 
   - name : "Gold"
     sponsor_item:
 
-
-
   - name : "Silver"
     sponsor_item:
     - name: "OPENGIS.ch"
-      logo: "images/sponsors/opengisch-resize.png"
+      logo: "images/sponsors/opengisch.png"
       link: "./sponsors/opengisch/"
     - name: "GAUSS S.R.L."
-      logo: "images/sponsors/GAUSS.png"
+      logo: "images/sponsors/gauss-resized.png"
       link: "./sponsors/gauss/"
     - name: "Nokia"
-      logo: "images/sponsors/nokia.png"
+      logo: "images/sponsors/nokia.svg"
       link: "./sponsors/nokia/"
     - name: "CS GROUP - ROMANIA"
-      logo: "images/sponsors/CS-GROUP.png"
+      logo: "images/sponsors/CS-GROUP.svg"
       link: "./sponsors/cs-group-romania/"
-
+    - name: "Mergin Maps"
+      logo: "images/sponsors/merginmaps.svg"
+      link: "./sponsors/merginmaps/"
 
   - name : "Bronze"
     sponsor_item:
