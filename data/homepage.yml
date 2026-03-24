@@ -341,6 +341,9 @@ sponsors:
     - name: "Mergin Maps"
       logo: "images/sponsors/merginmaps.svg"
       link: "./sponsors/merginmaps/"
+    - name: "Consortis Geospatial"
+      logo: "images/sponsors/consortis.svg"
+      link: "./sponsors/consortis-geospatial/"
 
   - name : "Bronze"
     sponsor_item:
