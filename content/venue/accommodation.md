@@ -6,10 +6,10 @@ draft: false
 layout: "single"
 ---
 
+## Accommodation options
+
 Timișoara offers accommodation options for all types of budgets: from low cost hostels to premium hotels.
 There is also the option of renting private accommodations using services like AirBnB and Booking.
-
-## Accommodation options
 
 ### Hotel Timisoara
 
