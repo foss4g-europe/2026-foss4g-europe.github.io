@@ -59,7 +59,7 @@ music.
 
 <div class="row">
   <div class="col-md-6 mb-4">
-    <img src="/images/excursion/Recas-1.jpg" alt="Recas Winery exterior" class="img-fluid w-100">
+    <img src="/images/excursion/recas-1.jpg" alt="Recas Winery exterior" class="img-fluid w-100">
   </div>
   <div class="col-md-6 mb-4">
     <img src="/images/excursion/recas-2.jpg" alt="Recas Winery tasting experience" class="img-fluid w-100">
