@@ -8,18 +8,27 @@ draft: false
 layout: "single"
 ---
 
-**Date:** Tuesday, 30 June 2026 (proposed)
+## Business-to-business (B2B)
 
-## Business-to-business (B2B) event (TBD)
+Date: Monday, June 29, 2026, starting at 18:00
 
-The B2B event is planned to be organized on Tuesday and hosted at ICAM.
+Location: ZAZA Resto Pub
 
-The Aula of ICAM, shared spaces and meeting rooms are planned to be used for pitches and speed-dating.
+Address: Bulevardul Vasile Parvan 9, 300223 Timisoara,
+[Google Maps](https://maps.app.goo.gl/hUP11cEmiHSJUT2d6)
 
-## Planned pricing
+The B2B networking event offers a unique opportunity to connect with
+businesses, experts, and fellow participants in a relaxed atmosphere just
+across the university main venue and near the Bega River.
 
-- Early bird: 50€
-- Regular: 70€
-- On-site: 100€
+Finger food buffet (tortilla with smoked salmon, avocado and mixed salad, foie
+gras terrine with red onion jam, wagyu beef bruschetta and tonkatsu dressing,
+sandwich with brisket, horseradish and cedar sauce, hummus with pomegranate
+caviar and pickled cucumbers, toast with pork tenderloin and mushroom mousse,
+cedar cheese balls in charcoal crust, bison miniburgers with mammouth hot
+sauce) with open bar (water, coffee, beer, local wines) will be provided
+during the event.
 
-More details will be published closer to the event.
+This event is available to those who have purchased a B2B ticket.
+
+We look forward to welcoming you in Timisoara.
