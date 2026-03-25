@@ -254,7 +254,7 @@ weight = 5
   [[menu.main]]
     weight = 4
     parent = "Schedule"
-    name = "Free city tour"
+    name = "City tour"
     url = "schedule/city-tour/"
 
   [[menu.main]]
@@ -648,7 +648,7 @@ address = "Španjolski trg 1"
 location = [43.343114, 17.807355]
 icon = "social"
 events = [
-  {name="Free city tour", date="14 and 15 July", url="./schedule/city-tour/"},
+  {name="City tour", date="14 and 15 July", url="./schedule/city-tour/"},
 ]
 url = ""
 
