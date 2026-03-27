@@ -284,29 +284,35 @@ weight = 5
   [[menu.main]]
     weight = 9
     parent = "Schedule"
+    name = "Gala Dinner"
+    url = "schedule/gala-dinner/"
+
+  [[menu.main]]
+    weight = 10
+    parent = "Schedule"
     name = "Birds of a Feather (BoF)"
     url = "schedule/bof/"
 
   [[menu.main]]
-    weight = 10
+    weight = 11
     parent = "Schedule"
     name = "Community Sprint"
     url = "schedule/community-sprint/"
 
   [[menu.main]]
-    weight = 11
+    weight = 12
     parent = "Schedule"
     name = "Excursion"
     url = "schedule/excursion/"
 
   [[menu.main]]
-    weight = 12
+    weight = 13
     parent = "Schedule"
     name = "Family friendly activities"
     url = "schedule/family-friendly-activities/"
 
   [[menu.main]]
-    weight = 13
+    weight = 14
     parent = "Schedule"
     name = "Pub crawl"
     url = "schedule/pub-crawl/"
