@@ -29,8 +29,6 @@ towards diversity in our communities.
 A finger food buffet with vegetarian and vegan options and a hot and cold
 beverages bar will be available during the event.
 
-This event is available to those who have purchased a GeoChicas ticket.
-
 We look forward to welcoming you in Timisoara.
 
 
