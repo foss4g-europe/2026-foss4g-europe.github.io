@@ -26,13 +26,8 @@ GeoChicas is an event where you can meet other women and allies attending
 FOSS4G Europe 2026 who are interested in closing the gender gap and working
 towards diversity in our communities.
 
-Finger food buffet (smoked salmon and ricotta baskets, toast with eggplant and
-cherry tomato, almond crusted Camembert with carrot jam, tortilla with
-avocado, prosciutto cotto and mozzarella, grilled zucchini with feta in
-aromatic oil, bruschette with hummus and beetroot, Jalapeno cheese bubbles,
-mini mozzarella with cherry tomatoes and basil pesto) with open bar (water,
-coffee, lemonade and seasonal fruit, cocktails) will be provided during the
-event.
+A finger food buffet with vegetarian and vegan options and a hot and cold
+beverages bar will be available during the event.
 
 This event is available to those who have purchased a GeoChicas ticket.
 
