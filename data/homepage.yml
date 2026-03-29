@@ -12,9 +12,9 @@ banner:
   button:
     enable: true
     label: "Community vote"
-    link: "https://talks.osgeo.org/foss4g-europe-2026-workshops/p/voting/signup/"
+    link: "https://talks.osgeo.org/foss4g-europe-2026/p/voting/signup/"
   button_2:
-    enable: true
+    enable: false
     label: "Submit a proposal for general program"
     link: "https://talks.osgeo.org/foss4g-europe-2026/cfp"
   button_3:
