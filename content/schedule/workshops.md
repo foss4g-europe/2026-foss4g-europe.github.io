@@ -281,6 +281,8 @@ clearance.
 
 #### EOPF Zarr Explorer Workshop: Web Visualization Techniques and Resources for the GeoZarr Specification
 
+Ahmed
+
 Presented under the efforts of the EOPF Sentinel Zarr Explorer project,
 participants will learn how to leverage a modern, cloud-native tech stack to
 interact with multidimensional data on object storage. We will go through the
