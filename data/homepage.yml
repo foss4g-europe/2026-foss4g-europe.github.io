@@ -44,9 +44,9 @@ about:
     and students access to world-class education and insights from global
     experts, all while facilitating networking and knowledge exchange."
   button_solid:
-    enable : false
+    enable : true
     label : "Buy ticket"
-    link : "registration/"
+    link : "https://pretix.geo-spatial.org/foss4ge2026/timisoara2026/"
   button_outline:
     enable : true
     label : "Read more"
