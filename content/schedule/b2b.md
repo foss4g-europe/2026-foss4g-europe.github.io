@@ -2,7 +2,7 @@
 title: "Business-to-business"
 page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2025-02-02T14:09:24+02:00
-map_select_id: [9]
+map_select_id: [3]
 image: ""
 draft: false
 layout: "single"

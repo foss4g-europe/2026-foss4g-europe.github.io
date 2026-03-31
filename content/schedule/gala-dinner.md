@@ -2,6 +2,7 @@
 title: "Gala Dinner"
 page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2026-03-27T10:00:00+02:00
+map_select_id: [8]
 image: ""
 draft: false
 layout: "single"

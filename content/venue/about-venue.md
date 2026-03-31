@@ -2,7 +2,7 @@
 title: "About Venue"
 page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2026-02-09T16:20:24+06:00
-map_select_id: [1,2,3,11]
+map_select_id: [1,2,3,8]
 draft: false
 layout: "single"
 ---

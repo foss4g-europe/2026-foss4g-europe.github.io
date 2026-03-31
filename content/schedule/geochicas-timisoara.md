@@ -2,7 +2,7 @@
 title: "GeoChicas event"
 page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2025-02-02T13:55:24+06:00
-map_select_id: [27]
+map_select_id: [3]
 image: ""
 draft: false
 layout: "single"
