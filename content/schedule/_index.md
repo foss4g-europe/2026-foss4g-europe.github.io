@@ -37,9 +37,9 @@ More information will be provided in the following days.
 <hr>
 <center>
     <a href="#"
-       class="btn btn-primary btn-lg disabled"
+       class="btn btn-primary btn-lg"
        target="blank" rel="noopener noreferrer"
        style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="/images/icon/ticket.png" alt="Get your ticket!">
-	<span>Ticket sales opening soon</span></a>
+	<span>Get your ticket!</a>
 </center>
