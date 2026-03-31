@@ -336,12 +336,6 @@ hasChildren = true
   name = "Call for Sponsors"
   url = "sponsors/call-for-sponsors/"
 
-  [[menu.main]]
-    weight = 14
-    parent = "Schedule"
-    name = "Sponsored Events"
-    url = "schedule/sponsored-events/"
-
 ## main menu item: Commitees
 [[menu.main]]
 name = "Committees"
