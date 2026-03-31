@@ -347,6 +347,9 @@ sponsors:
 
   - name : "Bronze"
     sponsor_item:
+    - name: "Development Seed"
+      logo: "images/sponsors/developmentseed.png"
+      link: "./sponsors/development-seed/"
 
 
   - name : "Supporter"
