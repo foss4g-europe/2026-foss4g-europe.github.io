@@ -2,7 +2,7 @@
 title: "Birds-of-a-Feather"
 page_header_bg: "images/background/background-nn-1.jpeg"
 date: 2025-02-02T13:46:24+06:00
-map_select_id: [1,2,3,11]
+map_select_id: [1]
 draft: false
 layout: "single"
 ---
