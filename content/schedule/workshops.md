@@ -216,7 +216,7 @@ Participants will learn how to:
 - Collect data collaboratively by deploying projects to mobile devices and capturing data as a team, managing synchronization and version control
 - Publish results by seamlessly sharing finished projects as interactive web maps for non-GIS stakeholders
 
-### 14:00 - 16:00
+### 14:00 - 18:00
 
 #### Diving into pygeoapi Workshop
 
@@ -225,46 +225,6 @@ Tom Kralidis, Paul van Genuchten, Angelos Tzotsos, Just van den Broecke, Joana S
 pygeoapi is an OGC Reference Implementation supporting numerous OGC API
 specifications. This workshop will cover publishing geospatial data to the Web
 using pygeoapi in support of the suite of OGC API standards.
-
-### 16:00 - 18:00
-
-#### QGIS For You: Building a Plugin and Using Model Designer
-
-Json Singh
-
-If you are coming to FOSS4G you already know, or have heard, that QGIS is a
-great tool for working with GIS datasets. You load data, manipulate, download,
-upload, and there are thousands of plugins to choose from to make your life
-even easier.
-
-But let's say your workflow is not fitting in those available plugins, and you
-have a custom Python script to make some changes to the QGIS layers. How can we
-automate that or make it easier for the entire organization to run your
-purpose-built script?
-
-In this workshop we will look at two possible solutions:
-
-- QGIS Plugin Development
-- QGIS Model Designer
-
-QGIS Plugin Development will include:
-
-- Basic setup for plugin development
-- Writing a basic Python script
-- Some debugging practices
-- Using QT Designer for the UI
-- How to work with dependencies
-- Sharing your built plugin with your team
-
-QGIS Model Designer will include:
-
-- Creating a model
-- Saving and loading models
-- Running custom Python scripts as steps
-- Sharing models
-
-After this workshop, participants should walk away with a basic understanding
-of custom data manipulation capabilities of QGIS.
 
 ## Friday, 3 July 2026
 
@@ -421,3 +381,43 @@ Mapbender is a great open source solution for creating intuitive and
 high-performance WebGIS applications. Mapbender offers a set of tools that you
 can combine. This software solution enables users to quickly and easily publish
 applications online without having to write a single line of code.
+
+### 16:00 - 18:00
+
+#### QGIS For You: Building a Plugin and Using Model Designer
+
+Json Singh
+
+If you are coming to FOSS4G you already know, or have heard, that QGIS is a
+great tool for working with GIS datasets. You load data, manipulate, download,
+upload, and there are thousands of plugins to choose from to make your life
+even easier.
+
+But let's say your workflow is not fitting in those available plugins, and you
+have a custom Python script to make some changes to the QGIS layers. How can we
+automate that or make it easier for the entire organization to run your
+purpose-built script?
+
+In this workshop we will look at two possible solutions:
+
+- QGIS Plugin Development
+- QGIS Model Designer
+
+QGIS Plugin Development will include:
+
+- Basic setup for plugin development
+- Writing a basic Python script
+- Some debugging practices
+- Using QT Designer for the UI
+- How to work with dependencies
+- Sharing your built plugin with your team
+
+QGIS Model Designer will include:
+
+- Creating a model
+- Saving and loading models
+- Running custom Python scripts as steps
+- Sharing models
+
+After this workshop, participants should walk away with a basic understanding
+of custom data manipulation capabilities of QGIS.
