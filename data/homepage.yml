@@ -350,6 +350,9 @@ sponsors:
     - name: "Development Seed"
       logo: "images/sponsors/developmentseed.png"
       link: "./sponsors/development-seed/"
+    - name: "ETA2U Foundation"
+      logo: "images/sponsors/ETA2U_foundation.svg"
+      link: "./sponsors/eta2u-foundation/"
 
 
   - name : "Supporter"
