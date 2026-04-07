@@ -64,7 +64,7 @@ Whether you need a visa depends on your nationality. Please consult official res
 Invitation letters will be available for registered participants if required. If you need assistance or documentation, please contact the [FOSS4G Europe 2026 LOC](mailto:info-europe@foss4g.org) with your details.
 {{</ faq >}}
 
-{{< faq "Do I need to register? (Speakers and Workshop Presenters)" >}}
+{{< faq "Do I need to register?" >}}
 Yes, registration is mandatory for everyone. 
 * **Workshop Presenters:** Workshop presenters receive free access. Voucher codes will be shared via email once the workshop is accepted.
 * **Volunteers:** Accepted volunteers receive free access based on their agreement.
