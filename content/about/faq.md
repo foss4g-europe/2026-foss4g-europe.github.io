@@ -72,7 +72,7 @@ Yes, registration is mandatory for everyone.
 
 {{< faq "I want to get involved in the conference! How do I do that?" >}}
 We need you! Whether you're a social media wizard, a tech genius, a creative photographer, or a team player, you can help us shape the future of geospatial innovation. [Reach out to us today](mailto:info-europe@foss4g.org)—we can’t wait to hear from you!
-{{</ faq >}
+{{</ faq >}}
 
 {{< faq "Where can I find updates?" >}}
 All updates will be published on our [official website](https://2026.europe.foss4g.org). You can also follow us on social media:
