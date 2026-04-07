@@ -19,6 +19,10 @@ The conference is planned to take place from **29 June to 3 July 2026** in **Tim
 No, the official working language of the conference is English. All presentations and workshops shall be conducted in English to accommodate our international audience.
 {{</ faq >}}
 
+{{< faq "Have you considered a hybrid online-face to face event?" >}}
+No, FOSS4G Europe 2026 is planned as an in-person event. However, to accommodate a wider audience, we plan to provide online streaming of the conference sessions so enthusiasts who cannot attend in person can follow the talks virtually.
+{{</ faq >}}
+
 {{< faq "Who should attend?" >}}
 FOSS4G Europe is open to everyone interested in geospatial technologies:
 * Developers and GIS professionals
@@ -46,10 +50,6 @@ Yes, all presentations are planned to be recorded and made publicly available. A
 {{< extlink href="https://www.youtube.com/@FOSS4G" title="YouTube" >}}.
 {{</ faq >}}
 
-{{< faq "Have you considered a hybrid online-face to face event?" >}}
-No, FOSS4G Europe 2026 is planned as an in-person event. However, to accommodate a wider audience, we plan to provide online streaming of the conference sessions so enthusiasts who cannot attend in person can follow the talks virtually.
-{{</ faq >}}
-
 {{< faq "Can I submit a talk or workshop?" >}}
 Yes. A Call for Proposals (CfP) will be announced, following the combination of community voting and program committee review used across FOSS4G conferences. Stay tuned to our official website and social media for the announcement.
 {{</ faq >}}
@@ -72,7 +72,7 @@ Yes, registration is mandatory for everyone.
 
 {{< faq "I want to get involved in the conference! How do I do that?" >}}
 We need you! Whether you're a social media wizard, a tech genius, a creative photographer, or a team player, you can help us shape the future of geospatial innovation. [Reach out to us today](mailto:info-europe@foss4g.org)—we can’t wait to hear from you!
-{{</ faq >}}
+{{</ faq >}
 
 {{< faq "Where can I find updates?" >}}
 All updates will be published on our [official website](https://2026.europe.foss4g.org). You can also follow us on social media:
