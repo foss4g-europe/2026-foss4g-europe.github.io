@@ -7,6 +7,10 @@ image: "images/sponsors/consortis.png"
 draft : false
 type: "sponsor"
 layout: "single"
+social:
+- name: "homepage"
+  icon: "fa-solid fa-house"
+  link: "https://consortis-geo.gr"
 ---
 
 Consortis Geospatial is a geospatial technology and software company that
