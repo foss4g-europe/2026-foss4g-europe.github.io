@@ -353,6 +353,9 @@ sponsors:
     - name: "ETA2U Foundation"
       logo: "images/sponsors/ETA2U_foundation.svg"
       link: "./sponsors/eta2u-foundation/"
+    - name: "virtual7 GmbH"
+      logo: "images/sponsors/virtual7.svg"
+      link: "./sponsors/virtual7/"
 
 
   - name : "Supporter"
