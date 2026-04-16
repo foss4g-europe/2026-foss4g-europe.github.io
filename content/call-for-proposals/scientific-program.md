@@ -15,8 +15,8 @@ layout: "single"
 
 |   |                                      |
 |:--|-------------------------------------:|
-| Submission of abstracts: |            **02 March 2026 - 15 April 2026** |
-| Announcement of accepted talks: |                         **30 April 2026** |
+| Submission of abstracts: |            **02 March 2026 - <del>15 April 2026</del> (Extended to 22 April 2026)** |
+| Announcement of accepted talks: |                         **<del>30 April 2026</del> (Extended to 7 May 2026)** |
 | Full program: |                                         **May 2026** |
 | Submission of revised extended abstracts: |              **1 June 2026** |
 | Conference: |                              **29 June - 03 July 2026** |
@@ -98,7 +98,7 @@ Europe conference.
 
 ### Step 1
 
-**Deadline: 15 April 2026**
+**Deadline: <del>15 April 2026</del> (Extended to 22 April 2026)**
 
 As a first step, authors are invited to submit abstracts written in English,
 comprising between 800 and 1000 words and containing sufficient details for
