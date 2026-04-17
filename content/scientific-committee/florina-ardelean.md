@@ -2,7 +2,7 @@
 title : "Florina Ardelean"
 page_header_bg : "images/background/background-nn-1.jpeg"
 designation: "Scientific Committee Co-chair"
-date: 2026-03-02T10:05:00+02:00
+date: 2026-04-17T18:43:00+03:00
 image: "images/team/florina-ardelean.jpeg"
 draft : false
 type: "team"

@@ -1,7 +1,7 @@
 ---
 title : "Marco Minghini"
 page_header_bg : "images/background/background-nn-1.jpeg"
-date: 2026-02-18T10:00:00+02:00
+date: 2026-04-17T18:45:00+03:00
 designation: "Scientific Committee Co-chair"
 image: "images/team/marco-minghini.png"
 draft : false
