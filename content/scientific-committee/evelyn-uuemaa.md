@@ -2,7 +2,7 @@
 title : "Evelyn Uuemaa"
 page_header_bg : "images/background/background-nn-1.jpeg"
 designation: "Scientific Committee"
-date: 2026-04-17T18:45:00+03:00
+date: 2026-04-16T18:45:00+03:00
 image: "images/team/evelyn-uuemaa.jpg"
 draft : false
 type: "team"
