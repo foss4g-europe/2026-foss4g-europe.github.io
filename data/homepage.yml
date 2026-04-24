@@ -326,6 +326,9 @@ sponsors:
 
   - name : "Silver"
     sponsor_item:
+    - name: "HERE Technologies"
+      logo: "images/sponsors/here_logo.svg"
+      link: "./sponsors/here-technologies/"
     - name: "OPENGIS.ch"
       logo: "images/sponsors/opengisch.png"
       link: "./sponsors/opengisch/"
