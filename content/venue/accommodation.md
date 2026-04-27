@@ -85,10 +85,10 @@ e-mail is sent through the link from the above website.
 Location: Piata Sf. Gheorghe nr. 2-3, Timisoara 300085,
 [Google Maps](https://maps.app.goo.gl/wX3744oYH6HuA9Wf9)
 
-### Hotel Galaxy Timisoara (Radisson Individuals)
+### Hotel Galaxy Timisoara, a Member of Radisson Individuals
 
 This is a new hotel located in the central part of Timisoara, part of Radisson
-Individuals, and it will open starting in April. To benefit from the discount,
+Individuals, and it will open starting in May. To benefit from the discount,
 participants will have to reserve their rooms by accessing the following link:
 
 [Website](https://www.radissonhotels.com/en-us/hotels/radisson-individuals-galaxy-timisoara)
