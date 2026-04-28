@@ -1,0 +1,58 @@
+{{- $pctx := . -}}
+{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+{{- $pages := slice -}}
+{{- if or $.IsHome $.IsSection -}}
+  {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections -}}
+{{- else -}}
+  {{- $pages = where .Pages "Kind" "page" -}}
+{{- end -}}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+  {{- $pages = $pages | first $limit -}}
+{{- end -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ .Site.Title }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ with .Site.Params.description }}{{ . }}{{ end }}</description>
+    <language>{{ .Site.LanguageCode | default "en-us" }}</language>
+    <managingEditor>{{ with .Site.Params.feed_email }}{{ . }}{{ end }}{{ with .Site.Params.feed_author }} ({{ . }}){{ end }}</managingEditor>
+    <webMaster>{{ with .Site.Params.feed_email }}{{ . }}{{ end }}{{ with .Site.Params.feed_author }} ({{ . }}){{ end }}</webMaster>
+    <copyright>{{ with .Site.Params.copyright }}{{ . | plainify }}{{ end }}</copyright>
+    <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+    {{ with .OutputFormats.Get "RSS" }}
+    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
+    {{ end }}
+    <image>
+      <url>{{ "images/favicon.png" | absURL }}</url>
+      <title>{{ .Site.Title }}</title>
+      <link>{{ .Permalink }}</link>
+    </image>
+    {{- range $pages }}
+    <item>
+      <title>{{ .Title | plainify }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      <guid isPermaLink="true">{{ .Permalink }}</guid>
+      {{- with .Params.author }}
+      <dc:creator>{{ . }}</dc:creator>
+      {{- end }}
+      {{- range .Params.tags }}
+      <category>{{ . }}</category>
+      {{- end }}
+      {{- range .Params.categories }}
+      <category>{{ . }}</category>
+      {{- end }}
+      <description>{{ .Summary | html }}</description>
+      <content:encoded>{{ .Content | html }}</content:encoded>
+      {{- with .Params.image }}
+      <enclosure url="{{ . | absURL }}" type="image/jpeg" />
+      {{- end }}
+    </item>
+    {{- end }}
+  </channel>
+</rss>
