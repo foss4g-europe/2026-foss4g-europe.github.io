@@ -161,6 +161,12 @@ weight = 2
   url = "volunteers/"
   weight = 5
 
+  [[menu.main]]
+  parent = "About"
+  name = "Registration"
+  url = "registration/"
+  weight = 6
+
 #  [[menu.main]]
 #  parent = "About"
 #  name = "Organizing committee"
