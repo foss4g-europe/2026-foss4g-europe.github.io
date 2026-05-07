@@ -317,6 +317,12 @@ weight = 5
     name = "Pub crawl"
     url = "schedule/pub-crawl/"
 
+  [[menu.main]]
+    weight = 14
+    parent = "Schedule"
+    name = "Keynote speakers"
+    url = "speaker/"
+
 ## Main menu item: Sponsors
 [[menu.main]]
 name = "Sponsors"
