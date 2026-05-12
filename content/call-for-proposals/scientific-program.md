@@ -173,8 +173,37 @@ a full paper to this Special Issue is not compulsory. Publication in the
 journal remains subject to acceptance based on the journal review process
 (which, however, members of the Scientific Committee may facilitate).
 
-More news will follow on this page as soon as the Special Issue is agreed with
-the journal.
+### Special Issue Announcement: Geocarto International
+
+We are pleased to announce that the FOSS4G Europe 2026 Scientific Committee
+has partnered with the journal Geocarto International (Taylor & Francis) for a
+Special Issue titled:
+
+"The Open-Source Approach to Geospatial Applications: Progress and Prospects."
+
+This Article Collection aims to highlight how open-source innovation,
+encompassing software, data, and standards, drives technical efficiency,
+global equity, and evidence-based decision-making in modern geospatial
+science.
+
+### Connection to FOSS4G Europe 2026
+
+While this Special Issue is open to the broader scientific community, it
+serves as a primary publication venue for selected high-quality research
+presented at the FOSS4G Europe 2026 Scientific Track.
+
+### Key Information
+
+- Journal: Geocarto International (Open Access)
+- Guest Advisors: Prof. Dr. Lucian Daniel Dragut, Prof. Dr. Evelyn Uuemaa, and
+  Dr. Marian Neagul.
+- Manuscript Deadline: 31 January 2027.
+- Scope: Cloud-native geospatial standards, GeoAI, satellite time series
+  analysis, open-source deep learning frameworks, and participatory mapping
+  (VGI).
+
+For more details on the submission process and specific themes, please visit
+the official [Article Collection page](https://think.taylorandfrancis.com/article_collections/the-open-source-approach-to-geospatial-applications-progress-and-prospects/).
 
 <hr>
 <div>
