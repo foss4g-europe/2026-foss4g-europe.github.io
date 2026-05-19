@@ -5,7 +5,7 @@ date: 2025-02-02T14:11:24+02:00
 description : "FOSS4G Europe 2026 presentations schedule (proposed)."
 map_select_id: [1,2,3,8,11]
 draft : false
+type: "agenda"
 layout: "single"
+pretalx: "foss4g-europe-2026"
 ---
-
-The talks schedule will be published closer to the event.
