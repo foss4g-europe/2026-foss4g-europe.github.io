@@ -42,9 +42,9 @@ The 2026 call timeline will be published closer to the event.
 <p>
 {{<
     extlink
-    href="https://talks.osgeo.org/foss4g-europe-2026/cfp"
+    href="#"
     title="Submit a proposal for general program"       
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
     >}}
 </p>
@@ -262,9 +262,9 @@ consider the proposal carefully.
 <p>
 {{<
     extlink
-    href="https://talks.osgeo.org/foss4g-europe-2026/cfp"
+    href="#"
     title="Submit a proposal for general program"       
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
     >}}
 </p>

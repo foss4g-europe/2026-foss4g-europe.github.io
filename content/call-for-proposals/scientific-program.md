@@ -31,9 +31,9 @@ layout: "single"
 <p>
 {{<
     extlink
-    href="https://talks.osgeo.org/foss4g-europe-2026-academic-track/cfp"
+    href="#"
     title="Submit an abstract"
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
 >}}
 </p>
@@ -211,9 +211,9 @@ the official [Article Collection page](https://think.taylorandfrancis.com/articl
 <p>
 {{<
     extlink
-    href="https://talks.osgeo.org/foss4g-europe-2026-academic-track/cfp"
+    href="#"
     title="Submit an abstract"
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
 >}}
 </p>
