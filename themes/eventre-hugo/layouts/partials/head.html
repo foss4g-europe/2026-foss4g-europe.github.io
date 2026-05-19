@@ -34,6 +34,11 @@ AUTHOR WEBSITE: https://themefisher.com
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
 
+  {{ "<!--RSS Feed-->" | safeHTML }}
+  {{ with .OutputFormats.Get "RSS" }}
+  <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }} - Feed" href="{{ .Permalink }}" />
+  {{ end }}
+
   {{ "<!-- multilingual SEO optimizations -->" | safeHTML }}
   {{ if .IsTranslated }}
   {{ range .Page.AllTranslations }}

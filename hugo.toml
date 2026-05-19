@@ -40,6 +40,10 @@ target = '$1'
 [outputs]
 home = ["HTML", "RSS"]
 
+############################# RSS ##################################
+[services.rss]
+limit = 20
+
 ############################# Imaging ##############################
 [imaging]
 # See https://github.com/disintegration/imaging
@@ -437,6 +441,10 @@ logo_width = "100px"
 # Meta data
 description = "The FOSS4G Europe 2026 conference is planned to take place 29 June - 3 July 2026 in Timișoara, Romania."
 author = "Themefisher"
+# RSS feed metadata
+mainSections = ["blog"]
+feed_author = "FOSS4G Europe 2026 LOC"
+feed_email = "info-europe@foss4g.org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
