@@ -13,10 +13,26 @@ social:
   link: "https://www.geocat.com"
 ---
 
-GeoCat is a leading provider of open-source geospatial solutions, helping
-organizations build and operate robust Spatial Data Infrastructures (SDI).
+GeoCat provides advanced software and services that make publishing geographic
+and open data on the internet easier and more efficient than ever. Our expert
+developers play a leading role in open-source software, creating sustainable
+applications based on Open Standards and the Free and Open Source software
+philosophy.
 
-With a strong commitment to open standards and the FOSS ecosystem, GeoCat
-delivers enterprise-grade tools for cataloging, publishing, and managing
-geospatial data, supporting governments, NGOs, and businesses worldwide in
-turning data into actionable insights.
+Trusted by organizations such as the Dutch Cadastre (National Geo Register),
+Rijkswaterstaat, the Ministry of Economic Affairs and Agriculture, the Ministry
+of Environment and Climate Change Canada (ECCC), multiple national portals in
+and outside of Europe, and the European INSPIRE geoportal, our solutions play
+a key role in building robust dataspace infrastructures.
+
+Our product suite includes GeoCat Find (powered by GeoNetwork, the open-source
+catalog for geographic and open data), GeoCat Map (built on GeoServer), and
+GeoCat Bridge (seamlessly publishing data from your desktop GIS with a single
+click). For an even more streamlined experience, our solutions are available
+via our cloud platform, GeoCat Live.
+
+We also offer expert consultancy and training to help you get the most out of
+our products.
+
+Want to learn more? Contact us at [info@geocat.net](mailto:info@geocat.net) or
+visit [www.geocat.net](https://www.geocat.net).
