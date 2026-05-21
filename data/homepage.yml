@@ -363,6 +363,9 @@ sponsors:
 
   - name : "Supporter"
     sponsor_item:
+    - name: "QTIBIA Engineering"
+      logo: "images/sponsors/qtibia.jpeg"
+      link: "./sponsors/qtibia-engineering/"
 
 
 #  - name : "Media Partners"
