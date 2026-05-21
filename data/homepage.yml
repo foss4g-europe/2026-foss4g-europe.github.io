@@ -323,6 +323,9 @@ sponsors:
 
   - name : "Gold"
     sponsor_item:
+    - name: "GeoCat"
+      logo: "images/sponsors/geocat.svg"
+      link: "./sponsors/geocat/"
 
   - name : "Silver"
     sponsor_item:
