@@ -353,6 +353,9 @@ sponsors:
 
   - name : "Bronze"
     sponsor_item:
+    - name: "Terrasigna"
+      logo: "images/sponsors/terrasigna.png"
+      link: "./sponsors/terrasigna/"
     - name: "Development Seed"
       logo: "images/sponsors/developmentseed.png"
       link: "./sponsors/development-seed/"
