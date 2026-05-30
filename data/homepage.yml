@@ -329,6 +329,9 @@ sponsors:
 
   - name : "Silver"
     sponsor_item:
+    - name: "GeoSolutions"
+      logo: "images/sponsors/geosolutions-logo.svg"
+      link: "./sponsors/geosolutions/"
     - name: "HERE Technologies"
       logo: "images/sponsors/here_logo.svg"
       link: "./sponsors/here-technologies/"
