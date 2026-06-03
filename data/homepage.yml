@@ -302,6 +302,14 @@ orga:
     - name : "Romanian Space Agency (ROSA)"
       logo : "images/rosa_logo.png"
       link : "https://www.rosa.ro"
+  - name : "Institutional partners"
+    orga_item:
+    - name : "Primăria Municipiului Timișoara"
+      logo : "images/sponsors/primaria-timisoara.png"
+      link : "https://www.primariatm.ro/"
+    - name : "STPT (Societatea de Transport Public Timișoara)"
+      logo : "images/sponsors/stpt-logo.png"
+      link : "https://www.stpt.ro/"
 
 
 ############### Sponsors ##################
