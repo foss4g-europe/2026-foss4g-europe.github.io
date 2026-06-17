@@ -556,7 +556,6 @@ location = [45.761114, 21.229947]
 icon = "venue"
 events = [
  {name="OSGeo code sprint", date="4 - 5 July", url="./schedule/community-sprint/"},
- {name="QGIS contributors meeting", date="4 - 5 July", url="#"}
 ]
 url = "https://icam.uvt.ro"
 
