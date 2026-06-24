@@ -7,7 +7,7 @@ draft: false
 layout: "single"
 ---
 
-**Thursday (2 July), Friday (3 July) 2026 (proposed)**  
+**Tuesday (30 June) and Wednesday (1 July) 2026** 
 Birds of a Feather (BoF) sessions are unstructured timeslots where people can
 self-organise themselves to discuss topics of interest. So, if there are any
 specific topics you'd like to discuss face-to-face with other people this is
@@ -16,7 +16,7 @@ exactly the chance.
 BoF's can be held in BoF rooms at specified timeslots or taken off-site for
 breakfast, lunch, or dinner!
 
-The FOSS4G Europe conference provides the BoF rooms. Details on how to register and propose BoFs will be published closer to the event.
+The FOSS4G Europe conference provides the BoF rooms. Details on how to register and propose BoFs will be published closer to the event. You can also follow the planning and add your ideas on the [BoF wiki page](https://wiki.osgeo.org/wiki/FOSS4G-Europe-2026/BirdsOfAFeather).
 
 We will try to keep up and add the ones taking place during the allocated time
 slots also to [**the schedule**](/schedule/talks/)
