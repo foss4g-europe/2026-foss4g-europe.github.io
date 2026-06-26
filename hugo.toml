@@ -171,6 +171,12 @@ weight = 2
   url = "registration/"
   weight = 6
 
+  [[menu.main]]
+  parent = "About"
+  name = "Conference app"
+  url = "blog/2026-06-26-foss4ge2026-app/"
+  weight = 7
+
 #  [[menu.main]]
 #  parent = "About"
 #  name = "Organizing committee"
