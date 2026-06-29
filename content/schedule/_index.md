@@ -8,9 +8,6 @@ draft : false
 layout : "single"
 ---
 
-Registration will be open starting from: 18 February 2026. 
-More information will be provided in the following days.
-
 <style type="text/css">
  .schedule-fig {
      max-width: 1100px;
