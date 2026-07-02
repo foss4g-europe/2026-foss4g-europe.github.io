@@ -6,7 +6,7 @@ map_select_id: [2]
 draft: false
 layout: "single"
 ---
-**Dates: TBD**
+**Dates: 4 - 5 July (9:00 - 16:00)**
 
 FOSS4G Europe 2026 is planning to host the OSGeo community sprint.
 
@@ -21,6 +21,8 @@ projects! Conference registration is not a prerequisite for participation in
 the community sprint.
 
 Although participation in the sprint is free of charge, registration details will be published closer to the event.
+
+Location: [Institute of Advanced Environmental Research (ICAM) - Oituz 4c](https://www.openstreetmap.org/way/685059731)
 
 {{< figure
     src="https://wiki.osgeo.org/w/images/0/08/FOSS4G_2016_OSGeo_Code_Sprint_indoor_hacking_overview.jpg"
