@@ -22,7 +22,7 @@ the community sprint.
 
 Although participation in the sprint is free of charge, registration details will be published closer to the event.
 
-Location: ~~Institute of Advanced Environmental Research (ICAM) - Oituz 4c~~ [West University of Timișoara, rooms 003 and 104.](https://www.openstreetmap.org/way/97929100#map=18/45.747220/21.231291)
+Location: ~~Institute of Advanced Environmental Research (ICAM) - Oituz 4c~~ [West University of Timișoara, rooms 003 and 048.](https://www.openstreetmap.org/way/97929100#map=18/45.747220/21.231291)
 
 {{< figure
     src="https://wiki.osgeo.org/w/images/0/08/FOSS4G_2016_OSGeo_Code_Sprint_indoor_hacking_overview.jpg"
