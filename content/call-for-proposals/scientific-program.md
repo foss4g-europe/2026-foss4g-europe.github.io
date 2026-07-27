@@ -28,13 +28,35 @@ layout: "single"
 
 <div>
 <center>
-<p>
+<!--p>
 {{<
     extlink
     href="#"
     title="Submit an abstract"
     class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
+>}}
+</p-->
+<p>
+  <a href="/schedule/talks/" class="btn btn-primary btn-lg">Schedule</a>
+
+{{<
+  extlink
+  href="https://photos.geo-spatial.org/foss4g-europe-2026/"
+  title="Photos"       
+  class="btn btn-primary btn-lg"
+  rel="noopener noreferrer"
+>}}
+
+</p>
+<hr>
+<p>
+{{<
+  extlink
+  href="https://think.taylorandfrancis.com/article_collections/the-open-source-approach-to-geospatial-applications-progress-and-prospects/"
+  title="Academic track proceedings"       
+  class="btn btn-primary btn-lg"
+  rel="noopener noreferrer"
 >}}
 </p>
 </center>
@@ -208,13 +230,35 @@ the official [Article Collection page](https://think.taylorandfrancis.com/articl
 <hr>
 <div>
 <center>
-<p>
+<!--p>
 {{<
     extlink
     href="#"
     title="Submit an abstract"
     class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
+>}}
+</p-->
+<p>
+  <a href="/schedule/talks/" class="btn btn-primary btn-lg">Schedule</a>
+
+{{<
+  extlink
+  href="https://photos.geo-spatial.org/foss4g-europe-2026/"
+  title="Photos"       
+  class="btn btn-primary btn-lg"
+  rel="noopener noreferrer"
+>}}
+
+</p>
+<hr>
+<p>
+{{<
+  extlink
+  href="https://think.taylorandfrancis.com/article_collections/the-open-source-approach-to-geospatial-applications-progress-and-prospects/"
+  title="Academic track proceedings"       
+  class="btn btn-primary btn-lg"
+  rel="noopener noreferrer"
 >}}
 </p>
 </center>

@@ -39,7 +39,7 @@ The 2026 call timeline will be published closer to the event.
 <br>
 <div>
 <center>
-<p>
+<!--p>
 {{<
     extlink
     href="#"
@@ -47,8 +47,6 @@ The 2026 call timeline will be published closer to the event.
     class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
     >}}
-</p>
-<p>
 {{<
     extlink
     href="#"
@@ -56,9 +54,18 @@ The 2026 call timeline will be published closer to the event.
     class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
 >}}
-</p>
+</p-->
 <p>
   <a href="/schedule/talks/" class="btn btn-primary btn-lg">Schedule</a>
+
+{{<
+  extlink
+  href="https://photos.geo-spatial.org/foss4g-europe-2026/"
+  title="Photos"       
+  class="btn btn-primary btn-lg"
+  rel="noopener noreferrer"
+>}}
+
 </p>
 </center>
 </div>
@@ -259,7 +266,7 @@ consider the proposal carefully.
 <div>
 
 <center>
-<p>
+<!--p>
 {{<
     extlink
     href="#"
@@ -267,8 +274,6 @@ consider the proposal carefully.
     class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
     >}}
-</p>
-<p>
 {{<
     extlink
     href="#"
@@ -276,9 +281,18 @@ consider the proposal carefully.
     class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer"
 >}}
-</p>
+</p-->
 <p>
   <a href="/schedule/talks/" class="btn btn-primary btn-lg">Schedule</a>
+
+{{<
+  extlink
+  href="https://photos.geo-spatial.org/foss4g-europe-2026/"
+  title="Photos"       
+  class="btn btn-primary btn-lg"
+  rel="noopener noreferrer"
+>}}
+
 </p>
 </center>
 </div>

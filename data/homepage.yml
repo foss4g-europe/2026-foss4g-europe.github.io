@@ -11,16 +11,16 @@ banner:
     day : 29
   button:
     enable: true
-    label: "Community vote"
-    link: "https://talks.osgeo.org/foss4g-europe-2026/p/voting/signup/"
+    label: "Academic track proceedings"
+    link: "https://think.taylorandfrancis.com/article_collections/the-open-source-approach-to-geospatial-applications-progress-and-prospects/"
   button_2:
-    enable: false
-    label: "Submit a proposal for general program"
-    link: "https://talks.osgeo.org/foss4g-europe-2026/cfp"
-  button_3:
-    enable : true
-    label : "Scientific Track"
-    link : "https://2026.europe.foss4g.org/call-for-proposals/scientific-program/"
+    enable: true
+    label: "Photos"
+    link: "https://photos.geo-spatial.org/foss4g-europe-2026/"
+#  button_3:
+#    enable : true
+#    label : "Scientific Track"
+#    link : "https://2026.europe.foss4g.org/call-for-proposals/scientific-program/"
   # button_3:
   #   enable : true
   #   label : "Photos"
@@ -43,10 +43,10 @@ about:
     later as FOSS4G, arrives again in Romania, offering local professionals
     and students access to world-class education and insights from global
     experts, all while facilitating networking and knowledge exchange."
-  button_solid:
-    enable : true
-    label : "Buy ticket"
-    link : "https://pretix.geo-spatial.org/foss4ge2026/timisoara2026/"
+#  button_solid:
+#    enable : true
+#    label : "Buy ticket"
+#    link : "https://pretix.geo-spatial.org/foss4ge2026/timisoara2026/"
   button_outline:
     enable : true
     label : "Read more"
