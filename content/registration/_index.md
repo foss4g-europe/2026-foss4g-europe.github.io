@@ -9,7 +9,7 @@ layout : "single"
 
 <center>
     <a href="https://pretix.geo-spatial.org/foss4ge2026/timisoara2026/"
-        class="btn btn-primary btn-lg"
+        class="btn btn-primary btn-lg disabled"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="/images/icon/ticket.png" alt="Get your ticket!">
@@ -95,7 +95,7 @@ consequential damage.
 <hr>
 <center>
     <a href="https://pretix.geo-spatial.org/foss4ge2026/timisoara2026/"
-        class="btn btn-primary btn-lg"
+        class="btn btn-primary btn-lg disabled"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="/images/icon/ticket.png" alt="Get your ticket!">

@@ -203,7 +203,7 @@ weight = 3
 
   [[menu.main]]
   parent = "Call for proposals"
-  name = "Scientific Program" 
+  name = "Scientific Program"
   url = "call-for-proposals/scientific-program/"
   weight = 6
 
@@ -463,7 +463,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [params.navigation_button]
-enable = true
+enable = false
 label = "Get your ticket!"
 icon = "images/icon/ticket.png"
 link = "https://pretix.geo-spatial.org/foss4ge2026/timisoara2026/"
